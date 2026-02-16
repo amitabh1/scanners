@@ -1,0 +1,2705 @@
+Symbol,Last_Price,Industry,Sector
+VMO,9.99,Asset Management,Financial Services
+EGAN,9.99,Software - Application,Technology
+ORIC,9.99,Biotechnology,Healthcare
+TECTP,9.99,Banks - Regional,Financial Services
+EIM,9.99,Asset Management,Financial Services
+AMPX,9.97,Electrical Equipment & Parts,Industrials
+IGA,9.97,Asset Management,Financial Services
+EVV,9.95,Asset Management,Financial Services
+VKQ,9.95,Asset Management,Financial Services
+FCT,9.94,Asset Management,Financial Services
+BLBX,9.93,Software - Application,Technology
+INSG,9.9,Communication Equipment,Technology
+MFG,9.9,Banks - Regional,Financial Services
+NML,9.9,Asset Management,Financial Services
+JOBY,9.9,Airports & Air Services,Industrials
+KW,9.89,Real Estate Services,Real Estate
+MFA,9.89,REIT - Mortgage,Real Estate
+EKSO,9.87,Medical Instruments & Supplies,Healthcare
+LAKE,9.87,Apparel Manufacturing,Consumer Cyclical
+DRH,9.87,REIT - Hotel & Motel,Real Estate
+CSPI,9.86,Information Technology Services,Technology
+GNL,9.85,REIT - Diversified,Real Estate
+LXU,9.85,Chemicals,Basic Materials
+CLSK,9.85,Capital Markets,Financial Services
+IMTX,9.84,Biotechnology,Healthcare
+AFRI,9.84,Farm Products,Consumer Defensive
+YDES,9.84,Biotechnology,Healthcare
+OXLC,9.82,Asset Management,Financial Services
+GRX,9.82,Asset Management,Financial Services
+FTRE,9.79,Biotechnology,Healthcare
+ASM,9.79,Other Precious Metals & Mining,Basic Materials
+KELYA,9.79,Staffing & Employment Services,Industrials
+FUND,9.78,Asset Management,Financial Services
+ENGN,9.78,Biotechnology,Healthcare
+BW,9.75,Specialty Industrial Machinery,Industrials
+BTA,9.73,Asset Management,Financial Services
+FGEN,9.71,Biotechnology,Healthcare
+SLSR,9.7,Other Precious Metals & Mining,Basic Materials
+NIM,9.7,Asset Management,Financial Services
+GEOS,9.69,Oil & Gas Equipment & Services,Energy
+CLCO,9.67,Oil & Gas Midstream,Energy
+PFO,9.66,Asset Management,Financial Services
+BHK,9.66,Asset Management,Financial Services
+EXG,9.62,Asset Management,Financial Services
+TRIP,9.61,Travel Services,Consumer Cyclical
+WU,9.6,Credit Services,Financial Services
+ARDT,9.6,Medical Care Facilities,Healthcare
+DSP,9.56,Software - Application,Technology
+HSPTU,9.56,Shell Companies,Financial Services
+SERV,9.55,Specialty Industrial Machinery,Industrials
+NMR,9.54,Capital Markets,Financial Services
+SPIR,9.51,Specialty Business Services,Industrials
+ANL,9.51,Biotechnology,Healthcare
+STRRP,9.5,Conglomerates,Industrials
+VYX,9.49,Information Technology Services,Technology
+FA,9.49,Specialty Business Services,Industrials
+FTCI,9.49,Solar,Technology
+YMM,9.48,Software - Application,Technology
+SSSS,9.48,Asset Management,Financial Services
+BDJ,9.48,Asset Management,Financial Services
+DV,9.45,Advertising Agencies,Communication Services
+GT,9.44,Auto Parts,Consumer Cyclical
+ETW,9.43,Asset Management,Financial Services
+SNBR,9.42,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+NRDS,9.41,Internet Content & Information,Communication Services
+SUNS,9.41,REIT - Mortgage,Real Estate
+OIS,9.4,Oil & Gas Equipment & Services,Energy
+ERC,9.4,Asset Management,Financial Services
+HTCO,9.4,Marine Shipping,Industrials
+NSYS,9.39,Medical Devices,Healthcare
+BUR,9.39,Asset Management,Financial Services
+TIC,9.36,Specialty Business Services,Industrials
+VG,9.36,Oil & Gas Midstream,Energy
+UTZ,9.35,Packaged Foods,Consumer Defensive
+FDMT,9.35,Biotechnology,Healthcare
+VKI,9.35,Asset Management,Financial Services
+NAVI,9.34,Credit Services,Financial Services
+GRFS,9.32,Drug Manufacturers - General,Healthcare
+JMIA,9.32,Internet Retail,Consumer Cyclical
+NVNO,9.32,Medical Devices,Healthcare
+ONDS,9.31,Communication Equipment,Technology
+DCTH,9.31,Medical Devices,Healthcare
+ALOT,9.31,Computer Hardware,Technology
+PGP,9.31,Asset Management,Financial Services
+PLBL,9.3,Department Stores,Consumer Cyclical
+NCA,9.3,Asset Management,Financial Services
+SRL,9.29,Capital Markets,Financial Services
+DNA,9.29,Biotechnology,Healthcare
+FGBI,9.29,Banks - Regional,Financial Services
+DAO,9.28,Education & Training Services,Consumer Defensive
+LNZA,9.28,Waste Management,Industrials
+ELP,9.27,Utilities - Regulated Electric,Utilities
+ARHS,9.25,Specialty Retail,Consumer Cyclical
+CRML,9.24,Other Industrial Metals & Mining,Basic Materials
+STUB,9.23,Internet Content & Information,Communication Services
+GSBD,9.23,Asset Management,Financial Services
+SHO,9.22,REIT - Hotel & Motel,Real Estate
+LNKB,9.22,Banks - Regional,Financial Services
+BGC,9.21,Capital Markets,Financial Services
+RNAZ,9.21,Biotechnology,Healthcare
+KTF,9.2,Asset Management,Financial Services
+AIRO,9.2,Aerospace & Defense,Industrials
+AVTR,9.2,Medical Instruments & Supplies,Healthcare
+NUV,9.2,Asset Management,Financial Services
+SNFCA,9.2,Insurance - Life,Financial Services
+MBLY,9.19,Auto Parts,Consumer Cyclical
+GWRS,9.19,Utilities - Regulated Water,Utilities
+ITUB,9.16,Banks - Regional,Financial Services
+PCQ,9.12,Asset Management,Financial Services
+AOMR,9.12,REIT - Mortgage,Real Estate
+SNSE,9.09,Biotechnology,Healthcare
+BBDC,9.09,Asset Management,Financial Services
+ANTA,9.08,Credit Services,Financial Services
+MEI,9.07,Electronic Components,Technology
+NTIC,9.03,Specialty Chemicals,Basic Materials
+AXL,9.0,Auto Parts,Consumer Cyclical
+SNCR,9.0,Software - Infrastructure,Technology
+SHCO,8.99,Lodging,Consumer Cyclical
+DUOT,8.99,Software - Application,Technology
+LSPD,8.99,Software - Application,Technology
+PRTA,8.96,Biotechnology,Healthcare
+SGHC,8.96,Gambling,Consumer Cyclical
+BHM,8.96,REIT - Residential,Real Estate
+FLGC,8.95,Asset Management,Financial Services
+CBIO,8.94,Biotechnology,Healthcare
+SPCB,8.93,Security & Protection Services,Industrials
+RLAY,8.93,Biotechnology,Healthcare
+GNW,8.92,Insurance - Life,Financial Services
+OPFI,8.91,Credit Services,Financial Services
+SOC,8.89,Oil & Gas Drilling,Energy
+OCUL,8.88,Biotechnology,Healthcare
+GYRO,8.87,Real Estate Services,Real Estate
+BODI,8.86,Internet Content & Information,Communication Services
+TRTX,8.85,REIT - Mortgage,Real Estate
+FBRT,8.85,REIT - Mortgage,Real Estate
+SPRY,8.85,Biotechnology,Healthcare
+HYT,8.84,Asset Management,Financial Services
+SKYH,8.83,Real Estate - Development,Real Estate
+SRI,8.82,Auto Parts,Consumer Cyclical
+PASG,8.81,Biotechnology,Healthcare
+STRZ,8.79,Entertainment,Communication Services
+WIW,8.77,Asset Management,Financial Services
+NVCT,8.76,Biotechnology,Healthcare
+DDI,8.75,Electronic Gaming & Multimedia,Communication Services
+OPRX,8.75,Health Information Services,Healthcare
+UPB,8.75,Biotechnology,Healthcare
+FGNX,8.74,Asset Management,Financial Services
+HGLB,8.74,Asset Management,Financial Services
+INTR,8.73,Banks - Regional,Financial Services
+ETJ,8.71,Asset Management,Financial Services
+IVR,8.71,REIT - Mortgage,Real Estate
+NVAX,8.7,Biotechnology,Healthcare
+ELTK,8.7,Electronic Components,Technology
+OSS,8.7,Computer Hardware,Technology
+PCT,8.69,Pollution & Treatment Controls,Industrials
+SEVN,8.69,REIT - Mortgage,Real Estate
+TG,8.69,Metal Fabrication,Industrials
+AOUT,8.68,Leisure,Consumer Cyclical
+JYNT,8.68,Medical Care Facilities,Healthcare
+DMA,8.67,Asset Management,Financial Services
+LPCN,8.66,Biotechnology,Healthcare
+CRT,8.65,Oil & Gas E&P,Energy
+AGRO,8.65,Farm Products,Consumer Defensive
+KLRS,8.65,Biotechnology,Healthcare
+CION,8.64,Asset Management,Financial Services
+MITT,8.64,REIT - Mortgage,Real Estate
+PFLT,8.63,Asset Management,Financial Services
+MLEC,8.63,Biotechnology,Healthcare
+BWG,8.61,Asset Management,Financial Services
+KDK,8.61,Software - Infrastructure,Technology
+HLX,8.6,Oil & Gas Equipment & Services,Energy
+SLNHP,8.59,Capital Markets,Financial Services
+GNT,8.59,Asset Management,Financial Services
+RWAY,8.59,Asset Management,Financial Services
+KPTI,8.58,Biotechnology,Healthcare
+CPSS,8.57,Credit Services,Financial Services
+ELTX,8.55,Biotechnology,Healthcare
+PERI,8.54,Internet Content & Information,Communication Services
+DMAC,8.53,Biotechnology,Healthcare
+HCTI,8.53,Health Information Services,Healthcare
+MIND,8.5,Scientific & Technical Instruments,Technology
+KMDA,8.5,Drug Manufacturers - Specialty & Generic,Healthcare
+ZVRA,8.5,Biotechnology,Healthcare
+NNY,8.5,Asset Management,Financial Services
+BOOM,8.49,Conglomerates,Industrials
+QVCD,8.49,Unknown,Unknown
+QVCC,8.49,Unknown,Unknown
+PANL,8.48,Marine Shipping,Industrials
+BCBP,8.48,Banks - Regional,Financial Services
+GDL,8.48,Asset Management,Financial Services
+QUBT,8.47,Computer Hardware,Technology
+ABL,8.47,Insurance - Life,Financial Services
+MCRB,8.47,Biotechnology,Healthcare
+BSBK,8.45,Banks - Regional,Financial Services
+EPRX,8.42,Biotechnology,Healthcare
+FENC,8.42,Biotechnology,Healthcare
+PFL,8.4,Asset Management,Financial Services
+QNRX,8.4,Biotechnology,Healthcare
+LUMN,8.39,Telecom Services,Communication Services
+WIA,8.39,Asset Management,Financial Services
+ARCO,8.36,Restaurants,Consumer Cyclical
+PRCH,8.36,Software - Application,Technology
+NUS,8.36,Household & Personal Products,Consumer Defensive
+UNIT,8.36,REIT - Specialty,Real Estate
+INNV,8.36,Medical Care Facilities,Healthcare
+CYRX,8.35,Integrated Freight & Logistics,Industrials
+AEF,8.32,Asset Management,Financial Services
+NMFC,8.32,Asset Management,Financial Services
+ASST,8.31,Asset Management,Financial Services
+KURA,8.31,Biotechnology,Healthcare
+SCLX,8.31,Drug Manufacturers - General,Healthcare
+NVTS,8.3,Semiconductors,Technology
+JG,8.3,Software - Application,Technology
+XPOF,8.3,Leisure,Consumer Cyclical
+IHS,8.29,Real Estate Services,Real Estate
+RLJ,8.29,REIT - Hotel & Motel,Real Estate
+TGB,8.29,Copper,Basic Materials
+VMD,8.28,Medical Devices,Healthcare
+CYBN,8.28,Biotechnology,Healthcare
+BVS,8.27,Medical Devices,Healthcare
+VWAV,8.27,Aerospace & Defense,Industrials
+NYC,8.27,Real Estate Services,Real Estate
+BYFC,8.26,Banks - Regional,Financial Services
+CRNC,8.26,Software - Application,Technology
+INSE,8.26,Gambling,Consumer Cyclical
+FT,8.26,Asset Management,Financial Services
+JPC,8.25,Asset Management,Financial Services
+PDM,8.25,REIT - Office,Real Estate
+RYAM,8.24,Chemicals,Basic Materials
+GPRK,8.24,Oil & Gas E&P,Energy
+PSNL,8.21,Diagnostics & Research,Healthcare
+GLQ,8.19,Asset Management,Financial Services
+ADAM,8.16,REIT - Mortgage,Real Estate
+NRT,8.15,Oil & Gas E&P,Energy
+ARMP,8.15,Biotechnology,Healthcare
+TSSI,8.14,Information Technology Services,Technology
+CXH,8.14,Asset Management,Financial Services
+STHO,8.12,Real Estate Services,Real Estate
+CHW,8.11,Asset Management,Financial Services
+ANGI,8.1,Internet Content & Information,Communication Services
+YI,8.1,Medical Distribution,Healthcare
+PTEN,8.1,Oil & Gas Drilling,Energy
+LION,8.09,Unknown,Unknown
+JRS,8.09,Asset Management,Financial Services
+CCRN,8.08,Medical Care Facilities,Healthcare
+KRNY,8.08,Banks - Regional,Financial Services
+IEP,8.06,Oil & Gas Refining & Marketing,Energy
+RXST,8.04,Medical Devices,Healthcare
+CLM,8.04,Asset Management,Financial Services
+TIGR,8.03,Capital Markets,Financial Services
+IAE,8.03,Asset Management,Financial Services
+GYRE,8.02,Biotechnology,Healthcare
+RDW,8.02,Aerospace & Defense,Industrials
+SABA,8.01,Asset Management,Financial Services
+INLX,8.01,Software - Application,Technology
+TIL,7.99,Biotechnology,Healthcare
+SXC,7.99,Coking Coal,Basic Materials
+RGNX,7.99,Biotechnology,Healthcare
+MPX,7.98,Recreational Vehicles,Consumer Cyclical
+SBI,7.97,Asset Management,Financial Services
+REPL,7.97,Biotechnology,Healthcare
+SSL,7.96,Specialty Chemicals,Basic Materials
+OPP,7.94,Asset Management,Financial Services
+CDRO,7.94,Gambling,Consumer Cyclical
+AVAH,7.93,Medical Care Facilities,Healthcare
+MARA,7.92,Capital Markets,Financial Services
+ONTF,7.92,Software - Application,Technology
+SBDS,7.92,Internet Retail,Consumer Cyclical
+MSD,7.89,Asset Management,Financial Services
+VGI,7.88,Asset Management,Financial Services
+PML,7.87,Asset Management,Financial Services
+GASS,7.86,Marine Shipping,Industrials
+TROX,7.85,Chemicals,Basic Materials
+LUCK,7.83,Leisure,Consumer Cyclical
+LILAK,7.8,Telecom Services,Communication Services
+AP,7.79,Metal Fabrication,Industrials
+STLA,7.75,Auto Manufacturers,Consumer Cyclical
+ELVA,7.75,Electrical Equipment & Parts,Industrials
+ADT,7.74,Security & Protection Services,Industrials
+JFR,7.74,Asset Management,Financial Services
+NHS,7.73,Asset Management,Financial Services
+XBP,7.73,Software - Infrastructure,Technology
+DERM,7.73,Drug Manufacturers - Specialty & Generic,Healthcare
+TOYO,7.73,Solar,Technology
+QS,7.73,Auto Parts,Consumer Cyclical
+ABR,7.72,REIT - Mortgage,Real Estate
+HIMX,7.72,Semiconductors,Technology
+LILA,7.72,Telecom Services,Communication Services
+GHI,7.7,Mortgage Finance,Financial Services
+VSTS,7.7,Rental & Leasing Services,Industrials
+BNED,7.7,Specialty Retail,Consumer Cyclical
+KODK,7.67,Specialty Business Services,Industrials
+OBE,7.67,Oil & Gas E&P,Energy
+RSVR,7.65,Entertainment,Communication Services
+CFFN,7.64,Banks - Regional,Financial Services
+UAMY,7.62,Other Industrial Metals & Mining,Basic Materials
+BRID,7.62,Packaged Foods,Consumer Defensive
+UONEK,7.6,Broadcasting,Communication Services
+CRF,7.6,Asset Management,Financial Services
+AEG,7.58,Insurance - Diversified,Financial Services
+SSTI,7.58,Software - Application,Technology
+WRD,7.57,Software - Application,Technology
+ASAN,7.56,Software - Application,Technology
+CRBP,7.56,Biotechnology,Healthcare
+GEMI,7.56,Capital Markets,Financial Services
+SHMD,7.55,Specialty Industrial Machinery,Industrials
+EXPI,7.55,Real Estate Services,Real Estate
+AMCX,7.55,Entertainment,Communication Services
+INFU,7.54,Medical Devices,Healthcare
+ADXN,7.54,Biotechnology,Healthcare
+ORC,7.53,REIT - Mortgage,Real Estate
+USAS,7.53,Other Industrial Metals & Mining,Basic Materials
+TLRY,7.51,Drug Manufacturers - Specialty & Generic,Healthcare
+BAFN,7.51,Banks - Regional,Financial Services
+SENS,7.51,Medical Devices,Healthcare
+SCOR,7.5,Software - Application,Technology
+MTA,7.49,Other Precious Metals & Mining,Basic Materials
+CLDT,7.49,REIT - Hotel & Motel,Real Estate
+WEN,7.48,Restaurants,Consumer Cyclical
+MGRT,7.47,Information Technology Services,Technology
+ALAR,7.47,Software - Infrastructure,Technology
+VIR,7.47,Biotechnology,Healthcare
+SOUN,7.46,Software - Application,Technology
+MGTX,7.45,Biotechnology,Healthcare
+ASUR,7.43,Software - Application,Technology
+HDSN,7.4,Specialty Chemicals,Basic Materials
+OGN,7.39,Drug Manufacturers - General,Healthcare
+PFN,7.37,Asset Management,Financial Services
+HBNB,7.37,Real Estate Services,Real Estate
+CRMD,7.34,Biotechnology,Healthcare
+IMMX,7.33,Biotechnology,Healthcare
+RLGT,7.33,Integrated Freight & Logistics,Industrials
+AUDC,7.33,Communication Equipment,Technology
+CTOS,7.26,Rental & Leasing Services,Industrials
+KYTX,7.26,Biotechnology,Healthcare
+LGL,7.25,Scientific & Technical Instruments,Technology
+ASLE,7.24,Airports & Air Services,Industrials
+FRSH,7.24,Software - Application,Technology
+SMHI,7.22,Marine Shipping,Industrials
+MTEX,7.22,Food Distribution,Consumer Defensive
+FCEL,7.22,Electrical Equipment & Parts,Industrials
+ARCT,7.21,Biotechnology,Healthcare
+DRTS,7.21,Biotechnology,Healthcare
+DBI,7.19,Footwear & Accessories,Consumer Cyclical
+UAA,7.19,Apparel Manufacturing,Consumer Cyclical
+RPD,7.18,Software - Infrastructure,Technology
+MAX,7.17,Internet Content & Information,Communication Services
+TH,7.15,Specialty Business Services,Industrials
+SPT,7.15,Software - Application,Technology
+SSM,7.15,Auto Manufacturers,Consumer Cyclical
+NCEW,7.14,Integrated Freight & Logistics,Industrials
+ACCS,7.12,Advertising Agencies,Communication Services
+YALA,7.12,Software - Application,Technology
+OEC,7.11,Specialty Chemicals,Basic Materials
+JBI,7.1,Building Products & Equipment,Industrials
+IHD,7.08,Asset Management,Financial Services
+LFCR,7.08,Drug Manufacturers - Specialty & Generic,Healthcare
+PNI,7.07,Asset Management,Financial Services
+CGNT,7.06,Software - Infrastructure,Technology
+ELWS,7.06,Software - Application,Technology
+NVA,7.06,Other Industrial Metals & Mining,Basic Materials
+PAL,7.05,Integrated Freight & Logistics,Industrials
+TKC,7.05,Telecom Services,Communication Services
+IMSR,7.04,Utilities - Regulated Electric,Utilities
+MVF,7.04,Asset Management,Financial Services
+NOK,7.03,Communication Equipment,Technology
+LFST,7.03,Medical Care Facilities,Healthcare
+KREF,7.01,REIT - Mortgage,Real Estate
+MHF,7.0,Asset Management,Financial Services
+AHMA,7.0,Travel Services,Consumer Cyclical
+CIO,6.99,REIT - Office,Real Estate
+TEI,6.99,Asset Management,Financial Services
+UA,6.97,Apparel Manufacturing,Consumer Cyclical
+AEYE,6.96,Software - Application,Technology
+RMAX,6.94,Real Estate Services,Real Estate
+WKEY,6.94,Semiconductors,Technology
+PD,6.94,Software - Application,Technology
+ALGS,6.91,Biotechnology,Healthcare
+ACET,6.91,Biotechnology,Healthcare
+LAR,6.91,Other Industrial Metals & Mining,Basic Materials
+IMA,6.91,Biotechnology,Healthcare
+MHH,6.91,Staffing & Employment Services,Industrials
+LEE,6.9,Publishing,Communication Services
+ZTR,6.89,,
+DPRO,6.89,Computer Hardware,Technology
+AHH,6.89,REIT - Diversified,Real Estate
+ARDX,6.87,Biotechnology,Healthcare
+JRVR,6.87,Insurance - Specialty,Financial Services
+LZ,6.87,Specialty Business Services,Industrials
+EAD,6.86,Asset Management,Financial Services
+SBET,6.85,Advertising Agencies,Communication Services
+NNAVW,6.85,,
+QUIK,6.84,Semiconductors,Technology
+RILY,6.82,Financial Conglomerates,Financial Services
+XERS,6.82,Biotechnology,Healthcare
+PBYI,6.82,Biotechnology,Healthcare
+AQN,6.81,Utilities - Diversified,Utilities
+CRSR,6.79,Computer Hardware,Technology
+SIGA,6.79,Drug Manufacturers - Specialty & Generic,Healthcare
+ARKR,6.78,Restaurants,Consumer Cyclical
+ACHR,6.77,Aerospace & Defense,Industrials
+TSQ,6.77,Advertising Agencies,Communication Services
+BCRX,6.76,Drug Manufacturers - Specialty & Generic,Healthcare
+MAGH,6.76,Engineering & Construction,Industrials
+ATHA,6.75,Biotechnology,Healthcare
+HAFN,6.73,Marine Shipping,Industrials
+PDYN,6.72,Software - Infrastructure,Technology
+KVHI,6.71,Telecom Services,Communication Services
+APVO,6.71,Biotechnology,Healthcare
+HRZN,6.67,Asset Management,Financial Services
+FIEE,6.67,Communication Equipment,Technology
+EAF,6.67,Electrical Equipment & Parts,Industrials
+GECC,6.66,Asset Management,Financial Services
+YDDL,6.66,Waste Management,Industrials
+SEAT,6.66,Internet Content & Information,Communication Services
+ALTG,6.64,Rental & Leasing Services,Industrials
+CERT,6.62,Health Information Services,Healthcare
+ACVA,6.61,Auto & Truck Dealerships,Consumer Cyclical
+PROF,6.6,Medical Devices,Healthcare
+PGRE,6.6,REIT - Office,Real Estate
+SWIM,6.6,Building Products & Equipment,Industrials
+ICCC,6.6,Biotechnology,Healthcare
+UG,6.6,Household & Personal Products,Consumer Defensive
+RWT,6.59,REIT - Mortgage,Real Estate
+BSBR,6.59,Banks - Regional,Financial Services
+AEC,6.59,Uranium,Energy
+HPP,6.58,REIT - Office,Real Estate
+GDYN,6.58,Information Technology Services,Technology
+WHF,6.55,Asset Management,Financial Services
+DHC,6.55,REIT - Healthcare Facilities,Real Estate
+RIG,6.54,Oil & Gas Drilling,Energy
+QUAD,6.54,Specialty Business Services,Industrials
+BBCP,6.54,Engineering & Construction,Industrials
+EHI,6.54,Asset Management,Financial Services
+PUBM,6.54,Software - Application,Technology
+TLX,6.54,Biotechnology,Healthcare
+RNAC,6.52,Biotechnology,Healthcare
+TARA,6.51,Biotechnology,Healthcare
+KPLT,6.5,Software - Infrastructure,Technology
+LEO,6.49,Asset Management,Financial Services
+MASS,6.49,Medical Devices,Healthcare
+BTX,6.48,Asset Management,Financial Services
+MOMO,6.48,Internet Content & Information,Communication Services
+SAIH,6.47,Information Technology Services,Technology
+SITC,6.46,REIT - Retail,Real Estate
+STKL,6.44,Beverages - Non-Alcoholic,Consumer Defensive
+EHLD,6.44,Marine Shipping,Industrials
+PEPG,6.44,Biotechnology,Healthcare
+CLRO,6.43,Communication Equipment,Technology
+BRW,6.43,Asset Management,Financial Services
+XXII,6.43,Tobacco,Consumer Defensive
+LUD,6.43,Steel,Basic Materials
+HFRO,6.42,Asset Management,Financial Services
+ULBI,6.42,Electrical Equipment & Parts,Industrials
+CODI,6.39,Conglomerates,Industrials
+CCCXW,6.37,,
+WHLRP,6.37,REIT - Retail,Real Estate
+GTM,6.36,Software - Application,Technology
+AMPL,6.34,Software - Application,Technology
+PMM,6.34,Asset Management,Financial Services
+OIA,6.34,Asset Management,Financial Services
+KRO,6.33,Specialty Chemicals,Basic Materials
+ARKO,6.33,Specialty Retail,Consumer Cyclical
+MCR,6.32,Asset Management,Financial Services
+LXEO,6.31,Biotechnology,Healthcare
+KZR,6.3,Biotechnology,Healthcare
+GAB,6.3,Asset Management,Financial Services
+NL,6.3,Security & Protection Services,Industrials
+GLV,6.29,Asset Management,Financial Services
+CXDO,6.29,Telecom Services,Communication Services
+VIRC,6.29,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+CMPX,6.28,Biotechnology,Healthcare
+NERV,6.27,Biotechnology,Healthcare
+ESRT,6.27,REIT - Diversified,Real Estate
+RGTIW,6.26,,
+DENN,6.25,Restaurants,Consumer Cyclical
+BLMN,6.25,Restaurants,Consumer Cyclical
+DSM,6.24,Asset Management,Financial Services
+FFWM,6.24,Banks - Regional,Financial Services
+ASTI,6.23,Solar,Technology
+JFIN,6.23,Internet Content & Information,Communication Services
+MRCC,6.22,Asset Management,Financial Services
+RDNW,6.22,Auto & Truck Dealerships,Consumer Cyclical
+JMM,6.21,Asset Management,Financial Services
+SQFTP,6.21,REIT - Diversified,Real Estate
+UNCY,6.2,Biotechnology,Healthcare
+FTF,6.19,Asset Management,Financial Services
+SLDB,6.19,Biotechnology,Healthcare
+RDAC,6.17,Shell Companies,Financial Services
+EDD,6.17,Asset Management,Financial Services
+IVA,6.17,Biotechnology,Healthcare
+MCN,6.17,Asset Management,Financial Services
+IMMR,6.16,Software - Application,Technology
+GSIT,6.14,Semiconductors,Technology
+SWZ,6.14,Unknown,Unknown
+MAAS,6.14,Asset Management,Financial Services
+PCF,6.13,Asset Management,Financial Services
+PHGE,6.13,Biotechnology,Healthcare
+AXIL,6.12,Consumer Electronics,Technology
+TE,6.12,Electrical Equipment & Parts,Industrials
+BGY,6.11,Asset Management,Financial Services
+PSFE,6.11,Software - Infrastructure,Technology
+ZBAI,6.1,Capital Markets,Financial Services
+NEXN,6.1,Advertising Agencies,Communication Services
+TMC,6.09,Other Industrial Metals & Mining,Basic Materials
+VNDA,6.09,Biotechnology,Healthcare
+GUT,6.08,Asset Management,Financial Services
+ZURA,6.08,Biotechnology,Healthcare
+EOD,6.08,Asset Management,Financial Services
+CSBR,6.08,Biotechnology,Healthcare
+PCM,6.07,Asset Management,Financial Services
+OPTX,6.06,Electronic Components,Technology
+AZ,6.05,Software - Application,Technology
+HUHU,6.04,Specialty Industrial Machinery,Industrials
+MBI,6.04,Insurance - Specialty,Financial Services
+RVYL,6.03,Software - Infrastructure,Technology
+MLCI,6.02,Asset Management,Financial Services
+BULL,6.01,Software - Application,Technology
+GLO,6.01,Asset Management,Financial Services
+USA,6.0,Asset Management,Financial Services
+CING,6.0,Biotechnology,Healthcare
+FIP,6.0,Conglomerates,Industrials
+BHC,5.99,Drug Manufacturers - Specialty & Generic,Healthcare
+SB,5.99,Marine Shipping,Industrials
+CIA,5.98,Insurance - Life,Financial Services
+OCC,5.98,Communication Equipment,Technology
+RENT,5.97,Apparel Retail,Consumer Cyclical
+PACK,5.97,Packaging & Containers,Consumer Cyclical
+MCW,5.97,Auto & Truck Dealerships,Consumer Cyclical
+RUM,5.96,Internet Content & Information,Communication Services
+IBRX,5.95,Biotechnology,Healthcare
+DJTWW,5.95,,
+SUGP,5.94,Security & Protection Services,Industrials
+ENVX,5.92,Electrical Equipment & Parts,Industrials
+COUR,5.92,Education & Training Services,Consumer Defensive
+JBLU,5.91,Airlines,Industrials
+NSRX,5.9,Drug Manufacturers - General,Healthcare
+NPT,5.9,Specialty Retail,Consumer Cyclical
+CHPT,5.9,Specialty Retail,Consumer Cyclical
+BGSF,5.87,Staffing & Employment Services,Industrials
+IGD,5.87,Asset Management,Financial Services
+CMTL,5.86,Communication Equipment,Technology
+DC,5.84,Gold,Basic Materials
+PXLW,5.83,Semiconductors,Technology
+RES,5.82,Oil & Gas Equipment & Services,Energy
+VSTM,5.82,Biotechnology,Healthcare
+AIV,5.82,REIT - Residential,Real Estate
+DOYU,5.81,Internet Content & Information,Communication Services
+CMPS,5.81,Medical Care Facilities,Healthcare
+NB,5.8,Other Industrial Metals & Mining,Basic Materials
+GENI,5.79,Internet Content & Information,Communication Services
+XNET,5.79,Software - Infrastructure,Technology
+GFR,5.78,Oil & Gas E&P,Energy
+QMCO,5.78,Computer Hardware,Technology
+RVSN,5.78,Railroads,Industrials
+FSCO,5.77,Asset Management,Financial Services
+NUVB,5.77,Biotechnology,Healthcare
+TRT,5.77,Semiconductor Equipment & Materials,Technology
+INGN,5.76,Medical Devices,Healthcare
+RCS,5.75,Asset Management,Financial Services
+QTRX,5.74,Medical Devices,Healthcare
+ICL,5.73,Agricultural Inputs,Basic Materials
+BRSP,5.73,REIT - Mortgage,Real Estate
+MNTS,5.71,Aerospace & Defense,Industrials
+AVR,5.71,Medical Instruments & Supplies,Healthcare
+EWCZ,5.71,Household & Personal Products,Consumer Defensive
+SKIL,5.7,Education & Training Services,Consumer Defensive
+ACP,5.7,Asset Management,Financial Services
+VRCA,5.69,Biotechnology,Healthcare
+SJT,5.69,Oil & Gas E&P,Energy
+CADL,5.68,Biotechnology,Healthcare
+EVLV,5.68,Security & Protection Services,Industrials
+SONM,5.67,Software - Infrastructure,Technology
+CLYM,5.67,Biotechnology,Healthcare
+MNKD,5.66,Biotechnology,Healthcare
+MTLS,5.65,Software - Application,Technology
+RERE,5.65,Internet Retail,Consumer Cyclical
+NCTY,5.65,Capital Markets,Financial Services
+TPVG,5.65,Asset Management,Financial Services
+BORR,5.64,Oil & Gas Drilling,Energy
+QVCGP,5.63,Internet Retail,Consumer Cyclical
+FSI,5.63,Specialty Chemicals,Basic Materials
+GGN,5.63,Asset Management,Financial Services
+CNF,5.62,Mortgage Finance,Financial Services
+FGI,5.62,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+FORR,5.61,Consulting Services,Industrials
+LYG,5.61,Banks - Regional,Financial Services
+WEAV,5.6,Health Information Services,Healthcare
+GURE,5.6,Chemicals,Basic Materials
+SVRA,5.6,Biotechnology,Healthcare
+MI,5.6,Internet Retail,Consumer Cyclical
+PSIG,5.59,Integrated Freight & Logistics,Industrials
+AIRG,5.58,Communication Equipment,Technology
+POET,5.58,Semiconductors,Technology
+YEXT,5.57,Software - Infrastructure,Technology
+AURA,5.57,Biotechnology,Healthcare
+GTE,5.57,Oil & Gas E&P,Energy
+IMDX,5.57,Diagnostics & Research,Healthcare
+CMCM,5.56,Internet Content & Information,Communication Services
+DLHC,5.56,Specialty Business Services,Industrials
+SLNG,5.55,Oil & Gas Integrated,Energy
+FHTX,5.55,Biotechnology,Healthcare
+CVKD,5.54,Biotechnology,Healthcare
+MFM,5.54,Asset Management,Financial Services
+FINV,5.54,Credit Services,Financial Services
+MLCO,5.53,Resorts & Casinos,Consumer Cyclical
+AENT,5.5,Entertainment,Communication Services
+CXM,5.49,Software - Application,Technology
+LTRX,5.48,Communication Equipment,Technology
+ACDC,5.47,Oil & Gas Equipment & Services,Energy
+XPER,5.46,Software - Application,Technology
+ILPT,5.46,REIT - Industrial,Real Estate
+JLHL,5.43,Building Products & Equipment,Industrials
+ECOR,5.43,Medical Devices,Healthcare
+AMPY,5.42,Oil & Gas E&P,Energy
+RVSB,5.42,Banks - Regional,Financial Services
+ASPS,5.41,Real Estate Services,Real Estate
+AMWL,5.4,Health Information Services,Healthcare
+BTG,5.4,Gold,Basic Materials
+FPH,5.4,Real Estate - Development,Real Estate
+OWLS,5.4,Software - Infrastructure,Technology
+NMAX,5.4,Broadcasting,Communication Services
+PTLO,5.4,Restaurants,Consumer Cyclical
+PRTH,5.39,Software - Infrastructure,Technology
+PAYO,5.39,Software - Infrastructure,Technology
+TZOO,5.37,Internet Content & Information,Communication Services
+SND,5.36,Oil & Gas Equipment & Services,Energy
+SGHT,5.36,Medical Devices,Healthcare
+VENU,5.35,Restaurants,Consumer Cyclical
+NABL,5.35,Information Technology Services,Technology
+RNW,5.35,Utilities - Renewable,Utilities
+ULCC,5.35,Airlines,Industrials
+MOB,5.35,Aerospace & Defense,Industrials
+GBIO,5.34,Biotechnology,Healthcare
+DIBS,5.32,Internet Content & Information,Communication Services
+CTMX,5.32,Biotechnology,Healthcare
+VOXR,5.31,Other Precious Metals & Mining,Basic Materials
+ODYS,5.29,Scientific & Technical Instruments,Technology
+ALDX,5.28,Biotechnology,Healthcare
+GSM,5.28,Other Industrial Metals & Mining,Basic Materials
+AVD,5.28,Agricultural Inputs,Basic Materials
+LDWY,5.25,Advertising Agencies,Communication Services
+EVF,5.25,Asset Management,Financial Services
+ARBB,5.25,Information Technology Services,Technology
+BCYC,5.24,Biotechnology,Healthcare
+BGS,5.23,Packaged Foods,Consumer Defensive
+ASPI,5.22,Chemicals,Basic Materials
+EARN,5.22,Asset Management,Financial Services
+WOW,5.2,Telecom Services,Communication Services
+OPHC,5.2,Banks - Regional,Financial Services
+NEXT,5.2,Oil & Gas Equipment & Services,Energy
+LVO,5.19,Entertainment,Communication Services
+APT,5.19,Building Products & Equipment,Industrials
+ACRE,5.17,REIT - Mortgage,Real Estate
+PNNT,5.16,Asset Management,Financial Services
+XYF,5.16,Credit Services,Financial Services
+SG,5.14,Restaurants,Consumer Cyclical
+ASG,5.14,Asset Management,Financial Services
+NAGE,5.14,Biotechnology,Healthcare
+UGP,5.13,Oil & Gas Refining & Marketing,Energy
+MDXG,5.12,Biotechnology,Healthcare
+EDF,5.1,Asset Management,Financial Services
+DAVA,5.1,Software - Infrastructure,Technology
+HPK,5.09,Oil & Gas E&P,Energy
+JQC,5.08,Asset Management,Financial Services
+SGMT,5.06,Biotechnology,Healthcare
+PCLA,5.06,Telecom Services,Communication Services
+WAVE,5.05,Utilities - Renewable,Utilities
+GRNT,5.05,Oil & Gas E&P,Energy
+HTZ,5.04,Rental & Leasing Services,Industrials
+GBTG,5.04,Travel Services,Consumer Cyclical
+IGR,5.04,Asset Management,Financial Services
+LFVN,5.03,Packaged Foods,Consumer Defensive
+VATE,5.03,Engineering & Construction,Industrials
+INBS,5.02,Medical Devices,Healthcare
+MPW,5.02,REIT - Healthcare Facilities,Real Estate
+TTGT,5.02,Information Technology Services,Technology
+ABEO,5.01,Biotechnology,Healthcare
+WEST,5.01,Packaged Foods,Consumer Defensive
+KZIA,5.01,Biotechnology,Healthcare
+KORE,5.01,Telecom Services,Communication Services
+FCUV,5.0,Scientific & Technical Instruments,Technology
+MB,5.0,Restaurants,Consumer Cyclical
+SELF,4.99,REIT - Specialty,Real Estate
+BBBY,4.99,Unknown,Unknown
+AUNA,4.96,Medical Care Facilities,Healthcare
+OPRT,4.96,Credit Services,Financial Services
+BOLT,4.95,Biotechnology,Healthcare
+CVRX,4.95,Medical Devices,Healthcare
+NIO,4.95,Auto Manufacturers,Consumer Cyclical
+FOXX,4.94,Consumer Electronics,Technology
+TOPS,4.94,Oil & Gas Midstream,Energy
+IMRX,4.93,Biotechnology,Healthcare
+PGEN,4.93,Biotechnology,Healthcare
+STGW,4.93,Advertising Agencies,Communication Services
+CINT,4.93,Software - Infrastructure,Technology
+EGY,4.93,Oil & Gas E&P,Energy
+WYY,4.93,Information Technology Services,Technology
+NUAI,4.92,Software - Infrastructure,Technology
+EPSN,4.92,Oil & Gas E&P,Energy
+NRXS,4.91,Biotechnology,Healthcare
+CDZI,4.91,Utilities - Regulated Water,Utilities
+PHK,4.91,Asset Management,Financial Services
+CVM,4.9,Biotechnology,Healthcare
+IDN,4.9,Software - Application,Technology
+RADX,4.9,Biotechnology,Healthcare
+VSTA,4.9,Education & Training Services,Consumer Defensive
+UWMC,4.89,Mortgage Finance,Financial Services
+ANNX,4.89,Biotechnology,Healthcare
+ATHR,4.88,Software - Application,Technology
+ACOG,4.88,Biotechnology,Healthcare
+TLSI,4.87,Medical Devices,Healthcare
+AMBP,4.86,Packaging & Containers,Consumer Cyclical
+DMRC,4.86,Software - Application,Technology
+SNAP,4.83,Internet Content & Information,Communication Services
+CV,4.83,Medical Devices,Healthcare
+ASTL,4.82,Steel,Basic Materials
+RLYB,4.82,Biotechnology,Healthcare
+KFFB,4.8,Banks - Regional,Financial Services
+TCPC,4.8,Asset Management,Financial Services
+STG,4.8,Education & Training Services,Consumer Defensive
+MMT,4.79,Asset Management,Financial Services
+DBGI,4.79,Apparel Retail,Consumer Cyclical
+STI,4.77,Electrical Equipment & Parts,Industrials
+BHST,4.77,Packaged Foods,Consumer Defensive
+MTR,4.77,Oil & Gas E&P,Energy
+EEX,4.77,Advertising Agencies,Communication Services
+POCI,4.76,Medical Instruments & Supplies,Healthcare
+NXDT,4.75,REIT - Diversified,Real Estate
+III,4.74,Information Technology Services,Technology
+SOPH,4.74,Health Information Services,Healthcare
+TSI,4.73,Asset Management,Financial Services
+CRVO,4.72,Biotechnology,Healthcare
+AQMS,4.72,Waste Management,Industrials
+COYA,4.71,Biotechnology,Healthcare
+EGG,4.71,Consulting Services,Industrials
+TGL,4.71,Software - Application,Technology
+CPSH,4.7,Electronic Components,Technology
+UDMY,4.7,Education & Training Services,Consumer Defensive
+NWL,4.7,Household & Personal Products,Consumer Defensive
+CATX,4.7,Medical Devices,Healthcare
+TDUP,4.7,Internet Retail,Consumer Cyclical
+CRCT,4.69,Computer Hardware,Technology
+CSAN,4.69,Oil & Gas Refining & Marketing,Energy
+GTN,4.69,Broadcasting,Communication Services
+ATLX,4.67,Other Industrial Metals & Mining,Basic Materials
+KRMD,4.67,Medical Instruments & Supplies,Healthcare
+EDAP,4.67,Medical Distribution,Healthcare
+CVAC,4.66,Biotechnology,Healthcare
+BOSC,4.66,Communication Equipment,Technology
+SBC,4.66,Consulting Services,Industrials
+TDOC,4.65,Health Information Services,Healthcare
+ALVO,4.64,Drug Manufacturers - Specialty & Generic,Healthcare
+LAC,4.63,Other Industrial Metals & Mining,Basic Materials
+MOLN,4.61,Biotechnology,Healthcare
+UUU,4.61,Building Products & Equipment,Industrials
+SRTA,4.59,Medical Care Facilities,Healthcare
+FBYD,4.59,Conglomerates,Industrials
+API,4.59,Software - Application,Technology
+LSTA,4.57,Biotechnology,Healthcare
+GLBZ,4.55,Banks - Regional,Financial Services
+SANG,4.55,Software - Infrastructure,Technology
+TSHA,4.55,Biotechnology,Healthcare
+TZUP,4.55,Advertising Agencies,Communication Services
+NAT,4.54,Oil & Gas Midstream,Energy
+TPCS,4.54,Metal Fabrication,Industrials
+ALT,4.53,Biotechnology,Healthcare
+GCV,4.53,Asset Management,Financial Services
+TBI,4.53,Staffing & Employment Services,Industrials
+CANF,4.53,Biotechnology,Healthcare
+DVS,4.52,Silver,Basic Materials
+JFU,4.52,Information Technology Services,Technology
+IRWD,4.5,Drug Manufacturers - Specialty & Generic,Healthcare
+INN,4.5,REIT - Hotel & Motel,Real Estate
+RSKD,4.49,Software - Application,Technology
+MYGN,4.49,Diagnostics & Research,Healthcare
+THAR,4.48,Biotechnology,Healthcare
+AUR,4.48,Information Technology Services,Technology
+ECC,4.47,Asset Management,Financial Services
+CAAS,4.47,Auto Parts,Consumer Cyclical
+OMSE,4.46,Oil & Gas Equipment & Services,Energy
+OPEN,4.45,Real Estate Services,Real Estate
+LOAN,4.45,REIT - Mortgage,Real Estate
+KYIVW,4.45,,
+SLN,4.45,Biotechnology,Healthcare
+ATRA,4.45,Biotechnology,Healthcare
+NYXH,4.43,Medical Instruments & Supplies,Healthcare
+PYPD,4.43,Biotechnology,Healthcare
+AVAL,4.43,Banks - Regional,Financial Services
+SPRU,4.42,Solar,Technology
+EB,4.41,Internet Content & Information,Communication Services
+LSAK,4.41,Software - Infrastructure,Technology
+DTST,4.4,Information Technology Services,Technology
+LZM,4.39,Other Industrial Metals & Mining,Basic Materials
+EVTL,4.39,Aerospace & Defense,Industrials
+MARPS,4.38,Oil & Gas Midstream,Energy
+ALTI,4.38,Asset Management,Financial Services
+KOSS,4.38,Consumer Electronics,Technology
+TLS,4.37,Software - Infrastructure,Technology
+EPM,4.37,Oil & Gas E&P,Energy
+MTC,4.37,Software - Application,Technology
+VTSI,4.37,Software - Application,Technology
+LSE,4.36,Oil & Gas Equipment & Services,Energy
+MBRX,4.34,Biotechnology,Healthcare
+ACTU,4.33,Biotechnology,Healthcare
+SLE,4.33,Internet Content & Information,Communication Services
+KLC,4.33,Education & Training Services,Consumer Defensive
+IONR,4.32,Other Industrial Metals & Mining,Basic Materials
+AVIR,4.31,Biotechnology,Healthcare
+SSII,4.31,Medical Devices,Healthcare
+BNC,4.3,Farm & Heavy Construction Machinery,Industrials
+EOLS,4.3,Drug Manufacturers - Specialty & Generic,Healthcare
+GROY,4.29,Gold,Basic Materials
+BLZE,4.29,Software - Infrastructure,Technology
+HUYA,4.28,Entertainment,Communication Services
+BRBS,4.27,Banks - Regional,Financial Services
+ISPO,4.26,Travel Services,Consumer Cyclical
+HIX,4.25,Asset Management,Financial Services
+PTON,4.25,Leisure,Consumer Cyclical
+OMCC,4.25,Credit Services,Financial Services
+CTKB,4.24,Medical Devices,Healthcare
+GAMB,4.24,Gambling,Consumer Cyclical
+ELSE,4.23,Scientific & Technical Instruments,Technology
+CLNN,4.23,Packaged Foods,Consumer Defensive
+CRMLW,4.22,,
+TMQ,4.22,Other Industrial Metals & Mining,Basic Materials
+NKLR,4.22,Utilities - Regulated Electric,Utilities
+ENIC,4.22,Utilities - Regulated Electric,Utilities
+ACHV,4.2,Biotechnology,Healthcare
+ATOS,4.2,Biotechnology,Healthcare
+RAY,4.19,Household & Personal Products,Consumer Defensive
+APPS,4.19,Software - Application,Technology
+GOGO,4.17,Telecom Services,Communication Services
+FOFO,4.17,Consulting Services,Industrials
+UROY,4.16,Uranium,Energy
+RCEL,4.16,Medical Devices,Healthcare
+CFND,4.16,,
+HLLY,4.15,Auto Parts,Consumer Cyclical
+OFS,4.15,Asset Management,Financial Services
+HYPD,4.14,Biotechnology,Healthcare
+BENF,4.13,Asset Management,Financial Services
+GRAB,4.13,Software - Application,Technology
+TROO,4.13,Credit Services,Financial Services
+JL,4.12,Apparel Manufacturing,Consumer Cyclical
+GGB,4.12,Steel,Basic Materials
+SLI,4.12,Other Industrial Metals & Mining,Basic Materials
+UEIC,4.12,Consumer Electronics,Technology
+QVCGA,4.11,Internet Retail,Consumer Cyclical
+NTRB,4.11,Biotechnology,Healthcare
+YSG,4.11,Household & Personal Products,Consumer Defensive
+ACCO,4.11,Business Equipment & Supplies,Industrials
+PPSI,4.1,Electrical Equipment & Parts,Industrials
+NEPH,4.1,Medical Instruments & Supplies,Healthcare
+SOTK,4.1,Scientific & Technical Instruments,Technology
+RBNE,4.1,Oil & Gas Midstream,Energy
+DOMO,4.1,Software - Application,Technology
+CIFRW,4.09,,
+BBGI,4.08,Broadcasting,Communication Services
+XCUR,4.08,Biotechnology,Healthcare
+BBAI,4.08,Information Technology Services,Technology
+FKWL,4.07,Communication Equipment,Technology
+XFLT,4.07,Asset Management,Financial Services
+BCTX,4.07,Biotechnology,Healthcare
+TWG,4.06,Food Distribution,Consumer Defensive
+GGT,4.05,Asset Management,Financial Services
+NEUP,4.05,Biotechnology,Healthcare
+SPHL,4.05,Residential Construction,Consumer Cyclical
+KSCP,4.03,Security & Protection Services,Industrials
+ROLR,4.03,Gambling,Consumer Cyclical
+IBG,4.02,Beverages - Wineries & Distilleries,Consumer Defensive
+ACTG,4.01,Business Equipment & Supplies,Industrials
+PLCE,4.01,Apparel Manufacturing,Consumer Cyclical
+UFI,4.01,Textile Manufacturing,Consumer Cyclical
+AXG,4.01,Capital Markets,Financial Services
+KRKR,4.0,Advertising Agencies,Communication Services
+JXG,4.0,Apparel Manufacturing,Consumer Cyclical
+LPL,4.0,Consumer Electronics,Technology
+ARTV,4.0,Biotechnology,Healthcare
+CVV,3.99,Specialty Industrial Machinery,Industrials
+ADCT,3.99,Biotechnology,Healthcare
+DTI,3.99,Oil & Gas Equipment & Services,Energy
+AGH,3.98,Leisure,Consumer Cyclical
+SMWB,3.98,Software - Application,Technology
+BBD,3.98,Banks - Regional,Financial Services
+ABUS,3.98,Biotechnology,Healthcare
+MLGO,3.97,Software - Infrastructure,Technology
+BNKK,3.97,Asset Management,Financial Services
+OCCI,3.96,Asset Management,Financial Services
+SHIM,3.96,Engineering & Construction,Industrials
+GWAV,3.95,Waste Management,Industrials
+TAOX,3.94,Software - Infrastructure,Technology
+AVXL,3.93,Biotechnology,Healthcare
+INDO,3.93,Oil & Gas E&P,Energy
+MQ,3.92,Software - Infrastructure,Technology
+ATOM,3.92,Semiconductor Equipment & Materials,Technology
+RPID,3.91,Medical Devices,Healthcare
+QTTB,3.9,Biotechnology,Healthcare
+SNT,3.9,Security & Protection Services,Industrials
+DFDV,3.89,Asset Management,Financial Services
+WKHS,3.89,Auto Manufacturers,Consumer Cyclical
+CVU,3.89,Aerospace & Defense,Industrials
+AIOT,3.89,Software - Infrastructure,Technology
+SPAI,3.89,Aerospace & Defense,Industrials
+DTIL,3.89,Biotechnology,Healthcare
+CCIF,3.88,Asset Management,Financial Services
+MKZR,3.88,REIT - Diversified,Real Estate
+RMCO,3.88,Asset Management,Financial Services
+QCLS,3.88,Computer Hardware,Technology
+DLNG,3.88,Oil & Gas Midstream,Energy
+LND,3.88,Farm Products,Consumer Defensive
+CPIX,3.88,Drug Manufacturers - Specialty & Generic,Healthcare
+RGP,3.87,Consulting Services,Industrials
+SRTS,3.86,Medical Devices,Healthcare
+STTK,3.86,Biotechnology,Healthcare
+SABS,3.85,Biotechnology,Healthcare
+LAES,3.85,Semiconductors,Technology
+SANA,3.85,Biotechnology,Healthcare
+CAMP,3.85,Biotechnology,Healthcare
+VZLA,3.84,Other Industrial Metals & Mining,Basic Materials
+RZLT,3.84,Biotechnology,Healthcare
+QD,3.83,Credit Services,Financial Services
+BAK,3.83,Chemicals,Basic Materials
+CXE,3.83,Asset Management,Financial Services
+OBIO,3.83,Biotechnology,Healthcare
+JDZG,3.81,Information Technology Services,Technology
+TGEN,3.81,Electrical Equipment & Parts,Industrials
+TEF,3.81,Telecom Services,Communication Services
+HIO,3.81,Asset Management,Financial Services
+FOSL,3.8,Footwear & Accessories,Consumer Cyclical
+ABAT,3.8,Waste Management,Industrials
+SKLZ,3.79,Electronic Gaming & Multimedia,Communication Services
+DNN,3.78,Uranium,Energy
+CCM,3.78,Medical Care Facilities,Healthcare
+KGEI,3.78,Oil & Gas E&P,Energy
+TALK,3.77,Health Information Services,Healthcare
+EMPD,3.76,Auto Manufacturers,Consumer Cyclical
+FF,3.76,Specialty Chemicals,Basic Materials
+INDI,3.75,Semiconductors,Technology
+NHTC,3.74,Internet Retail,Consumer Cyclical
+CLLS,3.73,Biotechnology,Healthcare
+ORGO,3.73,Drug Manufacturers - Specialty & Generic,Healthcare
+WTF,3.73,Asset Management,Financial Services
+TVRD,3.72,Biotechnology,Healthcare
+RLMD,3.72,Biotechnology,Healthcare
+APYX,3.72,Medical Devices,Healthcare
+NEOV,3.71,Electrical Equipment & Parts,Industrials
+LAW,3.71,Software - Application,Technology
+ODV,3.7,Gold,Basic Materials
+BMHL,3.69,Capital Markets,Financial Services
+SVCO,3.69,Software - Application,Technology
+IMPP,3.68,Oil & Gas Midstream,Energy
+AQST,3.65,Drug Manufacturers - Specialty & Generic,Healthcare
+DSWL,3.65,Electronic Components,Technology
+SFIX,3.65,Apparel Retail,Consumer Cyclical
+NEWP,3.64,Silver,Basic Materials
+QNTM,3.64,Biotechnology,Healthcare
+SLDP,3.64,Auto Parts,Consumer Cyclical
+IRD,3.64,Biotechnology,Healthcare
+YRD,3.62,Credit Services,Financial Services
+PPT,3.62,Asset Management,Financial Services
+THRY,3.62,Software - Application,Technology
+TACT,3.62,Computer Hardware,Technology
+FBIO,3.61,Biotechnology,Healthcare
+GRCE,3.61,Biotechnology,Healthcare
+RIME,3.6,Consumer Electronics,Technology
+UGRO,3.59,Farm & Heavy Construction Machinery,Industrials
+ARQ,3.59,Pollution & Treatment Controls,Industrials
+FNKO,3.59,Leisure,Consumer Cyclical
+IZEA,3.59,Internet Content & Information,Communication Services
+SLS,3.59,Biotechnology,Healthcare
+CMU,3.58,Asset Management,Financial Services
+CULP,3.58,Textile Manufacturing,Consumer Cyclical
+QIPT,3.57,Medical Distribution,Healthcare
+ATAI,3.57,Biotechnology,Healthcare
+BBDO,3.57,Banks - Regional,Financial Services
+ITRG,3.57,Other Precious Metals & Mining,Basic Materials
+PLUR,3.56,Biotechnology,Healthcare
+FLWS,3.56,Specialty Retail,Consumer Cyclical
+IPW,3.56,Internet Retail,Consumer Cyclical
+ZKH,3.55,Internet Retail,Consumer Cyclical
+ACB,3.55,Drug Manufacturers - Specialty & Generic,Healthcare
+TORO,3.55,Oil & Gas Midstream,Energy
+ZH,3.53,Internet Content & Information,Communication Services
+ASPN,3.53,Building Products & Equipment,Industrials
+EVO,3.51,Drug Manufacturers - Specialty & Generic,Healthcare
+ASRV,3.51,Banks - Regional,Financial Services
+SXTP,3.51,Biotechnology,Healthcare
+NDRA,3.51,Diagnostics & Research,Healthcare
+TTRX,3.51,Biotechnology,Healthcare
+TTSH,3.5,Home Improvement Retail,Consumer Cyclical
+HTOO,3.5,Utilities - Renewable,Utilities
+LWLG,3.49,Specialty Chemicals,Basic Materials
+ATHE,3.49,Biotechnology,Healthcare
+NAII,3.49,Packaged Foods,Consumer Defensive
+RXRX,3.49,Biotechnology,Healthcare
+IHRT,3.49,Broadcasting,Communication Services
+PRT,3.48,Oil & Gas E&P,Energy
+BGMSP,3.48,Biotechnology,Healthcare
+ETHZ,3.48,Biotechnology,Healthcare
+SSP,3.48,Broadcasting,Communication Services
+BTE,3.47,Oil & Gas E&P,Energy
+BB,3.46,Software - Infrastructure,Technology
+CNSP,3.46,Biotechnology,Healthcare
+UXIN,3.46,Auto & Truck Dealerships,Consumer Cyclical
+WLACW,3.45,,
+TYGO,3.44,Solar,Technology
+ESPR,3.43,Drug Manufacturers - Specialty & Generic,Healthcare
+CCEL,3.43,Medical Care Facilities,Healthcare
+NIU,3.43,Auto Manufacturers,Consumer Cyclical
+CLIK,3.43,Personal Services,Consumer Cyclical
+DOMH,3.42,Capital Markets,Financial Services
+LCUT,3.42,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+CYH,3.42,Medical Care Facilities,Healthcare
+SDST,3.42,Electrical Equipment & Parts,Industrials
+CHNR,3.42,Other Industrial Metals & Mining,Basic Materials
+PXS,3.42,Oil & Gas Midstream,Energy
+XFOR,3.41,Biotechnology,Healthcare
+YQ,3.4,Education & Training Services,Consumer Defensive
+MDXH,3.4,Diagnostics & Research,Healthcare
+NEXM,3.4,Other Industrial Metals & Mining,Basic Materials
+OM,3.39,Medical Devices,Healthcare
+PAYS,3.39,Software - Infrastructure,Technology
+AHT,3.39,REIT - Hotel & Motel,Real Estate
+VYGR,3.39,Biotechnology,Healthcare
+LINK,3.38,Electronic Components,Technology
+AREN,3.37,Internet Content & Information,Communication Services
+CLPR,3.37,REIT - Residential,Real Estate
+TBLA,3.36,Internet Content & Information,Communication Services
+CLAR,3.36,Leisure,Consumer Cyclical
+EDBL,3.35,Farm Products,Consumer Defensive
+EVAX,3.34,Biotechnology,Healthcare
+PIM,3.33,Asset Management,Financial Services
+SST,3.32,Specialty Business Services,Industrials
+IPWR,3.31,Semiconductors,Technology
+TV,3.31,Telecom Services,Communication Services
+VVR,3.3,Asset Management,Financial Services
+PRME,3.3,Biotechnology,Healthcare
+IMSRW,3.3,,
+RAVE,3.3,Restaurants,Consumer Cyclical
+BLIV,3.29,Software - Application,Technology
+JRSH,3.29,Apparel Manufacturing,Consumer Cyclical
+ENGNW,3.29,,
+VFS,3.29,Auto Manufacturers,Consumer Cyclical
+SYPR,3.29,Auto Parts,Consumer Cyclical
+NCMI,3.29,Advertising Agencies,Communication Services
+PLTK,3.29,Electronic Gaming & Multimedia,Communication Services
+CLRB,3.29,Biotechnology,Healthcare
+XGN,3.28,Diagnostics & Research,Healthcare
+GAIA,3.27,Entertainment,Communication Services
+RCKT,3.27,Biotechnology,Healthcare
+ANGX,3.27,Entertainment,Communication Services
+LCFY,3.26,Internet Content & Information,Communication Services
+GROW,3.26,Asset Management,Financial Services
+BRY,3.26,Oil & Gas E&P,Energy
+ADAG,3.25,Biotechnology,Healthcare
+ORMP,3.25,Biotechnology,Healthcare
+NA,3.25,Semiconductors,Technology
+IMNN,3.25,Biotechnology,Healthcare
+SY,3.25,Health Information Services,Healthcare
+CURI,3.25,Broadcasting,Communication Services
+MCRP,3.23,Computer Hardware,Technology
+MSGM,3.23,Electronic Gaming & Multimedia,Communication Services
+NTWK,3.23,Software - Application,Technology
+ISPR,3.23,Tobacco,Consumer Defensive
+AIRJ,3.22,Building Products & Equipment,Industrials
+NTZ,3.21,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+VOC,3.21,Oil & Gas E&P,Energy
+RRGB,3.2,Restaurants,Consumer Cyclical
+SQNS,3.2,Semiconductors,Technology
+NMRA,3.2,Biotechnology,Healthcare
+VERI,3.19,Software - Infrastructure,Technology
+NRGV,3.19,Utilities - Renewable,Utilities
+VFF,3.19,Farm Products,Consumer Defensive
+AIRI,3.19,Aerospace & Defense,Industrials
+EDHL,3.19,Advertising Agencies,Communication Services
+ACRS,3.19,Biotechnology,Healthcare
+PETS,3.18,Pharmaceutical Retailers,Healthcare
+BEEP,3.18,Infrastructure Operations,Industrials
+BOF,3.17,Packaged Foods,Consumer Defensive
+WRN,3.16,Other Industrial Metals & Mining,Basic Materials
+VTEX,3.16,Software - Application,Technology
+LRMR,3.15,Biotechnology,Healthcare
+BDN,3.15,REIT - Office,Real Estate
+SRG,3.14,Real Estate Services,Real Estate
+SATL,3.14,Aerospace & Defense,Industrials
+FLNT,3.12,Advertising Agencies,Communication Services
+MDBH,3.12,Capital Markets,Financial Services
+JVA,3.12,Packaged Foods,Consumer Defensive
+ABEV,3.11,Beverages - Brewers,Consumer Defensive
+ESGL,3.11,Waste Management,Industrials
+NRO,3.11,Asset Management,Financial Services
+GDC,3.11,Electronic Gaming & Multimedia,Communication Services
+ABCL,3.1,Biotechnology,Healthcare
+WBX,3.09,Electronic Components,Technology
+HPAI,3.09,Software - Infrastructure,Technology
+FCO,3.09,Asset Management,Financial Services
+PBM,3.09,Biotechnology,Healthcare
+ZDGE,3.09,Internet Content & Information,Communication Services
+TLF,3.09,Specialty Retail,Consumer Cyclical
+INVE,3.09,Building Products & Equipment,Industrials
+KTCC,3.08,Computer Hardware,Technology
+AREC,3.08,Coking Coal,Basic Materials
+PLUT,3.08,Capital Markets,Financial Services
+ICMB,3.08,Asset Management,Financial Services
+CREX,3.07,Software - Application,Technology
+CATO,3.07,Apparel Retail,Consumer Cyclical
+DWTX,3.07,Biotechnology,Healthcare
+PSEC,3.05,Asset Management,Financial Services
+LITM,3.05,Other Industrial Metals & Mining,Basic Materials
+WVVIP,3.05,Beverages - Wineries & Distilleries,Consumer Defensive
+IDAI,3.05,Software - Application,Technology
+LIXT,3.05,Biotechnology,Healthcare
+BFLY,3.04,Medical Devices,Healthcare
+MGF,3.04,Asset Management,Financial Services
+SINT,3.04,Medical Devices,Healthcare
+RMNI,3.03,Software - Application,Technology
+TNMG,3.03,Publishing,Communication Services
+RPAY,3.03,Software - Infrastructure,Technology
+BLNE,3.03,Mortgage Finance,Financial Services
+MIGI,3.03,Capital Markets,Financial Services
+INV,3.02,Asset Management,Financial Services
+GAU,3.02,Gold,Basic Materials
+TKLF,3.02,Specialty Retail,Consumer Cyclical
+GGR,3.02,Auto Manufacturers,Consumer Cyclical
+NTRP,3.02,Travel Services,Consumer Cyclical
+MSC,3.01,Resorts & Casinos,Consumer Cyclical
+MX,3.01,Semiconductors,Technology
+EVEX,3.01,Aerospace & Defense,Industrials
+HSCS,3.0,Medical Devices,Healthcare
+SQFT,3.0,REIT - Diversified,Real Estate
+BIRD,3.0,Apparel Retail,Consumer Cyclical
+LICN,3.0,Specialty Business Services,Industrials
+SPPL,3.0,Specialty Industrial Machinery,Industrials
+PSNYW,3.0,Auto Manufacturers,Consumer Cyclical
+BHR,2.99,REIT - Hotel & Motel,Real Estate
+BRFH,2.99,Beverages - Non-Alcoholic,Consumer Defensive
+ACIU,2.99,Biotechnology,Healthcare
+RR,2.98,Specialty Industrial Machinery,Industrials
+CRWS,2.98,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+YHGJ,2.97,Packaging & Containers,Consumer Cyclical
+PLX,2.97,Biotechnology,Healthcare
+MRVI,2.96,Biotechnology,Healthcare
+ATLN,2.96,Staffing & Employment Services,Industrials
+PRFX,2.96,Drug Manufacturers - Specialty & Generic,Healthcare
+DNUT,2.95,Grocery Stores,Consumer Defensive
+NXTT,2.94,Software - Application,Technology
+SKBL,2.94,Engineering & Construction,Industrials
+BLRX,2.93,Biotechnology,Healthcare
+CGTL,2.93,Specialty Retail,Consumer Cyclical
+EVGO,2.92,Specialty Retail,Consumer Cyclical
+BGIN,2.92,Computer Hardware,Technology
+AGEN,2.92,Biotechnology,Healthcare
+EP,2.91,Oil & Gas E&P,Energy
+LSF,2.91,Packaged Foods,Consumer Defensive
+EVC,2.91,Advertising Agencies,Communication Services
+DAIO,2.9,Electronic Components,Technology
+ONEG,2.9,Engineering & Construction,Industrials
+TRVG,2.9,Internet Content & Information,Communication Services
+DDL,2.89,Grocery Stores,Consumer Defensive
+PEW,2.87,Aerospace & Defense,Industrials
+UPC,2.86,Drug Manufacturers - Specialty & Generic,Healthcare
+PODC,2.86,Internet Content & Information,Communication Services
+WHWK,2.85,Biotechnology,Healthcare
+SCWO,2.85,Pollution & Treatment Controls,Industrials
+IOTR,2.85,Telecom Services,Communication Services
+DDC,2.85,Packaged Foods,Consumer Defensive
+GRO,2.85,Other Industrial Metals & Mining,Basic Materials
+ADIL,2.85,Biotechnology,Healthcare
+BTOG,2.85,Financial Data & Stock Exchanges,Financial Services
+PLAG,2.83,Conglomerates,Industrials
+ANIX,2.82,Biotechnology,Healthcare
+ARBK,2.82,Capital Markets,Financial Services
+LCFYW,2.82,,
+HHS,2.81,Conglomerates,Industrials
+RCG,2.81,Asset Management,Financial Services
+CIK,2.81,Asset Management,Financial Services
+FLX,2.81,Integrated Freight & Logistics,Industrials
+KULR,2.81,Electronic Components,Technology
+CABA,2.8,Biotechnology,Healthcare
+MMLP,2.8,Oil & Gas Midstream,Energy
+OMI,2.8,Medical Distribution,Healthcare
+ASTC,2.8,Scientific & Technical Instruments,Technology
+EVH,2.79,Health Information Services,Healthcare
+ABTS,2.79,Capital Markets,Financial Services
+CMCT,2.78,REIT - Office,Real Estate
+RAIN,2.78,Pollution & Treatment Controls,Industrials
+BTQ,2.78,Software - Infrastructure,Technology
+RYOJ,2.78,Consulting Services,Industrials
+LFMD,2.78,Health Information Services,Healthcare
+CMRC,2.77,Software - Application,Technology
+ZENA,2.77,Software - Infrastructure,Technology
+GALT,2.76,Biotechnology,Healthcare
+LX,2.76,Credit Services,Financial Services
+LODE,2.76,Other Precious Metals & Mining,Basic Materials
+RMCF,2.76,Confectioners,Consumer Defensive
+MOGU,2.75,Internet Retail,Consumer Cyclical
+LPSN,2.75,Software - Application,Technology
+BMBL,2.75,Internet Content & Information,Communication Services
+OSUR,2.75,Medical Instruments & Supplies,Healthcare
+SNOA,2.75,Drug Manufacturers - Specialty & Generic,Healthcare
+ILAG,2.74,Building Products & Equipment,Industrials
+VGZ,2.73,Gold,Basic Materials
+REAX,2.72,Real Estate Services,Real Estate
+VMAR,2.7,Recreational Vehicles,Consumer Cyclical
+GTI,2.7,Unknown,Unknown
+NFGC,2.7,Gold,Basic Materials
+LTRN,2.7,Biotechnology,Healthcare
+AMPG,2.7,Communication Equipment,Technology
+BAOS,2.7,Advertising Agencies,Communication Services
+FLYE,2.69,Auto Manufacturers,Consumer Cyclical
+LU,2.69,Credit Services,Financial Services
+EGHT,2.69,Software - Application,Technology
+LVWR,2.68,Auto Manufacturers,Consumer Cyclical
+ALTO,2.68,Specialty Chemicals,Basic Materials
+BZUN,2.68,Internet Retail,Consumer Cyclical
+VRA,2.68,Footwear & Accessories,Consumer Cyclical
+BJDX,2.67,Medical Devices,Healthcare
+SOUNW,2.67,,
+LITB,2.65,Internet Retail,Consumer Cyclical
+ONL,2.65,REIT - Office,Real Estate
+RPTX,2.65,Biotechnology,Healthcare
+SERA,2.65,Medical Devices,Healthcare
+CLNE,2.64,Oil & Gas Refining & Marketing,Energy
+IMMP,2.64,Biotechnology,Healthcare
+EU,2.64,Uranium,Energy
+NAMM,2.63,Gold,Basic Materials
+AWX,2.63,Waste Management,Industrials
+BGL,2.63,Gold,Basic Materials
+GRAN,2.63,Capital Markets,Financial Services
+HEPS,2.63,Internet Retail,Consumer Cyclical
+CRE,2.62,Specialty Business Services,Industrials
+GNLX,2.61,Biotechnology,Healthcare
+SXTC,2.61,Drug Manufacturers - Specialty & Generic,Healthcare
+CNTB,2.6,Biotechnology,Healthcare
+SDOT,2.6,Farm Products,Consumer Defensive
+CRON,2.6,Drug Manufacturers - Specialty & Generic,Healthcare
+MAXN,2.6,Solar,Technology
+HUBC,2.6,Software - Infrastructure,Technology
+CNCK,2.6,Capital Markets,Financial Services
+HIND,2.59,Biotechnology,Healthcare
+CHMI,2.59,REIT - Mortgage,Real Estate
+BAER,2.59,Security & Protection Services,Industrials
+MIN,2.59,Asset Management,Financial Services
+ACON,2.58,Health Information Services,Healthcare
+WVVI,2.58,Beverages - Wineries & Distilleries,Consumer Defensive
+IOVA,2.58,Biotechnology,Healthcare
+UHG,2.58,Residential Construction,Consumer Cyclical
+VNCE,2.58,Apparel Manufacturing,Consumer Cyclical
+CMTG,2.57,REIT - Mortgage,Real Estate
+TCRT,2.57,Biotechnology,Healthcare
+SPCE,2.56,Aerospace & Defense,Industrials
+DHF,2.56,Asset Management,Financial Services
+ANNA,2.56,Oil & Gas E&P,Energy
+AAME,2.56,Insurance - Life,Financial Services
+HTZWW,2.56,,
+SIEB,2.55,Capital Markets,Financial Services
+ABSI,2.55,Biotechnology,Healthcare
+EBON,2.55,Computer Hardware,Technology
+BATL,2.54,Oil & Gas E&P,Energy
+JYD,2.54,Integrated Freight & Logistics,Industrials
+KLXE,2.54,Oil & Gas Equipment & Services,Energy
+TRUE,2.54,Internet Content & Information,Communication Services
+NAAS,2.53,Specialty Retail,Consumer Cyclical
+BIYA,2.53,Software - Application,Technology
+VUZI,2.53,Consumer Electronics,Technology
+BRR,2.52,Capital Markets,Financial Services
+DWSN,2.52,Oil & Gas Equipment & Services,Energy
+HTLM,2.51,Specialty Retail,Consumer Cyclical
+TOI,2.51,Medical Care Facilities,Healthcare
+ABOS,2.51,Biotechnology,Healthcare
+WOOF,2.51,Specialty Retail,Consumer Cyclical
+COTY,2.51,Household & Personal Products,Consumer Defensive
+CNVS,2.5,Entertainment,Communication Services
+RSSS,2.5,Software - Application,Technology
+DOUG,2.5,Real Estate Services,Real Estate
+THM,2.49,Gold,Basic Materials
+CODX,2.49,Medical Devices,Healthcare
+WAI,2.47,Capital Markets,Financial Services
+UTSI,2.47,Communication Equipment,Technology
+RUBI,2.46,Marine Shipping,Industrials
+NIOBW,2.46,Unknown,Unknown
+XBIT,2.45,Biotechnology,Healthcare
+FLYX,2.45,Airlines,Industrials
+PULM,2.44,Biotechnology,Healthcare
+SBLX,2.44,Auto Manufacturers,Consumer Cyclical
+LPA,2.44,Real Estate - Development,Real Estate
+AMBR,2.43,Software - Infrastructure,Technology
+AISP,2.43,Software - Infrastructure,Technology
+LFS,2.42,Entertainment,Communication Services
+OKUR,2.42,Biotechnology,Healthcare
+FUFU,2.41,Capital Markets,Financial Services
+BWEN,2.41,Specialty Industrial Machinery,Industrials
+STEX,2.41,Capital Markets,Financial Services
+PMAX,2.41,Specialty Business Services,Industrials
+ICU,2.4,Biotechnology,Healthcare
+DHX,2.4,Software - Application,Technology
+SPRO,2.39,Biotechnology,Healthcare
+DSX,2.39,Marine Shipping,Industrials
+ZNTL,2.39,Biotechnology,Healthcare
+CCO,2.39,Advertising Agencies,Communication Services
+NCI,2.39,Apparel Manufacturing,Consumer Cyclical
+ANVS,2.37,Biotechnology,Healthcare
+TTEC,2.36,Information Technology Services,Technology
+TPST,2.36,Biotechnology,Healthcare
+TXMD,2.36,Drug Manufacturers - Specialty & Generic,Healthcare
+MVST,2.36,Auto Parts,Consumer Cyclical
+AMBO,2.36,Education & Training Services,Consumer Defensive
+GLXG,2.36,Staffing & Employment Services,Industrials
+ARTW,2.35,Farm & Heavy Construction Machinery,Industrials
+RLX,2.35,Tobacco,Consumer Defensive
+WIT,2.34,Information Technology Services,Technology
+AEI,2.32,Real Estate - Development,Real Estate
+CCLD,2.32,Health Information Services,Healthcare
+HITI,2.31,Pharmaceutical Retailers,Healthcare
+FMST,2.31,Other Industrial Metals & Mining,Basic Materials
+GRI,2.31,Biotechnology,Healthcare
+CNTX,2.3,Biotechnology,Healthcare
+TUSK,2.3,Conglomerates,Industrials
+CBUS,2.3,Biotechnology,Healthcare
+GOSS,2.29,Biotechnology,Healthcare
+BMRA,2.29,Medical Devices,Healthcare
+VERU,2.29,Biotechnology,Healthcare
+DLTH,2.28,Apparel Retail,Consumer Cyclical
+NNOX,2.28,Medical Devices,Healthcare
+XOS,2.28,Farm & Heavy Construction Machinery,Industrials
+PLG,2.28,Other Precious Metals & Mining,Basic Materials
+ANGH,2.27,Entertainment,Communication Services
+OPAL,2.27,Utilities - Regulated Gas,Utilities
+RZLV,2.27,Software - Infrastructure,Technology
+WTI,2.26,Oil & Gas E&P,Energy
+ATPC,2.26,Packaged Foods,Consumer Defensive
+DGXX,2.26,Utilities - Independent Power Producers,Utilities
+FLL,2.26,Resorts & Casinos,Consumer Cyclical
+CRNT,2.26,Communication Equipment,Technology
+BEDU,2.25,Education & Training Services,Consumer Defensive
+AMS,2.25,Medical Care Facilities,Healthcare
+SOHO,2.25,REIT - Hotel & Motel,Real Estate
+BRIA,2.25,Apparel Retail,Consumer Cyclical
+UIS,2.24,Information Technology Services,Technology
+CERS,2.24,Medical Devices,Healthcare
+JELD,2.24,Building Products & Equipment,Industrials
+JWEL,2.24,Internet Retail,Consumer Cyclical
+DFLI,2.23,Electrical Equipment & Parts,Industrials
+ULY,2.23,Software - Application,Technology
+PRLD,2.23,Biotechnology,Healthcare
+STKS,2.23,Restaurants,Consumer Cyclical
+TUYA,2.23,Software - Infrastructure,Technology
+PCSA,2.22,Biotechnology,Healthcare
+MOBBW,2.22,,
+BDTX,2.22,Biotechnology,Healthcare
+CIG,2.22,Utilities - Diversified,Utilities
+IBIO,2.22,Biotechnology,Healthcare
+SVC,2.21,REIT - Hotel & Motel,Real Estate
+AFCG,2.21,REIT - Mortgage,Real Estate
+HIVE,2.21,Capital Markets,Financial Services
+HSDT,2.21,Asset Management,Financial Services
+FEAM,2.21,Specialty Chemicals,Basic Materials
+ALXO,2.21,Biotechnology,Healthcare
+XHLD,2.2,Broadcasting,Communication Services
+PZG,2.2,Gold,Basic Materials
+KOPN,2.2,Electronic Components,Technology
+NAUT,2.19,Biotechnology,Healthcare
+GDRX,2.18,Health Information Services,Healthcare
+EVTV,2.18,Auto Manufacturers,Consumer Cyclical
+ELME,2.18,REIT - Residential,Real Estate
+MBOT,2.17,Medical Instruments & Supplies,Healthcare
+PFAI,2.17,Farm Products,Consumer Defensive
+CTRM,2.17,Marine Shipping,Industrials
+XBIO,2.17,Biotechnology,Healthcare
+BCG,2.17,Asset Management,Financial Services
+SIDU,2.17,Aerospace & Defense,Industrials
+NAK,2.16,Other Industrial Metals & Mining,Basic Materials
+HOLO,2.16,Electronic Components,Technology
+BLDP,2.15,Electrical Equipment & Parts,Industrials
+GENVR,2.15,,
+NMG,2.15,Other Industrial Metals & Mining,Basic Materials
+SKYX,2.14,Electrical Equipment & Parts,Industrials
+BGLC,2.14,Specialty Chemicals,Basic Materials
+PIII,2.14,Medical Care Facilities,Healthcare
+BITF,2.14,Capital Markets,Financial Services
+BTMD,2.13,Medical Care Facilities,Healthcare
+NPWR,2.13,Specialty Industrial Machinery,Industrials
+AYTU,2.13,Drug Manufacturers - Specialty & Generic,Healthcare
+MKDW,2.13,Unknown,Unknown
+HNST,2.13,Household & Personal Products,Consumer Defensive
+NCNA,2.12,Biotechnology,Healthcare
+GOTU,2.12,Education & Training Services,Consumer Defensive
+CSTE,2.11,Building Products & Equipment,Industrials
+VVPR,2.11,Solar,Technology
+TONX,2.1,Software - Application,Technology
+FORA,2.1,Health Information Services,Healthcare
+SHMDW,2.1,,
+ENVB,2.1,Biotechnology,Healthcare
+RBBN,2.09,Software - Application,Technology
+MRT,2.09,Software - Application,Technology
+ROMA,2.09,Consulting Services,Industrials
+SAVA,2.09,Biotechnology,Healthcare
+PSHG,2.08,Marine Shipping,Industrials
+KPRX,2.08,Biotechnology,Healthcare
+DDD,2.08,Computer Hardware,Technology
+MGN,2.07,Engineering & Construction,Industrials
+GITS,2.07,Internet Content & Information,Communication Services
+GDHG,2.06,Leisure,Consumer Cyclical
+NUKK,2.06,Aerospace & Defense,Industrials
+GSRFR,2.05,,
+SUNE,2.05,Solar,Technology
+HYLN,2.04,Auto Parts,Consumer Cyclical
+SDA,2.03,Auto & Truck Dealerships,Consumer Cyclical
+MYSE,2.03,Software - Application,Technology
+IQST,2.03,Telecom Services,Communication Services
+GEG,2.03,Asset Management,Financial Services
+LDI,2.03,Mortgage Finance,Financial Services
+CRGO,2.02,Integrated Freight & Logistics,Industrials
+GNPX,2.02,Biotechnology,Healthcare
+SEER,2.02,Biotechnology,Healthcare
+SNTG,2.02,Credit Services,Financial Services
+CLOV,2.02,Healthcare Plans,Healthcare
+ELDN,2.02,Biotechnology,Healthcare
+PFSA,2.01,Medical Devices,Healthcare
+DHY,2.01,Asset Management,Financial Services
+ZGM,2.01,Consulting Services,Industrials
+VIVS,2.0,Biotechnology,Healthcare
+TKNO,2.0,Drug Manufacturers - Specialty & Generic,Healthcare
+IH,2.0,Education & Training Services,Consumer Defensive
+SNES,2.0,Specialty Chemicals,Basic Materials
+GNSS,2.0,Scientific & Technical Instruments,Technology
+SORA,1.99,Luxury Goods,Consumer Cyclical
+SRFM,1.99,Airlines,Industrials
+HUIZ,1.99,Insurance Brokers,Financial Services
+STXS,1.99,Medical Instruments & Supplies,Healthcare
+FTEL,1.99,Specialty Retail,Consumer Cyclical
+PLBY,1.99,Leisure,Consumer Cyclical
+WPRT,1.98,Auto Parts,Consumer Cyclical
+PROK,1.98,Biotechnology,Healthcare
+ACXP,1.97,Biotechnology,Healthcare
+HKIT,1.97,Software - Application,Technology
+NKTX,1.97,Biotechnology,Healthcare
+NUWE,1.97,Medical Devices,Healthcare
+CURR,1.97,Software - Application,Technology
+AEMD,1.96,Medical Devices,Healthcare
+QRHC,1.96,Waste Management,Industrials
+GPMT,1.95,REIT - Mortgage,Real Estate
+IAUX,1.94,Gold,Basic Materials
+BRAG,1.92,Gambling,Consumer Cyclical
+TRAW,1.92,Biotechnology,Healthcare
+MAIA,1.92,Biotechnology,Healthcare
+XRX,1.92,Business Equipment & Supplies,Industrials
+JCTC,1.91,Lumber & Wood Production,Basic Materials
+NNDM,1.9,Computer Hardware,Technology
+INUV,1.9,Software - Application,Technology
+DFSC,1.9,Aerospace & Defense,Industrials
+THCH,1.89,Restaurants,Consumer Cyclical
+PLUG,1.89,Electrical Equipment & Parts,Industrials
+XELB,1.89,Apparel Manufacturing,Consumer Cyclical
+ZJK,1.89,Specialty Industrial Machinery,Industrials
+AIRS,1.89,Medical Care Facilities,Healthcare
+HOUR,1.89,Internet Retail,Consumer Cyclical
+CHSN,1.89,Restaurants,Consumer Cyclical
+POWW,1.89,Aerospace & Defense,Industrials
+CCCC,1.89,Biotechnology,Healthcare
+WHLR,1.87,REIT - Retail,Real Estate
+LGCL,1.87,Software - Application,Technology
+ALEC,1.87,Biotechnology,Healthcare
+CELZ,1.86,Biotechnology,Healthcare
+GEVO,1.86,Specialty Chemicals,Basic Materials
+TMCI,1.86,Medical Devices,Healthcare
+FATN,1.86,Software - Infrastructure,Technology
+VWAVW,1.85,,
+AMST,1.85,Software - Application,Technology
+UBXG,1.85,Software - Infrastructure,Technology
+HCAT,1.84,Health Information Services,Healthcare
+AUST,1.83,Gold,Basic Materials
+GENK,1.83,Restaurants,Consumer Cyclical
+SER,1.83,Biotechnology,Healthcare
+RBOT,1.82,Medical Devices,Healthcare
+PHUN,1.82,Software - Application,Technology
+WIMI,1.82,Advertising Agencies,Communication Services
+USEA,1.82,Marine Shipping,Industrials
+OXSQ,1.81,Asset Management,Financial Services
+LIQT,1.81,Pollution & Treatment Controls,Industrials
+GANX,1.81,Biotechnology,Healthcare
+EFOI,1.81,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+KMRK,1.81,Leisure,Consumer Cyclical
+CLVT,1.81,Information Technology Services,Technology
+IQ,1.8,Entertainment,Communication Services
+NRXP,1.8,Biotechnology,Healthcare
+ALLO,1.8,Biotechnology,Healthcare
+BULLW,1.8,,
+WALD,1.8,Household & Personal Products,Consumer Defensive
+WRAP,1.79,Scientific & Technical Instruments,Technology
+GOCO,1.79,Insurance Brokers,Financial Services
+SAGT,1.78,Software - Application,Technology
+NUAIW,1.78,,
+MERC,1.78,Paper & Paper Products,Basic Materials
+INAB,1.78,Biotechnology,Healthcare
+WDH,1.77,Insurance - Diversified,Financial Services
+FENG,1.76,Internet Content & Information,Communication Services
+INDP,1.76,Biotechnology,Healthcare
+XTIA,1.76,Aerospace & Defense,Industrials
+EDIT,1.76,Biotechnology,Healthcare
+BTBT,1.76,Capital Markets,Financial Services
+HOVR,1.76,Aerospace & Defense,Industrials
+STSS,1.76,Medical Instruments & Supplies,Healthcare
+OKYO,1.75,Biotechnology,Healthcare
+IPSC,1.75,Biotechnology,Healthcare
+SWAG,1.75,Advertising Agencies,Communication Services
+NSPR,1.75,Medical Devices,Healthcare
+CIGL,1.75,Security & Protection Services,Industrials
+PROP,1.75,Oil & Gas E&P,Energy
+VSA,1.74,Education & Training Services,Consumer Defensive
+PVL,1.74,Oil & Gas E&P,Energy
+IPHA,1.74,Biotechnology,Healthcare
+AUID,1.74,Software - Infrastructure,Technology
+MTEN,1.74,Metal Fabrication,Industrials
+TRX,1.73,Gold,Basic Materials
+PALI,1.73,Biotechnology,Healthcare
+AIFU,1.73,Insurance Brokers,Financial Services
+SEV,1.73,Unknown,Unknown
+ZIP,1.73,Internet Content & Information,Communication Services
+AWRE,1.73,Software - Application,Technology
+WAFU,1.72,Education & Training Services,Consumer Defensive
+CIF,1.72,Asset Management,Financial Services
+NEON,1.72,Electronic Components,Technology
+LOCL,1.72,Farm Products,Consumer Defensive
+BTTC,1.72,Unknown,Unknown
+NNBR,1.72,Conglomerates,Industrials
+MNTK,1.71,Specialty Chemicals,Basic Materials
+EHTH,1.71,Insurance Brokers,Financial Services
+MGNX,1.71,Biotechnology,Healthcare
+SCAG,1.71,Farm & Heavy Construction Machinery,Industrials
+GLBS,1.71,Marine Shipping,Industrials
+BLND,1.71,Software - Application,Technology
+PACB,1.71,Medical Devices,Healthcare
+OABI,1.7,Biotechnology,Healthcare
+SES,1.7,Auto Parts,Consumer Cyclical
+MIST,1.7,Biotechnology,Healthcare
+DARE,1.7,Biotechnology,Healthcare
+CARV,1.7,Banks - Regional,Financial Services
+GRNQ,1.7,Consulting Services,Industrials
+VBIX,1.7,Internet Content & Information,Communication Services
+WETH,1.69,Electronic Components,Technology
+RC,1.69,REIT - Mortgage,Real Estate
+CYCU,1.69,Information Technology Services,Technology
+IPM,1.69,Software - Application,Technology
+SID,1.69,Steel,Basic Materials
+BMR,1.68,Software - Application,Technology
+KOS,1.68,Oil & Gas E&P,Energy
+GOVX,1.68,Biotechnology,Healthcare
+GORO,1.68,Other Precious Metals & Mining,Basic Materials
+RKDA,1.68,Packaged Foods,Consumer Defensive
+CVGI,1.67,Auto Parts,Consumer Cyclical
+ABVC,1.67,Biotechnology,Healthcare
+UCL,1.67,Telecom Services,Communication Services
+REBN,1.67,Restaurants,Consumer Cyclical
+IKT,1.67,Biotechnology,Healthcare
+OMEX,1.66,Other Industrial Metals & Mining,Basic Materials
+APWC,1.66,Electrical Equipment & Parts,Industrials
+EZGO,1.66,Recreational Vehicles,Consumer Cyclical
+LCTX,1.66,Biotechnology,Healthcare
+GERN,1.65,Biotechnology,Healthcare
+BTCS,1.65,Capital Markets,Financial Services
+CGEN,1.65,Biotechnology,Healthcare
+GCTK,1.65,Medical Instruments & Supplies,Healthcare
+LIDR,1.65,Software - Infrastructure,Technology
+LOKVW,1.65,,
+PHIO,1.65,Biotechnology,Healthcare
+ECX,1.65,Auto Parts,Consumer Cyclical
+IPDN,1.64,Staffing & Employment Services,Industrials
+BON,1.64,Specialty Chemicals,Basic Materials
+MTVA,1.64,Biotechnology,Healthcare
+ALZN,1.63,Biotechnology,Healthcare
+ACRV,1.63,Biotechnology,Healthcare
+SNYR,1.63,Medical Distribution,Healthcare
+ZVIA,1.63,Beverages - Non-Alcoholic,Consumer Defensive
+SMRT,1.62,Software - Application,Technology
+LGCB,1.62,Internet Retail,Consumer Cyclical
+BRLS,1.62,Packaged Foods,Consumer Defensive
+MER,1.61,Unknown,Unknown
+LEDS,1.61,Semiconductors,Technology
+CHRS,1.61,Biotechnology,Healthcare
+INO,1.61,Biotechnology,Healthcare
+FUSE,1.61,Software - Application,Technology
+TAIT,1.6,Electronics & Computer Distribution,Technology
+RUMBW,1.6,,
+JZXN,1.6,Auto & Truck Dealerships,Consumer Cyclical
+CTW,1.6,Electronic Gaming & Multimedia,Communication Services
+CRDF,1.6,Biotechnology,Healthcare
+NXDR,1.6,Internet Content & Information,Communication Services
+DH,1.59,Health Information Services,Healthcare
+HKD,1.59,Software - Application,Technology
+SLXN,1.59,Biotechnology,Healthcare
+CRBU,1.58,Biotechnology,Healthcare
+MTEK,1.58,Electronic Components,Technology
+NVNI,1.58,Software - Application,Technology
+FTFT,1.58,Software - Application,Technology
+BTAI,1.58,Drug Manufacturers - Specialty & Generic,Healthcare
+URG,1.58,Uranium,Energy
+EPSM,1.57,Beverages - Wineries & Distilleries,Consumer Defensive
+ABVE,1.57,Packaged Foods,Consumer Defensive
+EQ,1.57,Biotechnology,Healthcare
+VCICW,1.57,,
+WKSP,1.57,Auto Parts,Consumer Cyclical
+GIBO,1.56,Internet Content & Information,Communication Services
+ICG,1.56,Semiconductors,Technology
+SLND,1.56,Engineering & Construction,Industrials
+OLPX,1.56,Specialty Retail,Consumer Cyclical
+IVVD,1.56,Biotechnology,Healthcare
+PMI,1.56,Medical Devices,Healthcare
+MCHX,1.56,Advertising Agencies,Communication Services
+GIGM,1.56,Electronic Gaming & Multimedia,Communication Services
+SWVL,1.56,Railroads,Industrials
+MENS,1.55,Biotechnology,Healthcare
+MDAI,1.55,Medical Devices,Healthcare
+HWH,1.55,Leisure,Consumer Cyclical
+MGIH,1.54,Packaging & Containers,Consumer Cyclical
+FARM,1.54,Packaged Foods,Consumer Defensive
+STEC,1.53,Software - Application,Technology
+DRCT,1.53,Advertising Agencies,Communication Services
+SPWR,1.53,Solar,Technology
+CNDT,1.53,Information Technology Services,Technology
+VLN,1.52,Semiconductors,Technology
+CHAI,1.52,Internet Content & Information,Communication Services
+CYN,1.52,Software - Application,Technology
+AMTX,1.52,Specialty Chemicals,Basic Materials
+WOK,1.52,Medical Devices,Healthcare
+VVOS,1.52,Medical Devices,Healthcare
+AIMD,1.52,Scientific & Technical Instruments,Technology
+GROV,1.52,Household & Personal Products,Consumer Defensive
+BNRG,1.52,Utilities - Renewable,Utilities
+CMMB,1.51,Biotechnology,Healthcare
+CNTY,1.51,Resorts & Casinos,Consumer Cyclical
+CISS,1.51,Marine Shipping,Industrials
+SGBX,1.5,Metal Fabrication,Industrials
+GLDG,1.5,Gold,Basic Materials
+FLD,1.5,Capital Markets,Financial Services
+YTRA,1.5,Travel Services,Consumer Cyclical
+ENTX,1.5,Biotechnology,Healthcare
+RVMDW,1.5,,
+SNDL,1.5,Beverages - Wineries & Distilleries,Consumer Defensive
+ICON,1.5,Marine Shipping,Industrials
+BRLT,1.49,Luxury Goods,Consumer Cyclical
+PERF,1.49,Software - Application,Technology
+ALTS,1.49,Software - Application,Technology
+NTIP,1.49,Specialty Business Services,Industrials
+POLA,1.49,Electrical Equipment & Parts,Industrials
+NEOVW,1.48,,
+MNOV,1.48,Biotechnology,Healthcare
+DOGZ,1.48,Leisure,Consumer Cyclical
+HFFG,1.48,Food Distribution,Consumer Defensive
+LGO,1.48,Other Industrial Metals & Mining,Basic Materials
+WNW,1.48,Internet Retail,Consumer Cyclical
+DLPN,1.47,Advertising Agencies,Communication Services
+REVB,1.47,Biotechnology,Healthcare
+CJMB,1.47,Integrated Freight & Logistics,Industrials
+LUNG,1.47,Medical Devices,Healthcare
+EOSEW,1.47,Electrical Equipment & Parts,Industrials
+FRGT,1.47,Software - Application,Technology
+BEEM,1.46,Solar,Technology
+MVO,1.46,Oil & Gas E&P,Energy
+KLTR,1.46,Software - Application,Technology
+MGX,1.46,Biotechnology,Healthcare
+PRQR,1.46,Biotechnology,Healthcare
+LANV,1.45,Luxury Goods,Consumer Cyclical
+RECT,1.45,Specialty Retail,Consumer Cyclical
+NISN,1.45,Credit Services,Financial Services
+ZKIN,1.45,Steel,Basic Materials
+CHR,1.45,Advertising Agencies,Communication Services
+NWTG,1.45,Leisure,Consumer Cyclical
+GWH,1.44,Electrical Equipment & Parts,Industrials
+INMB,1.44,Biotechnology,Healthcare
+CTNT,1.43,Integrated Freight & Logistics,Industrials
+VTAK,1.43,Medical Devices,Healthcare
+TLSIW,1.43,,
+ASBP,1.43,Biotechnology,Healthcare
+MRKR,1.43,Biotechnology,Healthcare
+HYFM,1.43,Farm & Heavy Construction Machinery,Industrials
+STIM,1.42,Medical Devices,Healthcare
+OVID,1.42,Biotechnology,Healthcare
+EDUC,1.42,Publishing,Communication Services
+RDGT,1.42,Pharmaceutical Retailers,Healthcare
+ACCL,1.41,Consulting Services,Industrials
+VSME,1.41,Advertising Agencies,Communication Services
+OCGN,1.41,Biotechnology,Healthcare
+YJ,1.41,Internet Retail,Consumer Cyclical
+OMH,1.4,Real Estate Services,Real Estate
+GHG,1.4,Lodging,Consumer Cyclical
+SVACW,1.4,Unknown,Unknown
+AUTL,1.4,Biotechnology,Healthcare
+CETX,1.4,Software - Infrastructure,Technology
+SLGB,1.4,Integrated Freight & Logistics,Industrials
+LYRA,1.39,Biotechnology,Healthcare
+MATH,1.39,Capital Markets,Financial Services
+HYFT,1.39,Biotechnology,Healthcare
+TLYS,1.39,Apparel Retail,Consumer Cyclical
+TLSA,1.39,Biotechnology,Healthcare
+AHG,1.38,Medical Distribution,Healthcare
+IRIX,1.38,Medical Devices,Healthcare
+AGMH,1.38,Computer Hardware,Technology
+PNBK,1.37,Banks - Regional,Financial Services
+EQS,1.37,Asset Management,Financial Services
+VIOT,1.37,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+UCAR,1.37,Auto & Truck Dealerships,Consumer Cyclical
+ELAB,1.37,Biotechnology,Healthcare
+LPRO,1.36,Credit Services,Financial Services
+STKH,1.36,Packaged Foods,Consumer Defensive
+ANY,1.35,Capital Markets,Financial Services
+ORIS,1.35,Packaged Foods,Consumer Defensive
+HGBL,1.34,Capital Markets,Financial Services
+FUBO,1.34,Broadcasting,Communication Services
+LHAI,1.34,Real Estate Services,Real Estate
+LUCD,1.33,Medical Devices,Healthcare
+HURA,1.33,Biotechnology,Healthcare
+SLSN,1.33,Household & Personal Products,Consumer Defensive
+BOXL,1.33,Consumer Electronics,Technology
+STKE,1.33,Capital Markets,Financial Services
+LFT,1.33,REIT - Mortgage,Real Estate
+BEAT,1.33,Health Information Services,Healthcare
+MRM,1.33,Personal Services,Consumer Cyclical
+TGE,1.32,Asset Management,Financial Services
+BQ,1.32,Specialty Retail,Consumer Cyclical
+TAOP,1.32,Software - Infrastructure,Technology
+MNY,1.31,Internet Content & Information,Communication Services
+PAVS,1.31,Packaged Foods,Consumer Defensive
+USIO,1.31,Software - Infrastructure,Technology
+KDKRW,1.31,,
+LXRX,1.31,Biotechnology,Healthcare
+SOS,1.3,Capital Markets,Financial Services
+BNZI,1.3,Software - Application,Technology
+PYXS,1.3,Biotechnology,Healthcare
+TRON,1.3,Leisure,Consumer Cyclical
+NXGL,1.3,Medical Instruments & Supplies,Healthcare
+NTRBW,1.3,,
+ALIT,1.3,Software - Application,Technology
+OGI,1.29,Drug Manufacturers - Specialty & Generic,Healthcare
+DRMA,1.29,Biotechnology,Healthcare
+NWGL,1.28,Lumber & Wood Production,Basic Materials
+EXFY,1.28,Software - Application,Technology
+GP,1.27,Farm & Heavy Construction Machinery,Industrials
+BIVI,1.27,Biotechnology,Healthcare
+REI,1.27,Oil & Gas E&P,Energy
+CDIO,1.27,Biotechnology,Healthcare
+LRHC,1.27,Real Estate Services,Real Estate
+GREE,1.27,Capital Markets,Financial Services
+YAAS,1.27,Software - Application,Technology
+BYSI,1.27,Biotechnology,Healthcare
+FTEK,1.26,Pollution & Treatment Controls,Industrials
+GCTS,1.26,Semiconductors,Technology
+ESLA,1.26,Biotechnology,Healthcare
+LRE,1.26,Real Estate - Development,Real Estate
+CELU,1.26,Biotechnology,Healthcare
+CYCN,1.25,Biotechnology,Healthcare
+CWD,1.25,Asset Management,Financial Services
+FATE,1.25,Biotechnology,Healthcare
+AIM,1.25,Biotechnology,Healthcare
+BMEA,1.25,Biotechnology,Healthcare
+BTCT,1.25,Computer Hardware,Technology
+LOOP,1.25,Specialty Chemicals,Basic Materials
+SPWH,1.25,Specialty Retail,Consumer Cyclical
+AIHS,1.24,Rental & Leasing Services,Industrials
+RANI,1.24,Biotechnology,Healthcare
+APUS,1.23,Drug Manufacturers - Specialty & Generic,Healthcare
+OPK,1.23,Diagnostics & Research,Healthcare
+FAMI,1.23,Packaged Foods,Consumer Defensive
+CMBM,1.23,Communication Equipment,Technology
+AMC,1.23,Entertainment,Communication Services
+ORBS,1.23,Packaging & Containers,Consumer Cyclical
+CTOR,1.22,Drug Manufacturers - Specialty & Generic,Healthcare
+PT,1.22,Credit Services,Financial Services
+OSTX,1.22,Biotechnology,Healthcare
+IHT,1.22,REIT - Hotel & Motel,Real Estate
+NFE,1.22,Oil & Gas Midstream,Energy
+BTBD,1.21,Restaurants,Consumer Cyclical
+SUIG,1.21,Credit Services,Financial Services
+AKBA,1.21,Drug Manufacturers - Specialty & Generic,Healthcare
+ORKT,1.21,Software - Application,Technology
+HAO,1.21,Advertising Agencies,Communication Services
+RCON,1.21,Oil & Gas Equipment & Services,Energy
+LGHL,1.2,Capital Markets,Financial Services
+SEGG,1.2,Gambling,Consumer Cyclical
+CREG,1.2,Utilities - Renewable,Utilities
+HLP,1.2,Steel,Basic Materials
+CLWT,1.2,Pollution & Treatment Controls,Industrials
+GTIM,1.2,Restaurants,Consumer Cyclical
+CDXS,1.2,Biotechnology,Healthcare
+ARTL,1.2,Biotechnology,Healthcare
+RFL,1.2,Real Estate Services,Real Estate
+SJ,1.19,Internet Content & Information,Communication Services
+CLPS,1.19,Information Technology Services,Technology
+DUO,1.19,Real Estate Services,Real Estate
+BBLG,1.19,Biotechnology,Healthcare
+BZAI,1.18,Software - Application,Technology
+TRSG,1.18,Metal Fabrication,Industrials
+VANI,1.18,Biotechnology,Healthcare
+NVVE,1.17,Specialty Retail,Consumer Cyclical
+SBFM,1.17,Drug Manufacturers - Specialty & Generic,Healthcare
+YOUL,1.17,Education & Training Services,Consumer Defensive
+RDZN,1.17,Software - Application,Technology
+ARAI,1.17,Software - Infrastructure,Technology
+OXBR,1.17,Insurance - Reinsurance,Financial Services
+CRESW,1.16,,
+WBUY,1.16,Internet Retail,Consumer Cyclical
+MIRA,1.16,Drug Manufacturers - General,Healthcare
+KBSX,1.16,Steel,Basic Materials
+EM,1.16,Personal Services,Consumer Cyclical
+GSUN,1.15,Education & Training Services,Consumer Defensive
+HRTX,1.15,Biotechnology,Healthcare
+CRIS,1.15,Biotechnology,Healthcare
+GV,1.15,Education & Training Services,Consumer Defensive
+FEBO,1.15,Consumer Electronics,Technology
+JSPR,1.14,Biotechnology,Healthcare
+MNDO,1.14,Software - Application,Technology
+BCDA,1.14,Biotechnology,Healthcare
+DRTSW,1.14,,
+INHD,1.14,Steel,Basic Materials
+LUCY,1.13,Medical Instruments & Supplies,Healthcare
+HUDI,1.13,Steel,Basic Materials
+BOLD,1.13,Biotechnology,Healthcare
+SUUN,1.13,Utilities - Renewable,Utilities
+YSXT,1.13,Specialty Business Services,Industrials
+VEEE,1.13,Recreational Vehicles,Consumer Cyclical
+SLMT,1.13,Entertainment,Communication Services
+ABTC,1.13,Capital Markets,Financial Services
+FNGR,1.13,Telecom Services,Communication Services
+FBGL,1.13,Engineering & Construction,Industrials
+LZMH,1.12,Information Technology Services,Technology
+LAB,1.12,Medical Devices,Healthcare
+RNTX,1.12,Biotechnology,Healthcare
+LITS,1.12,Biotechnology,Healthcare
+CMND,1.12,Biotechnology,Healthcare
+ALUR,1.12,Medical Devices,Healthcare
+LESL,1.12,Specialty Retail,Consumer Cyclical
+GRWG,1.12,Specialty Retail,Consumer Cyclical
+LNKS,1.12,Electrical Equipment & Parts,Industrials
+CGTX,1.12,Biotechnology,Healthcare
+PMVP,1.11,Biotechnology,Healthcare
+GMM,1.11,Information Technology Services,Technology
+UFG,1.11,Marine Shipping,Industrials
+ATNM,1.11,Biotechnology,Healthcare
+HYPR,1.11,Medical Devices,Healthcare
+ARBE,1.11,Scientific & Technical Instruments,Technology
+OCG,1.11,Internet Retail,Consumer Cyclical
+SHPH,1.11,Drug Manufacturers - Specialty & Generic,Healthcare
+ENLV,1.11,Biotechnology,Healthcare
+ELOG,1.11,Integrated Freight & Logistics,Industrials
+PLRX,1.11,Biotechnology,Healthcare
+LOT,1.11,Auto Manufacturers,Consumer Cyclical
+BNGO,1.1,Medical Instruments & Supplies,Healthcare
+BGM,1.1,Drug Manufacturers - Specialty & Generic,Healthcare
+IMCC,1.09,Drug Manufacturers - Specialty & Generic,Healthcare
+TELO,1.09,Biotechnology,Healthcare
+SNGX,1.09,Biotechnology,Healthcare
+HIT,1.09,Software - Application,Technology
+YMT,1.09,Software - Application,Technology
+BDRX,1.08,Biotechnology,Healthcare
+CGC,1.08,Drug Manufacturers - Specialty & Generic,Healthcare
+CURV,1.08,Apparel Retail,Consumer Cyclical
+CDT,1.08,Biotechnology,Healthcare
+YYAI,1.07,Software - Infrastructure,Technology
+MOGO,1.07,Software - Infrastructure,Technology
+MSW,1.07,Engineering & Construction,Industrials
+SCKT,1.07,Computer Hardware,Technology
+PETZ,1.06,Restaurants,Consumer Cyclical
+RDI,1.06,Entertainment,Communication Services
+IVF,1.06,Medical Devices,Healthcare
+ONCY,1.06,Biotechnology,Healthcare
+MDCX,1.06,Drug Manufacturers - General,Healthcare
+SEED,1.06,Agricultural Inputs,Basic Materials
+ANTX,1.06,Biotechnology,Healthcare
+GXAI,1.05,Electronic Gaming & Multimedia,Communication Services
+PRZO,1.05,Aerospace & Defense,Industrials
+ELUT,1.05,Medical Devices,Healthcare
+XAIR,1.05,Medical Devices,Healthcare
+CRDL,1.04,Drug Manufacturers - Specialty & Generic,Healthcare
+SKIN,1.04,Household & Personal Products,Consumer Defensive
+TBHC,1.04,Home Improvement Retail,Consumer Cyclical
+BIAF,1.04,Diagnostics & Research,Healthcare
+NRSN,1.04,Biotechnology,Healthcare
+TOP,1.03,Capital Markets,Financial Services
+TMCWW,1.03,,
+FLUX,1.03,Electrical Equipment & Parts,Industrials
+OPTXW,1.03,,
+IFBD,1.03,Software - Application,Technology
+EPOW,1.03,Electrical Equipment & Parts,Industrials
+EDSA,1.02,Biotechnology,Healthcare
+FTHM,1.02,Real Estate Services,Real Estate
+HOTH,1.02,Biotechnology,Healthcare
+GDTC,1.02,Biotechnology,Healthcare
+RYET,1.02,Education & Training Services,Consumer Defensive
+IZM,1.02,Electronics & Computer Distribution,Technology
+MGLD,1.02,Asset Management,Financial Services
+AMTD,1.02,Asset Management,Financial Services
+GMHS,1.01,Electronic Gaming & Multimedia,Communication Services
+VRME,1.01,Security & Protection Services,Industrials
+TRUG,1.01,Leisure,Consumer Cyclical
+RMTI,1.01,Drug Manufacturers - Specialty & Generic,Healthcare
+UAVS,1.01,Computer Hardware,Technology
+HUMA,1.01,Biotechnology,Healthcare
+XCH,1.0,Specialty Industrial Machinery,Industrials
+CNEY,1.0,Specialty Chemicals,Basic Materials
+AEON,1.0,Biotechnology,Healthcare
+HCHL,1.0,Restaurants,Consumer Cyclical
+REFR,1.0,Electronic Components,Technology
+QETAR,1.0,,
+TVACW,1.0,,
+GETY,1.0,Internet Content & Information,Communication Services
+SYNX,1.0,Communication Equipment,Technology
+USEG,1.0,Oil & Gas E&P,Energy
+RDHL,1.0,Drug Manufacturers - Specialty & Generic,Healthcare
+NNVC,1.0,Biotechnology,Healthcare
+NRDY,1.0,Software - Application,Technology
+SACH,1.0,REIT - Mortgage,Real Estate
+RETO,0.99,Building Materials,Basic Materials
+USGOW,0.99,Unknown,Unknown
+QSI,0.99,Medical Devices,Healthcare
+VS,0.99,Software - Application,Technology
+LVRO,0.98,Agricultural Inputs,Basic Materials
+UPLD,0.98,Software - Application,Technology
+ZEO,0.98,Solar,Technology
+ADGM,0.98,Medical Devices,Healthcare
+BRN,0.98,Oil & Gas E&P,Energy
+DXF,0.98,Credit Services,Financial Services
+BGMS,0.98,Biotechnology,Healthcare
+GIFT,0.97,Internet Content & Information,Communication Services
+HAIN,0.96,Packaged Foods,Consumer Defensive
+RZLVW,0.96,,
+EVGN,0.96,Biotechnology,Healthcare
+COCP,0.96,Biotechnology,Healthcare
+CBAT,0.96,Electrical Equipment & Parts,Industrials
+ZYBT,0.96,Drug Manufacturers - Specialty & Generic,Healthcare
+INVZ,0.95,Auto Parts,Consumer Cyclical
+VGAS,0.95,Utilities - Renewable,Utilities
+RCT,0.95,Software - Application,Technology
+QH,0.95,Software - Application,Technology
+KNDI,0.95,Recreational Vehicles,Consumer Cyclical
+MAMO,0.95,Recreational Vehicles,Consumer Cyclical
+SABR,0.95,Software - Infrastructure,Technology
+INTZ,0.94,Software - Infrastructure,Technology
+MEGL,0.94,Capital Markets,Financial Services
+CDLX,0.93,Advertising Agencies,Communication Services
+TCRX,0.93,Biotechnology,Healthcare
+DTSS,0.93,Software - Infrastructure,Technology
+HIHO,0.93,Metal Fabrication,Industrials
+RNXT,0.93,Biotechnology,Healthcare
+RAYA,0.92,Electrical Equipment & Parts,Industrials
+DSS,0.92,Packaging & Containers,Consumer Cyclical
+GVH,0.92,Integrated Freight & Logistics,Industrials
+NOTE,0.92,Information Technology Services,Technology
+TANH,0.92,Household & Personal Products,Consumer Defensive
+BTM,0.92,Capital Markets,Financial Services
+IMUX,0.91,Biotechnology,Healthcare
+HMR,0.91,Marine Shipping,Industrials
+MDCXW,0.91,,
+YDKG,0.9,Advertising Agencies,Communication Services
+YHC,0.9,Beverages - Wineries & Distilleries,Consumer Defensive
+AKAN,0.9,Drug Manufacturers - Specialty & Generic,Healthcare
+NVX,0.9,Electrical Equipment & Parts,Industrials
+FRSX,0.9,Auto Parts,Consumer Cyclical
+AQB,0.9,Farm Products,Consumer Defensive
+INCR,0.9,Drug Manufacturers - Specialty & Generic,Healthcare
+PTHL,0.9,Medical Devices,Healthcare
+EDTK,0.9,Education & Training Services,Consumer Defensive
+ENGS,0.9,Waste Management,Industrials
+PRSO,0.89,Semiconductors,Technology
+SLQT,0.89,Insurance Brokers,Financial Services
+XTLB,0.89,Biotechnology,Healthcare
+SFWL,0.89,Integrated Freight & Logistics,Industrials
+COOK,0.89,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+FATBB,0.89,Restaurants,Consumer Cyclical
+ATYR,0.89,Biotechnology,Healthcare
+SURG,0.89,Telecom Services,Communication Services
+AACG,0.89,Education & Training Services,Consumer Defensive
+WWR,0.88,Other Industrial Metals & Mining,Basic Materials
+GNTA,0.88,Biotechnology,Healthcare
+INM,0.88,Drug Manufacturers - Specialty & Generic,Healthcare
+ALBT,0.88,Real Estate Services,Real Estate
+CANG,0.88,Capital Markets,Financial Services
+SHFS,0.88,Banks - Regional,Financial Services
+SLNH,0.88,Capital Markets,Financial Services
+JCSE,0.87,Specialty Industrial Machinery,Industrials
+DGLY,0.87,Internet Content & Information,Communication Services
+MBIO,0.87,Biotechnology,Healthcare
+XHG,0.87,Insurance Brokers,Financial Services
+GNLN,0.87,Tobacco,Consumer Defensive
+IFRX,0.86,Biotechnology,Healthcare
+GPRO,0.86,Consumer Electronics,Technology
+PW,0.86,REIT - Specialty,Real Estate
+MNDR,0.86,Health Information Services,Healthcare
+ELBM,0.86,Other Industrial Metals & Mining,Basic Materials
+AISPW,0.85,,
+WLDS,0.85,Consumer Electronics,Technology
+NIPG,0.85,Entertainment,Communication Services
+DEVS,0.85,Pollution & Treatment Controls,Industrials
+BNBX,0.85,Asset Management,Financial Services
+ALLR,0.85,Biotechnology,Healthcare
+CASI,0.85,Biotechnology,Healthcare
+CNET,0.85,Advertising Agencies,Communication Services
+VNTG,0.85,Marine Shipping,Industrials
+EUDA,0.84,Real Estate Services,Real Estate
+AFRIW,0.84,,
+YIBO,0.84,Computer Hardware,Technology
+SLRX,0.84,Biotechnology,Healthcare
+KWM,0.84,Entertainment,Communication Services
+DLXY,0.84,Oil & Gas Refining & Marketing,Energy
+BCARW,0.84,Shell Companies,Financial Services
+ETHMW,0.84,,
+SNTI,0.83,Biotechnology,Healthcare
+MPU,0.83,Entertainment,Communication Services
+CTM,0.83,Information Technology Services,Technology
+GTEC,0.83,Auto Parts,Consumer Cyclical
+FMSTW,0.83,,
+ADSEW,0.83,,
+DYAI,0.83,Biotechnology,Healthcare
+ZENV,0.83,Software - Application,Technology
+NITO,0.83,Agricultural Inputs,Basic Materials
+SLAI,0.83,Information Technology Services,Technology
+LBGJ,0.82,Specialty Industrial Machinery,Industrials
+KITT,0.82,Aerospace & Defense,Industrials
+BZFD,0.82,Internet Content & Information,Communication Services
+ABLV,0.82,Specialty Retail,Consumer Cyclical
+MYO,0.82,Medical Devices,Healthcare
+JZ,0.81,Information Technology Services,Technology
+REKR,0.81,Software - Infrastructure,Technology
+TLPH,0.81,Drug Manufacturers - Specialty & Generic,Healthcare
+OPAD,0.81,Real Estate Services,Real Estate
+BGI,0.81,Luxury Goods,Consumer Cyclical
+ZBAO,0.81,Insurance Brokers,Financial Services
+NMTC,0.81,Medical Devices,Healthcare
+TIVC,0.81,Medical Devices,Healthcare
+PMTRW,0.8,Shell Companies,Financial Services
+HKPD,0.8,Pharmaceutical Retailers,Healthcare
+AIRJW,0.8,,
+CCHH,0.8,Restaurants,Consumer Cyclical
+MYNZ,0.8,Diagnostics & Research,Healthcare
+GELS,0.8,Drug Manufacturers - Specialty & Generic,Healthcare
+NIVF,0.8,Medical Care Facilities,Healthcare
+CCG,0.8,Internet Content & Information,Communication Services
+DVLT,0.79,Software - Infrastructure,Technology
+NXXT,0.79,Utilities - Renewable,Utilities
+YDESW,0.79,,
+TELA,0.79,Medical Devices,Healthcare
+SATLW,0.78,,
+CHACR,0.78,,
+CLDI,0.78,Biotechnology,Healthcare
+BARK,0.78,Specialty Retail,Consumer Cyclical
+RITR,0.78,Engineering & Construction,Industrials
+SOBR,0.78,Scientific & Technical Instruments,Technology
+BFRI,0.78,Drug Manufacturers - Specialty & Generic,Healthcare
+TOPP,0.78,Trucking,Industrials
+APM,0.78,Biotechnology,Healthcare
+AIFF,0.78,Software - Application,Technology
+PMEC,0.78,Specialty Business Services,Industrials
+FSP,0.78,REIT - Office,Real Estate
+VRAR,0.77,Software - Infrastructure,Technology
+XPON,0.77,Electrical Equipment & Parts,Industrials
+BDMD,0.77,Medical Devices,Healthcare
+CSAI,0.77,Software - Infrastructure,Technology
+RTACW,0.77,Shell Companies,Financial Services
+BACQR,0.77,,
+CTXR,0.77,Biotechnology,Healthcare
+UPXI,0.77,Internet Content & Information,Communication Services
+JBDI,0.77,Specialty Retail,Consumer Cyclical
+LASE,0.77,Specialty Industrial Machinery,Industrials
+TRIB,0.77,Medical Devices,Healthcare
+ONCO,0.77,Biotechnology,Healthcare
+DEFT,0.76,Capital Markets,Financial Services
+KNRX,0.76,Software - Application,Technology
+GTENW,0.76,Unknown,Unknown
+SGRP,0.76,Specialty Business Services,Industrials
+OACCW,0.75,,
+GAUZ,0.75,Electronic Components,Technology
+EPWK,0.75,Software - Application,Technology
+PSQH,0.75,Software - Application,Technology
+PRHI,0.75,Insurance - Property & Casualty,Financial Services
+MVIS,0.75,Scientific & Technical Instruments,Technology
+SCYX,0.75,Drug Manufacturers - Specialty & Generic,Healthcare
+DCGO,0.75,Medical Care Facilities,Healthcare
+LGPS,0.75,Conglomerates,Industrials
+XPL,0.74,Other Industrial Metals & Mining,Basic Materials
+DRDBW,0.74,,
+MWYN,0.74,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+SCNI,0.74,Biotechnology,Healthcare
+SMXT,0.74,Solar,Technology
+TNON,0.74,Medical Devices,Healthcare
+IMRN,0.74,Biotechnology,Healthcare
+TEAD,0.74,Internet Content & Information,Communication Services
+ABP,0.73,Biotechnology,Healthcare
+BRCC,0.73,Packaged Foods,Consumer Defensive
+LNAI,0.73,Biotechnology,Healthcare
+KXIN,0.72,Auto & Truck Dealerships,Consumer Cyclical
+ATIIW,0.72,,
+MAPS,0.72,Software - Application,Technology
+MXCT,0.72,Medical Devices,Healthcare
+SOPA,0.72,Advertising Agencies,Communication Services
+SKYE,0.72,Biotechnology,Healthcare
+CLGN,0.72,Biotechnology,Healthcare
+BYND,0.71,Packaged Foods,Consumer Defensive
+GBR,0.71,Real Estate Services,Real Estate
+FURY,0.71,Other Industrial Metals & Mining,Basic Materials
+TURB,0.71,Solar,Technology
+KTTA,0.71,Biotechnology,Healthcare
+HCMAW,0.7,Shell Companies,Financial Services
+RAAQW,0.7,,
+MMA,0.7,Leisure,Consumer Cyclical
+CDROW,0.7,,
+TOMZ,0.7,Pollution & Treatment Controls,Industrials
+IMTE,0.7,Electronic Components,Technology
+YCBD,0.7,Drug Manufacturers - Specialty & Generic,Healthcare
+SVRE,0.7,Scientific & Technical Instruments,Technology
+PDSB,0.7,Biotechnology,Healthcare
+PRTS,0.7,Auto Parts,Consumer Cyclical
+BLIN,0.7,Software - Infrastructure,Technology
+BLNK,0.69,Engineering & Construction,Industrials
+CCIIW,0.69,,
+PRPL,0.69,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+GCL,0.68,Electronic Gaming & Multimedia,Communication Services
+MRNO,0.68,Real Estate - Development,Real Estate
+PMCB,0.68,Biotechnology,Healthcare
+MSGY,0.68,Engineering & Construction,Industrials
+AUUD,0.67,Software - Application,Technology
+PAPL,0.67,Mortgage Finance,Financial Services
+CCTG,0.67,Electrical Equipment & Parts,Industrials
+MITQ,0.67,Communication Equipment,Technology
+MBAVW,0.67,,
+RVP,0.66,Medical Instruments & Supplies,Healthcare
+TOON,0.66,Entertainment,Communication Services
+TNYA,0.66,Biotechnology,Healthcare
+UP,0.66,Airports & Air Services,Industrials
+CALC,0.66,Biotechnology,Healthcare
+OGEN,0.66,Biotechnology,Healthcare
+PELIR,0.65,,
+GMGI,0.65,Electronic Gaming & Multimedia,Communication Services
+IPST,0.65,Capital Markets,Financial Services
+HOWL,0.65,Biotechnology,Healthcare
+HCWB,0.65,Biotechnology,Healthcare
+ONCHW,0.65,,
+SELX,0.65,Electronic Components,Technology
+ONMD,0.65,Health Information Services,Healthcare
+CTSO,0.64,Medical Devices,Healthcare
+ZTEK,0.64,Medical Instruments & Supplies,Healthcare
+ATER,0.64,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+HXHX,0.64,Integrated Freight & Logistics,Industrials
+BMGL,0.63,Medical Care Facilities,Healthcare
+JAGX,0.63,Biotechnology,Healthcare
+THH,0.63,Specialty Business Services,Industrials
+CPHI,0.63,Drug Manufacturers - Specialty & Generic,Healthcare
+BRNS,0.63,Biotechnology,Healthcare
+MDIA,0.63,Broadcasting,Communication Services
+LEXX,0.62,Biotechnology,Healthcare
+CHOW,0.62,Software - Infrastructure,Technology
+TOUR,0.62,Travel Services,Consumer Cyclical
+ADTX,0.62,Biotechnology,Healthcare
+WTO,0.62,Consumer Electronics,Technology
+SYBX,0.62,Biotechnology,Healthcare
+CLIR,0.61,Pollution & Treatment Controls,Industrials
+RMSG,0.61,Unknown,Unknown
+GLMD,0.61,Biotechnology,Healthcare
+FFAI,0.61,Auto Manufacturers,Consumer Cyclical
+YXT,0.61,Software - Application,Technology
+APRE,0.61,Biotechnology,Healthcare
+COCH,0.6,Medical Devices,Healthcare
+KAPA,0.6,Biotechnology,Healthcare
+CIIT,0.6,Integrated Freight & Logistics,Industrials
+BLUWW,0.6,,
+SFHG,0.6,Specialty Business Services,Industrials
+RDAGW,0.6,Shell Companies,Financial Services
+DGNX,0.6,Consulting Services,Industrials
+SPRC,0.6,Biotechnology,Healthcare
+AMOD,0.59,Software - Application,Technology
+NINE,0.59,Oil & Gas Equipment & Services,Energy
+PED,0.59,Oil & Gas E&P,Energy
+COOT,0.59,Packaged Foods,Consumer Defensive
+SNAL,0.59,Electronic Gaming & Multimedia,Communication Services
+IINN,0.59,Medical Devices,Healthcare
+BIOX,0.59,Agricultural Inputs,Basic Materials
+GIPR,0.59,REIT - Diversified,Real Estate
+MTNB,0.59,Biotechnology,Healthcare
+BKYI,0.58,Security & Protection Services,Industrials
+ADV,0.58,Advertising Agencies,Communication Services
+PPBT,0.58,Biotechnology,Healthcare
+XLO,0.58,Biotechnology,Healthcare
+BHAT,0.58,Electronic Gaming & Multimedia,Communication Services
+CETY,0.58,Specialty Industrial Machinery,Industrials
+JUNS,0.58,Biotechnology,Healthcare
+EJH,0.58,Personal Services,Consumer Cyclical
+LOBO,0.58,Auto Manufacturers,Consumer Cyclical
+XTNT,0.58,Medical Devices,Healthcare
+TMDE,0.58,Oil & Gas Midstream,Energy
+REE,0.57,Auto Parts,Consumer Cyclical
+ABVEW,0.57,,
+MYSZ,0.57,Software - Application,Technology
+ICCM,0.57,Medical Devices,Healthcare
+VYNE,0.57,Biotechnology,Healthcare
+AEHL,0.57,Building Products & Equipment,Industrials
+NXPL,0.56,Software - Application,Technology
+CHGG,0.56,Education & Training Services,Consumer Defensive
+NPACW,0.56,,
+DXLG,0.56,Apparel Retail,Consumer Cyclical
+LSH,0.56,Integrated Freight & Logistics,Industrials
+HBIO,0.55,Medical Instruments & Supplies,Healthcare
+FGMCR,0.55,,
+CCIXW,0.55,,
+CAPS,0.55,Building Materials,Basic Materials
+IMG,0.55,Packaged Foods,Consumer Defensive
+ALDFW,0.55,,
+ARAY,0.55,Medical Devices,Healthcare
+TBMCR,0.54,Unknown,Unknown
+LGVN,0.54,Biotechnology,Healthcare
+NCPL,0.54,Capital Markets,Financial Services
+FTRK,0.54,Entertainment,Communication Services
+SBEV,0.53,Beverages - Wineries & Distilleries,Consumer Defensive
+NIXX,0.53,Staffing & Employment Services,Industrials
+NBY,0.52,Biotechnology,Healthcare
+ATON,0.52,Asset Management,Financial Services
+VTGN,0.51,Biotechnology,Healthcare
+FEMY,0.51,Medical Instruments & Supplies,Healthcare
+INEO,0.51,Auto Parts,Consumer Cyclical
+LFWD,0.51,Medical Devices,Healthcare
+NAMI,0.51,Internet Content & Information,Communication Services
+UK,0.5,Real Estate Services,Real Estate
+OSRH,0.5,Biotechnology,Healthcare
+CAPT,0.5,Building Materials,Basic Materials
+OFAL,0.5,Engineering & Construction,Industrials
+ELPW,0.49,Electrical Equipment & Parts,Industrials
+PLMKW,0.49,,
+OTLK,0.49,Biotechnology,Healthcare
+NDLS,0.49,Restaurants,Consumer Cyclical
+SMSI,0.49,Software - Application,Technology
+CAN,0.49,Computer Hardware,Technology
+WXM,0.49,Industrial Distribution,Industrials
+ONFO,0.49,Internet Content & Information,Communication Services
+AERT,0.48,Consulting Services,Industrials
+ETS,0.48,Trucking,Industrials
+ANEB,0.48,Biotechnology,Healthcare
+DAVEW,0.48,,
+GIGGW,0.47,,
+IRBT,0.47,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+MYPS,0.47,Electronic Gaming & Multimedia,Communication Services
+WETO,0.47,Software - Application,Technology
+WYHG,0.46,Packaged Foods,Consumer Defensive
+VEEA,0.46,Information Technology Services,Technology
+GTBP,0.46,Biotechnology,Healthcare
+FACTW,0.46,,
+EURKR,0.46,,
+BFRG,0.46,Health Information Services,Healthcare
+MBVIW,0.46,Unknown,Unknown
+UHGWW,0.46,Unknown,Unknown
+AZI,0.46,Auto & Truck Dealerships,Consumer Cyclical
+BAERW,0.46,,
+SOWG,0.45,Confectioners,Consumer Defensive
+IBO,0.45,Biotechnology,Healthcare
+NXL,0.45,Medical Devices,Healthcare
+TLNCW,0.45,,
+MDAIW,0.45,,
+MODD,0.45,Medical Devices,Healthcare
+MYND,0.45,Education & Training Services,Consumer Defensive
+XWEL,0.44,Diagnostics & Research,Healthcare
+PN,0.44,Solar,Technology
+OPTT,0.44,Specialty Industrial Machinery,Industrials
+USBC,0.44,Scientific & Technical Instruments,Technology
+NCRA,0.44,Packaged Foods,Consumer Defensive
+AENTW,0.44,,
+MCGAW,0.44,Unknown,Unknown
+YMAT,0.43,Specialty Chemicals,Basic Materials
+XRTX,0.43,Biotechnology,Healthcare
+DKI,0.43,Electronic Gaming & Multimedia,Communication Services
+CUPR,0.43,Medical Instruments & Supplies,Healthcare
+ENSC,0.43,Biotechnology,Healthcare
+BRRWW,0.43,,
+SCNX,0.43,Pharmaceutical Retailers,Healthcare
+WFF,0.42,Specialty Industrial Machinery,Industrials
+GLE,0.42,Information Technology Services,Technology
+GUTS,0.42,Biotechnology,Healthcare
+OLB,0.42,Software - Infrastructure,Technology
+RXT,0.42,Software - Infrastructure,Technology
+GNS,0.42,Education & Training Services,Consumer Defensive
+BTOC,0.41,Integrated Freight & Logistics,Industrials
+BDCIW,0.41,,
+TPET,0.41,Oil & Gas E&P,Energy
+KALA,0.41,Biotechnology,Healthcare
+IPODW,0.41,,
+RELI,0.41,Insurance Brokers,Financial Services
+CLSD,0.41,Biotechnology,Healthcare
+AGRZ,0.41,Farm Products,Consumer Defensive
+COLAR,0.41,,
+MGRX,0.4,Health Information Services,Healthcare
+SLDPW,0.4,,
+INLF,0.4,Specialty Industrial Machinery,Industrials
+VERO,0.4,Medical Devices,Healthcare
+PTIX,0.4,Biotechnology,Healthcare
+CREV,0.4,Auto Parts,Consumer Cyclical
+GFAI,0.39,Security & Protection Services,Industrials
+AFJKR,0.39,,
+SGMO,0.39,Biotechnology,Healthcare
+SOAR,0.39,Airports & Air Services,Industrials
+ATXG,0.39,Integrated Freight & Logistics,Industrials
+TRNR,0.39,Personal Services,Consumer Cyclical
+JFBR,0.39,Internet Retail,Consumer Cyclical
+UOKA,0.39,Lodging,Consumer Cyclical
+TSE,0.39,Specialty Chemicals,Basic Materials
+RPGL,0.39,Software - Application,Technology
+MIMI,0.39,Engineering & Construction,Industrials
+DAAQW,0.39,,
+IPCXR,0.38,,
+COSM,0.38,Medical Distribution,Healthcare
+AMIX,0.38,Medical Devices,Healthcare
+LIMN,0.38,Biotechnology,Healthcare
+ZDAI,0.38,Engineering & Construction,Industrials
+ZOOZ,0.38,Specialty Retail,Consumer Cyclical
+MSN,0.37,Consumer Electronics,Technology
+BGLWW,0.37,,
+IOBT,0.37,Biotechnology,Healthcare
+MREO,0.37,Biotechnology,Healthcare
+AGL,0.36,Medical Care Facilities,Healthcare
+NTCL,0.36,Software - Application,Technology
+PCTTW,0.36,,
+SGLY,0.36,Integrated Freight & Logistics,Industrials
+EONR,0.36,Oil & Gas E&P,Energy
+SIMAW,0.36,,
+FMFC,0.36,Footwear & Accessories,Consumer Cyclical
+TACHW,0.35,,
+BZAIW,0.35,,
+WENNW,0.35,Unknown,Unknown
+RANGR,0.35,,
+EGHAR,0.35,,
+VSEE,0.35,Health Information Services,Healthcare
+AMZE,0.35,Software - Application,Technology
+GSHRW,0.34,,
+SSKN,0.34,Medical Devices,Healthcare
+CNCKW,0.34,,
+TBH,0.34,Electronic Gaming & Multimedia,Communication Services
+CPOP,0.34,Entertainment,Communication Services
+IVDA,0.34,Security & Protection Services,Industrials
+CISO,0.34,Software - Infrastructure,Technology
+HOVRW,0.34,,
+NTWOW,0.34,,
+INTJ,0.33,Consulting Services,Industrials
+SKYQ,0.33,Oil & Gas Integrated,Energy
+TLIH,0.33,Industrial Distribution,Industrials
+VCIG,0.33,Consulting Services,Industrials
+TACOW,0.33,,
+STAK,0.33,Oil & Gas Equipment & Services,Energy
+ASPSW,0.33,,
+LMFA,0.33,Credit Services,Financial Services
+HVMCW,0.32,Unknown,Unknown
+ILLR,0.32,Software - Application,Technology
+ERNA,0.32,Biotechnology,Healthcare
+LPBBW,0.32,,
+PMNT,0.32,Apparel Manufacturing,Consumer Cyclical
+FERAR,0.32,,
+PCAPW,0.32,Unknown,Unknown
+TGHL,0.32,Software - Infrastructure,Technology
+AACBR,0.32,,
+BEAGR,0.31,,
+AIRE,0.31,Real Estate Services,Real Estate
+CUE,0.31,Biotechnology,Healthcare
+BANL,0.31,Oil & Gas Midstream,Energy
+SBCWW,0.31,,
+MLACR,0.3,,
+ALVOW,0.3,,
+SKK,0.3,Engineering & Construction,Industrials
+DAIC,0.3,Information Technology Services,Technology
+AREB,0.3,Footwear & Accessories,Consumer Cyclical
+NAKA,0.3,Capital Markets,Financial Services
+ISPC,0.3,Diagnostics & Research,Healthcare
+GAME,0.3,Electronic Gaming & Multimedia,Communication Services
+CLSKW,0.29,,
+SILO,0.29,Biotechnology,Healthcare
+CURX,0.29,Biotechnology,Healthcare
+QSEAR,0.29,,
+GIWWR,0.29,Unknown,Unknown
+VACHW,0.29,,
+GRRRW,0.29,,
+MSAI,0.29,Software - Infrastructure,Technology
+BNAIW,0.28,,
+PSTV,0.28,Biotechnology,Healthcare
+SMTK,0.28,Semiconductor Equipment & Materials,Technology
+TVGN,0.28,Biotechnology,Healthcare
+CDTG,0.28,Waste Management,Industrials
+SPKLW,0.28,,
+NOTV,0.28,Diagnostics & Research,Healthcare
+WGRX,0.28,Pharmaceutical Retailers,Healthcare
+WORX,0.28,Health Information Services,Healthcare
+BRTX,0.28,Biotechnology,Healthcare
+MSS,0.28,Grocery Stores,Consumer Defensive
+SDSTW,0.28,,
+VSTD,0.27,Restaurants,Consumer Cyclical
+IXHL,0.27,Drug Manufacturers - Specialty & Generic,Healthcare
+KCHVR,0.27,Unknown,Unknown
+TDACW,0.27,,
+ITRM,0.27,Biotechnology,Healthcare
+STAI,0.27,Building Products & Equipment,Industrials
+HCWC,0.27,Packaged Foods,Consumer Defensive
+SVCCW,0.27,,
+AGAE,0.26,Entertainment,Communication Services
+MLSS,0.26,Medical Instruments & Supplies,Healthcare
+SPEGR,0.26,Unknown,Unknown
+BIVIW,0.26,,
+ZSPC,0.26,Computer Hardware,Technology
+RYDE,0.26,Software - Application,Technology
+VNMEW,0.26,Shell Companies,Financial Services
+IGC,0.26,Biotechnology,Healthcare
+AUROW,0.26,,
+RVPH,0.26,Biotechnology,Healthcare
+KOYNW,0.26,,
+ZONE,0.26,Pollution & Treatment Controls,Industrials
+SGN,0.25,Software - Application,Technology
+HVIIR,0.25,,
+SPWRW,0.25,,
+HTCR,0.25,Software - Application,Technology
+POM,0.25,Pharmaceutical Retailers,Healthcare
+CRAQR,0.25,Unknown,Unknown
+INTS,0.25,Biotechnology,Healthcare
+FBLG,0.25,Biotechnology,Healthcare
+SGD,0.25,Real Estate - Development,Real Estate
+TDTH,0.25,Information Technology Services,Technology
+ORIQW,0.24,,
+APADR,0.24,,
+BACCR,0.24,,
+ADVB,0.24,Diagnostics & Research,Healthcare
+ATCH,0.24,Capital Markets,Financial Services
+SZZLR,0.24,,
+FIGXW,0.24,Unknown,Unknown
+PASW,0.23,Textile Manufacturing,Consumer Cyclical
+JOB,0.23,Staffing & Employment Services,Industrials
+LXEH,0.23,Education & Training Services,Consumer Defensive
+ASPSZ,0.23,,
+GPATW,0.23,,
+AKTX,0.23,Biotechnology,Healthcare
+MWG,0.23,Rental & Leasing Services,Industrials
+ZNB,0.23,Entertainment,Communication Services
+HCAI,0.23,Farm & Heavy Construction Machinery,Industrials
+AURE,0.23,Capital Markets,Financial Services
+AIXI,0.23,Software - Application,Technology
+OBAWW,0.23,,
+ASNS,0.23,Communication Equipment,Technology
+ALFUW,0.23,,
+VNRX,0.23,Medical Devices,Healthcare
+ODVWZ,0.22,,
+DXST,0.22,Waste Management,Industrials
+MASK,0.22,Software - Application,Technology
+LHSW,0.22,Software - Infrastructure,Technology
+KLTO,0.22,Biotechnology,Healthcare
+FCHL,0.22,Education & Training Services,Consumer Defensive
+SOCAW,0.22,Shell Companies,Financial Services
+NMPAR,0.22,Unknown,Unknown
+YYGH,0.21,Personal Services,Consumer Cyclical
+ZCMD,0.21,Health Information Services,Healthcare
+VRAX,0.21,Biotechnology,Healthcare
+PPCB,0.21,Biotechnology,Healthcare
+NOEMR,0.21,,
+TAVIR,0.21,,
+ITP,0.21,Paper & Paper Products,Basic Materials
+NCT,0.21,Marine Shipping,Industrials
+DSY,0.21,Household & Personal Products,Consumer Defensive
+EHGO,0.2,Business Equipment & Supplies,Industrials
+ANNAW,0.2,,
+RDACR,0.2,,
+AZTR,0.2,Biotechnology,Healthcare
+MTEKW,0.2,,
+RAINW,0.2,,
+WTGUR,0.2,,
+GPUS,0.2,Aerospace & Defense,Industrials
+QUMSR,0.2,,
+IINNW,0.2,,
+CUBWW,0.2,,
+CXAI,0.2,Software - Application,Technology
+OAKUR,0.2,Unknown,Unknown
+ASTLW,0.2,,
+QNCX,0.2,Biotechnology,Healthcare
+RIBBR,0.19,,
+CRGOW,0.19,,
+MOBX,0.19,Semiconductors,Technology
+DTSQR,0.19,,
+KFIIR,0.19,,
+PGYWW,0.19,,
+LAZR,0.19,Auto Parts,Consumer Cyclical
+NAMMW,0.18,,
+NCL,0.18,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+EEIQ,0.18,Education & Training Services,Consumer Defensive
+TOVX,0.18,Biotechnology,Healthcare
+AXINR,0.18,,
+DTCK,0.18,Farm Products,Consumer Defensive
+SAFX,0.18,Utilities - Renewable,Utilities
+GRABW,0.18,,
+ASPCR,0.17,,
+ARQQW,0.17,,
+BETRW,0.17,,
+TDIC,0.17,Advertising Agencies,Communication Services
+XTKG,0.17,Software - Application,Technology
+FUFUW,0.17,,
+ALCYW,0.16,Unknown,Unknown
+CHARR,0.16,,
+NOEMW,0.16,,
+FAT,0.16,Restaurants,Consumer Cyclical
+SRXH,0.15,Packaged Foods,Consumer Defensive
+GTERW,0.15,Shell Companies,Financial Services
+EMISR,0.15,Unknown,Unknown
+RDZNW,0.15,,
+BTBDW,0.15,Unknown,Unknown
+BFRGW,0.15,Unknown,Unknown
+BCAB,0.15,Biotechnology,Healthcare
+ORGN,0.15,Chemicals,Basic Materials
+MKLYR,0.15,,
+PRPH,0.15,Diagnostics & Research,Healthcare
+SCLXW,0.15,,
+OYSER,0.15,,
+BCGWW,0.14,,
+DTSTW,0.14,,
+YHNAR,0.14,,
+JTAI,0.14,Software - Application,Technology
+KIDZ,0.14,Education & Training Services,Consumer Defensive
+ZJYL,0.14,Medical Instruments & Supplies,Healthcare
+WCT,0.14,Software - Application,Technology
+GSIW,0.14,Capital Markets,Financial Services
+LPAAW,0.14,,
+AIMDW,0.14,,
+NXGLW,0.14,,
+SBFMW,0.13,,
+AIIO,0.13,Auto Manufacturers,Consumer Cyclical
+EVLVW,0.13,,
+BSLK,0.13,Specialty Chemicals,Basic Materials
+VFSWW,0.13,,
+KVACW,0.13,,
+FOXXW,0.13,,
+INACR,0.13,,
+DMAAR,0.13,,
+CENN,0.13,Auto Manufacturers,Consumer Cyclical
+FATBP,0.13,Restaurants,Consumer Cyclical
+FLDDW,0.13,,
+NUKKW,0.13,,
+ZYXI,0.12,Medical Distribution,Healthcare
+HPAIW,0.12,,
+PTLE,0.12,Specialty Retail,Consumer Cyclical
+GTERR,0.12,,
+IVDAW,0.12,,
+QSIAW,0.12,,
+RMCOW,0.12,,
+JEM,0.12,Apparel Retail,Consumer Cyclical
+HUMAW,0.11,,
+STFS,0.11,Advertising Agencies,Communication Services
+MACIW,0.11,,
+RFAIR,0.1,,
+EUDAW,0.1,,
+HSCSW,0.1,,
+APLT,0.1,Biotechnology,Healthcare
+EDBLW,0.1,,
+TOIIW,0.1,,
+AMPGW,0.1,,
+ONMDW,0.1,,
+FUSEW,0.1,,
+BURU,0.1,Specialty Industrial Machinery,Industrials
+GFAIW,0.1,,
+ARBEW,0.1,,
+HOLOW,0.09,,
+TIRX,0.09,Insurance Brokers,Financial Services
+LIMNW,0.09,,
+OXBRW,0.09,,
+VEEAW,0.09,,
+PDYNW,0.09,,
+AMODW,0.08,,
+KITTW,0.08,,
+BTMWW,0.07,Unknown,Unknown
+LOTWW,0.07,,
+ATMCW,0.07,,
+SWAGW,0.07,,
+KLTOW,0.07,,
+SEATW,0.07,,
+LUCYW,0.07,,
+LIDRW,0.07,,
+TWNP,0.07,Restaurants,Consumer Cyclical
+KWMWW,0.06,,
+BYAH,0.06,Household & Personal Products,Consumer Defensive
+MVSTW,0.06,,
+SCAGW,0.06,,
+OSRHW,0.06,,
+OUSTZ,0.06,,
+SXTPW,0.06,Unknown,Unknown
+RVSNW,0.06,,
+CINGW,0.06,,
+BRLSW,0.06,,
+EVGOW,0.06,,
+ESGLW,0.06,,
+MOBXW,0.06,,
+ILLRW,0.06,,
+SRTAW,0.05,,
+IBACR,0.05,,
+MSAIW,0.05,,
+ZOOZW,0.05,,
+GIPRW,0.05,,
+VSEEW,0.05,,
+MNYWW,0.05,,
+DFSCW,0.05,,
+SMXWW,0.05,,
+ONFOW,0.05,,
+MRNOW,0.05,,
+SDAWW,0.04,Unknown,Unknown
+DFLIW,0.04,,
+MSPR,0.04,Health Information Services,Healthcare
+BNCWW,0.04,,
+CXAIW,0.04,Unknown,Unknown
+HSPOW,0.04,Shell Companies,Financial Services
+CAPTW,0.04,,
+SABSW,0.04,,
+CERO,0.04,Biotechnology,Healthcare
+AEVAW,0.04,,
+WALDW,0.04,,
+FGIWW,0.04,,
+NVNIW,0.04,,
+MYSEW,0.04,,
+SHFSW,0.04,,
+ZEOWW,0.04,,
+TVGNW,0.04,,
+COCHW,0.04,,
+DAICW,0.03,,
+TBLAW,0.03,,
+AIIOW,0.03,,
+RMSGW,0.03,Unknown,Unknown
+CCGWW,0.03,,
+BNKKW,0.03,Asset Management,Financial Services
+IVP,0.03,Personal Services,Consumer Cyclical
+ABLVW,0.03,,
+GIBOW,0.03,,
+SLXNW,0.03,,
+ACONW,0.03,,
+NRXPW,0.03,,
+LVROW,0.03,Unknown,Unknown
+AERTW,0.03,,
+CDIOW,0.02,,
+DRMAW,0.02,,
+RCKTW,0.02,Unknown,Unknown
+BZFDW,0.02,,
+DSYWW,0.02,,
+JSPRW,0.02,,
+KAVL,0.02,Tobacco,Consumer Defensive
+GDEVW,0.02,,
+ICUCW,0.02,,
+VGASW,0.02,Unknown,Unknown
+VIVK,0.02,Oil & Gas Integrated,Energy
+COOTW,0.02,,
+BNZIW,0.02,,
+WGSWW,0.02,,
+PBMWW,0.02,,
+MNTSW,0.02,,
+CYCUW,0.02,,
+FFAIW,0.02,,
+SRZNW,0.02,,
+MLECW,0.02,,
+STSSW,0.02,,
+NIVFW,0.02,,
+NLSPW,0.02,Unknown,Unknown
+PRENW,0.02,,
+HUBCW,0.02,Unknown,Unknown
+SQFTW,0.02,,
+ASBPW,0.02,,
+LIXTW,0.02,Biotechnology,Healthcare
+PIIIW,0.01,,
+BSLKW,0.01,,
+JFBRW,0.01,,
+TNONW,0.01,Unknown,Unknown
+ANGHW,0.01,,
+ABPWW,0.01,,
+GGROW,0.01,,
+GCMGW,0.01,Unknown,Unknown
+MKDWW,0.01,Unknown,Unknown
+ECDA,0.01,Auto Manufacturers,Consumer Cyclical
+PTIXW,0.01,,
+CEROW,0.01,,
+ETHZW,0.01,Biotechnology,Healthcare
+KIDZW,0.01,,
+MYPSW,0.01,,
+RNWWW,0.01,,
+AREBW,0.01,Unknown,Unknown
+CDTTW,0.01,,
+CELUW,0.01,,
+SWVLW,0.01,Unknown,Unknown
+MAPSW,0.01,,
+TALKW,0.01,Unknown,Unknown
+VSSYW,0.01,,
+NIXXW,0.01,,
+REVBW,0.01,,
+INVZW,0.01,,
+LNZAW,0.01,Unknown,Unknown
+COEPW,0.01,Unknown,Unknown
+APLMW,0.01,Unknown,Unknown
+ISPOW,0.01,,
+BENFW,0.01,,
+HUBCZ,0.01,,
+LTRYW,0.01,Unknown,Unknown
+NVVEW,0.01,,
+UKOMW,0.0,Real Estate Services,Real Estate
+RELIW,0.0,,
+ORGNW,0.0,,
+MSPRW,0.0,,
+BCTXW,0.0,,
+XOSWW,0.0,Unknown,Unknown
+KPLTW,0.0,,
+RVPHW,0.0,Biotechnology,Healthcare
+CLNNW,0.0,,
+AUUDW,0.0,,
+DHAI,0.0,Medical Devices,Healthcare
+DHAIW,0.0,,
+HTOOW,0.0,,
+ARKOW,0.0,,
+CREVW,0.0,,

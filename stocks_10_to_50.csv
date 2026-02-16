@@ -1,0 +1,2480 @@
+Symbol,Last_Price,Industry,Sector
+LW,49.82,Packaged Foods,Consumer Defensive
+AFRM,49.81,Credit Services,Financial Services
+XYZ,49.8,Software - Infrastructure,Technology
+UHAL,49.69,Rental & Leasing Services,Industrials
+JOUT,49.65,Leisure,Consumer Cyclical
+NVO,49.57,Drug Manufacturers - General,Healthcare
+BIPC,49.56,Utilities - Regulated Gas,Utilities
+TPG,49.53,Asset Management,Financial Services
+OZK,49.48,Banks - Regional,Financial Services
+GLOB,49.4,Information Technology Services,Technology
+LIF,49.31,Software - Application,Technology
+MOFG,49.31,Banks - Regional,Financial Services
+CRVL,49.2,Insurance Brokers,Financial Services
+TATT,49.19,Aerospace & Defense,Industrials
+FRAF,49.12,Banks - Regional,Financial Services
+TWST,49.11,Diagnostics & Research,Healthcare
+IP,49.1,Packaging & Containers,Consumer Cyclical
+BLKB,49.08,Software - Application,Technology
+JHG,49.05,Asset Management,Financial Services
+GFS,48.99,Semiconductors,Technology
+VSAT,48.85,Communication Equipment,Technology
+IDT,48.76,Telecom Services,Communication Services
+GLP,48.75,Oil & Gas Midstream,Energy
+MEOH,48.75,Chemicals,Basic Materials
+BWFG,48.74,Banks - Regional,Financial Services
+BKU,48.73,Banks - Regional,Financial Services
+GSHD,48.69,Insurance Brokers,Financial Services
+CNA,48.69,Insurance - Property & Casualty,Financial Services
+SOR,48.69,Asset Management,Financial Services
+SLGN,48.65,Packaging & Containers,Consumer Cyclical
+TS,48.59,Oil & Gas Equipment & Services,Energy
+KARO,48.57,Software - Application,Technology
+EXC,48.48,Utilities - Regulated Electric,Utilities
+GIS,48.34,Packaged Foods,Consumer Defensive
+DGII,48.26,Communication Equipment,Technology
+YETI,48.0,Leisure,Consumer Cyclical
+AFJK,48.0,Shell Companies,Financial Services
+B,47.91,Gold,Basic Materials
+ZEUS,47.86,Steel,Basic Materials
+LGN,47.8,Engineering & Construction,Industrials
+MTDR,47.8,Oil & Gas E&P,Energy
+BN,47.79,Asset Management,Financial Services
+HROW,47.69,Drug Manufacturers - Specialty & Generic,Healthcare
+LXP,47.66,REIT - Industrial,Real Estate
+BATRA,47.65,Entertainment,Communication Services
+MBIN,47.63,Banks - Regional,Financial Services
+BNT,47.6,Insurance - Diversified,Financial Services
+TDS,47.59,Telecom Services,Communication Services
+IFS,47.5,Banks - Regional,Financial Services
+AMKR,47.48,Semiconductor Equipment & Materials,Technology
+ITRN,47.44,Scientific & Technical Instruments,Technology
+DNTH,47.4,Biotechnology,Healthcare
+OHI,47.4,REIT - Healthcare Facilities,Real Estate
+EGO,47.37,Gold,Basic Materials
+TYG,47.35,Asset Management,Financial Services
+POWI,47.21,Semiconductors,Technology
+BILL,46.99,Software - Application,Technology
+OGE,46.98,Utilities - Regulated Electric,Utilities
+OVV,46.93,Oil & Gas E&P,Energy
+WS,46.9,Steel,Basic Materials
+FIS,46.8,Information Technology Services,Technology
+INTC,46.79,Semiconductors,Technology
+ICHR,46.77,Semiconductor Equipment & Materials,Technology
+FEIM,46.72,Communication Equipment,Technology
+NEGG,46.63,Internet Retail,Consumer Cyclical
+CWT,46.56,Utilities - Regulated Water,Utilities
+WGO,46.54,Recreational Vehicles,Consumer Cyclical
+FDBC,46.43,Banks - Regional,Financial Services
+FAST,46.41,Industrial Distribution,Industrials
+GLPI,46.4,REIT - Specialty,Real Estate
+ALRM,46.38,Software - Application,Technology
+TPH,46.37,Residential Construction,Consumer Cyclical
+NI,46.36,Utilities - Regulated Gas,Utilities
+HGV,46.22,Resorts & Casinos,Consumer Cyclical
+CTRN,46.18,Apparel Retail,Consumer Cyclical
+EQBK,46.17,Banks - Regional,Financial Services
+GDS,46.12,Information Technology Services,Technology
+OXY,46.07,Oil & Gas E&P,Energy
+CENX,46.04,Aluminum,Basic Materials
+SNY,46.01,Drug Manufacturers - General,Healthcare
+MAZE,46.01,Biotechnology,Healthcare
+GGAL,45.98,Banks - Regional,Financial Services
+SRRK,45.98,Biotechnology,Healthcare
+IIPR,45.93,REIT - Industrial,Real Estate
+NBTB,45.82,Banks - Regional,Financial Services
+NE,45.82,Oil & Gas Drilling,Energy
+COLL,45.79,Drug Manufacturers - Specialty & Generic,Healthcare
+ETSY,45.73,Internet Retail,Consumer Cyclical
+TRST,45.72,Banks - Regional,Financial Services
+ONIT,45.63,Mortgage Finance,Financial Services
+FLR,45.48,Engineering & Construction,Industrials
+KNSA,45.37,Drug Manufacturers - Specialty & Generic,Healthcare
+ONON,45.29,Footwear & Accessories,Consumer Cyclical
+AGI,45.25,Gold,Basic Materials
+SKWD,45.25,Insurance - Property & Casualty,Financial Services
+CPS,45.2,Auto Parts,Consumer Cyclical
+RPRX,45.19,Biotechnology,Healthcare
+CASS,45.02,Specialty Business Services,Industrials
+CSGP,44.99,Real Estate Services,Real Estate
+DOCU,44.82,Software - Application,Technology
+TRMK,44.73,Banks - Regional,Financial Services
+CELH,44.68,Beverages - Non-Alcoholic,Consumer Defensive
+DVN,44.66,Oil & Gas E&P,Energy
+FRGE,44.64,Capital Markets,Financial Services
+APEI,44.59,Education & Training Services,Consumer Defensive
+ABM,44.51,Specialty Business Services,Industrials
+AAOI,44.46,Communication Equipment,Technology
+MLR,44.43,Auto Parts,Consumer Cyclical
+PBA,44.42,Oil & Gas Midstream,Energy
+APG,44.41,Engineering & Construction,Industrials
+INOD,44.39,Information Technology Services,Technology
+EQH,44.39,Asset Management,Financial Services
+SMP,44.36,Auto Parts,Consumer Cyclical
+NNN,44.34,REIT - Retail,Real Estate
+SFBC,44.3,Banks - Regional,Financial Services
+VNOM,44.25,Oil & Gas Midstream,Energy
+ACU,44.23,Household & Personal Products,Consumer Defensive
+VPG,44.2,Scientific & Technical Instruments,Technology
+NSSC,44.15,Security & Protection Services,Industrials
+RAL,44.13,Electronic Components,Technology
+UBSI,44.12,Banks - Regional,Financial Services
+VTOL,44.1,Oil & Gas Equipment & Services,Energy
+HTB,43.95,Banks - Regional,Financial Services
+BSVN,43.92,Banks - Regional,Financial Services
+EXEL,43.92,Biotechnology,Healthcare
+PEGA,43.85,Software - Application,Technology
+SRV,43.85,Asset Management,Financial Services
+BEPC,43.84,Utilities - Renewable,Utilities
+OBK,43.74,Banks - Regional,Financial Services
+STBA,43.68,Banks - Regional,Financial Services
+TX,43.65,Steel,Basic Materials
+BCH,43.52,Banks - Regional,Financial Services
+ENPH,43.49,Solar,Technology
+E,43.45,Oil & Gas Integrated,Energy
+SPNS,43.45,Software - Application,Technology
+Z,43.45,Internet Content & Information,Communication Services
+GLNG,43.44,Oil & Gas Midstream,Energy
+WES,43.43,Oil & Gas Midstream,Energy
+PPC,43.32,Packaged Foods,Consumer Defensive
+GFL,43.31,Waste Management,Industrials
+ZG,43.3,Internet Content & Information,Communication Services
+ACT,43.29,Insurance - Specialty,Financial Services
+FMBH,43.29,Banks - Regional,Financial Services
+GABC,43.2,Banks - Regional,Financial Services
+UHT,43.2,REIT - Healthcare Facilities,Real Estate
+BATRK,43.18,Entertainment,Communication Services
+CSV,43.16,Personal Services,Consumer Cyclical
+AVA,43.08,Utilities - Diversified,Utilities
+CNO,43.06,Insurance - Life,Financial Services
+EPAC,43.02,Specialty Industrial Machinery,Industrials
+ECO,42.98,Marine Shipping,Industrials
+OVBC,42.95,Banks - Regional,Financial Services
+PARR,42.86,Oil & Gas Refining & Marketing,Energy
+CCBG,42.82,Banks - Regional,Financial Services
+TREX,42.8,Building Products & Equipment,Industrials
+PFX,42.78,Asset Management,Financial Services
+AVNT,42.75,Specialty Chemicals,Basic Materials
+CHT,42.72,Telecom Services,Communication Services
+CRNX,42.7,Biotechnology,Healthcare
+OR,42.69,Gold,Basic Materials
+SDRL,42.66,Oil & Gas Drilling,Energy
+APAM,42.59,Asset Management,Financial Services
+ORI,42.57,Insurance - Property & Casualty,Financial Services
+HMN,42.57,Insurance - Property & Casualty,Financial Services
+CNP,42.52,Utilities - Regulated Electric,Utilities
+EIG,42.5,Insurance - Specialty,Financial Services
+TCBX,42.44,Banks - Regional,Financial Services
+ALGM,42.38,Semiconductors,Technology
+SPFI,42.29,Banks - Regional,Financial Services
+PLOW,42.25,Auto Parts,Consumer Cyclical
+NATL,42.24,Software - Application,Technology
+MRNA,42.23,Biotechnology,Healthcare
+IREN,42.22,Capital Markets,Financial Services
+VERA,42.22,Biotechnology,Healthcare
+CDRE,42.19,Aerospace & Defense,Industrials
+MIAX,42.14,Capital Markets,Financial Services
+CADE,42.11,Banks - Regional,Financial Services
+FSBW,42.08,Banks - Regional,Financial Services
+BME,42.07,Asset Management,Financial Services
+FRME,42.05,Banks - Regional,Financial Services
+TR,42.0,Confectioners,Consumer Defensive
+UBS,41.99,Banks - Diversified,Financial Services
+SEE,41.93,Packaging & Containers,Consumer Cyclical
+OFG,41.91,Banks - Regional,Financial Services
+EE,41.84,Oil & Gas Midstream,Energy
+NBHC,41.84,Banks - Regional,Financial Services
+CNMD,41.8,Medical Devices,Healthcare
+VNT,41.79,Scientific & Technical Instruments,Technology
+NTNX,41.76,Software - Infrastructure,Technology
+PCH,41.73,REIT - Specialty,Real Estate
+RDVT,41.66,Software - Application,Technology
+KNTK,41.54,Oil & Gas Midstream,Energy
+XENE,41.48,Biotechnology,Healthcare
+SMBK,41.47,Banks - Regional,Financial Services
+APOG,41.44,Building Products & Equipment,Industrials
+KMX,41.43,Auto & Truck Dealerships,Consumer Cyclical
+ASGN,41.43,Information Technology Services,Technology
+AMAL,41.39,Banks - Regional,Financial Services
+MRX,41.34,Capital Markets,Financial Services
+KBR,41.3,Engineering & Construction,Industrials
+LNC,40.88,Insurance - Life,Financial Services
+CSX,40.87,Railroads,Industrials
+AB,40.84,Asset Management,Financial Services
+ALCO,40.82,Farm Products,Consumer Defensive
+ALLY,40.8,Credit Services,Financial Services
+CWEN,40.78,Utilities - Renewable,Utilities
+IPX,40.75,Other Industrial Metals & Mining,Basic Materials
+RNST,40.73,Banks - Regional,Financial Services
+CNQ,40.68,Oil & Gas E&P,Energy
+CNX,40.6,Oil & Gas E&P,Energy
+CNC,40.58,Healthcare Plans,Healthcare
+SLG,40.55,REIT - Office,Real Estate
+BJRI,40.54,Restaurants,Consumer Cyclical
+FSBC,40.54,Banks - Regional,Financial Services
+LOB,40.54,Banks - Regional,Financial Services
+FDP,40.45,Farm Products,Consumer Defensive
+UTG,40.43,Asset Management,Financial Services
+UNFI,40.3,Food Distribution,Consumer Defensive
+PYPL,40.29,Credit Services,Financial Services
+AUB,40.23,Banks - Regional,Financial Services
+CRI,40.05,Apparel Retail,Consumer Cyclical
+CTRE,40.01,REIT - Healthcare Facilities,Real Estate
+CORT,39.97,Biotechnology,Healthcare
+VABK,39.9,Banks - Regional,Financial Services
+FCBC,39.87,Banks - Regional,Financial Services
+TNET,39.82,Staffing & Employment Services,Industrials
+AS,39.81,Leisure,Consumer Cyclical
+BIRK,39.8,Footwear & Accessories,Consumer Cyclical
+STK,39.79,Asset Management,Financial Services
+KEQU,39.77,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+TREE,39.75,Financial Conglomerates,Financial Services
+WTRG,39.73,Utilities - Regulated Water,Utilities
+HASI,39.7,Asset Management,Financial Services
+VLGEA,39.7,Grocery Stores,Consumer Defensive
+BST,39.68,Asset Management,Financial Services
+HUBG,39.66,Integrated Freight & Logistics,Industrials
+NMIH,39.65,Insurance - Specialty,Financial Services
+KMT,39.59,Tools & Accessories,Industrials
+ACIW,39.56,Software - Infrastructure,Technology
+PDEX,39.48,Medical Instruments & Supplies,Healthcare
+HY,39.47,Farm & Heavy Construction Machinery,Industrials
+MAYS,39.42,Real Estate Services,Real Estate
+LTC,39.39,REIT - Healthcare Facilities,Real Estate
+UFCS,39.33,Insurance - Property & Casualty,Financial Services
+HTH,39.27,Financial Conglomerates,Financial Services
+PEBK,39.22,Banks - Regional,Financial Services
+FSUN,39.19,Banks - Regional,Financial Services
+SHOO,39.19,Footwear & Accessories,Consumer Cyclical
+ATAT,39.17,Lodging,Consumer Cyclical
+DFIN,39.12,Software - Application,Technology
+TSBK,39.05,Banks - Regional,Financial Services
+NVAWW,39.0,,
+ARMK,38.98,Specialty Business Services,Industrials
+HNGE,38.94,Health Information Services,Healthcare
+CUBE,38.93,REIT - Industrial,Real Estate
+BTSG,38.86,Health Information Services,Healthcare
+IDR,38.85,Gold,Basic Materials
+EFSI,38.82,Banks - Regional,Financial Services
+PLAB,38.8,Semiconductor Equipment & Materials,Technology
+RCI,38.8,Telecom Services,Communication Services
+UGI,38.76,Utilities - Regulated Gas,Utilities
+BIP,38.75,Utilities - Diversified,Utilities
+RYAN,38.71,Insurance - Specialty,Financial Services
+NCSM,38.7,Oil & Gas Equipment & Services,Energy
+BL,38.61,Software - Application,Technology
+VVV,38.53,Auto & Truck Dealerships,Consumer Cyclical
+BTO,38.5,Asset Management,Financial Services
+FYBR,38.49,Telecom Services,Communication Services
+STEL,38.49,Banks - Regional,Financial Services
+LZB,38.34,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+VIRT,38.34,Capital Markets,Financial Services
+OXM,38.22,Apparel Manufacturing,Consumer Cyclical
+PECO,38.2,REIT - Retail,Real Estate
+LQDA,38.2,Biotechnology,Healthcare
+GSL,38.15,Marine Shipping,Industrials
+NKSH,38.14,Banks - Regional,Financial Services
+DRS,38.13,Aerospace & Defense,Industrials
+MBX,38.09,Biotechnology,Healthcare
+UDR,38.09,REIT - Residential,Real Estate
+STAG,38.06,REIT - Industrial,Real Estate
+WHLRD,38.01,REIT - Retail,Real Estate
+AMSF,37.99,Insurance - Specialty,Financial Services
+GLIBK,37.99,Telecom Services,Communication Services
+BVN,37.96,Other Precious Metals & Mining,Basic Materials
+CENT,37.95,Packaged Foods,Consumer Defensive
+GLIBA,37.86,Telecom Services,Communication Services
+LINE,37.83,REIT - Industrial,Real Estate
+PPL,37.82,Utilities - Regulated Electric,Utilities
+PACS,37.81,Medical Care Facilities,Healthcare
+TERN,37.79,Biotechnology,Healthcare
+FIBK,37.66,Banks - Regional,Financial Services
+BP,37.66,Oil & Gas Integrated,Energy
+TBBB,37.65,Discount Stores,Consumer Defensive
+FNWD,37.64,Banks - Regional,Financial Services
+ORRF,37.64,Banks - Regional,Financial Services
+FUNC,37.62,Banks - Regional,Financial Services
+IIIN,37.58,Metal Fabrication,Industrials
+RRC,37.57,Oil & Gas E&P,Energy
+SION,37.52,Biotechnology,Healthcare
+CPRT,37.49,Specialty Business Services,Industrials
+RGR,37.48,Aerospace & Defense,Industrials
+YPF,37.37,Oil & Gas Integrated,Energy
+G,37.36,Information Technology Services,Technology
+AHL,37.34,Insurance - Property & Casualty,Financial Services
+BSRR,37.27,Banks - Regional,Financial Services
+SLNO,37.24,Biotechnology,Healthcare
+EPD,37.21,Oil & Gas Midstream,Energy
+CWCO,37.21,Utilities - Regulated Water,Utilities
+VALU,37.2,Financial Data & Stock Exchanges,Financial Services
+DT,37.2,Software - Application,Technology
+REXR,37.2,REIT - Industrial,Real Estate
+NGS,37.11,Oil & Gas Equipment & Services,Energy
+ST,36.88,Scientific & Technical Instruments,Technology
+OFLX,36.86,Specialty Industrial Machinery,Industrials
+CBFV,36.83,Banks - Regional,Financial Services
+MFC,36.77,Insurance - Life,Financial Services
+TTEK,36.7,Engineering & Construction,Industrials
+HESM,36.68,Oil & Gas Midstream,Energy
+WSBC,36.65,Banks - Regional,Financial Services
+SYRE,36.63,Biotechnology,Healthcare
+IBCP,36.63,Banks - Regional,Financial Services
+PRSU,36.62,Travel Services,Consumer Cyclical
+AORT,36.6,Medical Devices,Healthcare
+COGT,36.53,Biotechnology,Healthcare
+PRGS,36.53,Software - Infrastructure,Technology
+BRKR,36.51,Medical Devices,Healthcare
+OMCL,36.5,Health Information Services,Healthcare
+FIZZ,36.35,Beverages - Non-Alcoholic,Consumer Defensive
+IX,36.34,Financial Conglomerates,Financial Services
+CART,36.3,Internet Retail,Consumer Cyclical
+CMG,36.3,Restaurants,Consumer Cyclical
+TRS,36.27,Packaging & Containers,Consumer Cyclical
+TOWN,36.21,Banks - Regional,Financial Services
+TFPM,36.19,Other Precious Metals & Mining,Basic Materials
+SNN,36.18,Medical Devices,Healthcare
+IMAX,36.08,Entertainment,Communication Services
+GMRE,36.07,REIT - Healthcare Facilities,Real Estate
+HRMY,36.01,Biotechnology,Healthcare
+VCEL,35.96,Biotechnology,Healthcare
+WASH,35.9,Banks - Regional,Financial Services
+REZI,35.83,Industrial Distribution,Industrials
+VCYT,35.77,Diagnostics & Research,Healthcare
+BPRN,35.73,Banks - Regional,Financial Services
+SCSC,35.72,Electronics & Computer Distribution,Technology
+DRD,35.65,Gold,Basic Materials
+BSAC,35.65,Banks - Regional,Financial Services
+HYMC,35.55,Gold,Basic Materials
+SEDG,35.53,Solar,Technology
+OPCH,35.42,Medical Care Facilities,Healthcare
+IMOS,35.34,Semiconductors,Technology
+OBT,35.31,Banks - Regional,Financial Services
+FIGR,35.29,Capital Markets,Financial Services
+APLD,35.28,Information Technology Services,Technology
+DB,35.28,Banks - Regional,Financial Services
+DCOM,35.24,Banks - Regional,Financial Services
+GCT,35.23,Software - Infrastructure,Technology
+CBNA,35.15,Banks - Regional,Financial Services
+TRN,35.08,Railroads,Industrials
+BHB,35.06,Banks - Regional,Financial Services
+CBL,35.05,REIT - Retail,Real Estate
+MBCN,35.04,Banks - Regional,Financial Services
+UVSP,34.94,Banks - Regional,Financial Services
+LAUR,34.77,Education & Training Services,Consumer Defensive
+AR,34.76,Oil & Gas E&P,Energy
+AROW,34.67,Banks - Regional,Financial Services
+NAMS,34.63,Biotechnology,Healthcare
+INDV,34.58,Drug Manufacturers - Specialty & Generic,Healthcare
+RM,34.57,Credit Services,Financial Services
+UCB,34.56,Banks - Regional,Financial Services
+PBF,34.54,Oil & Gas Refining & Marketing,Energy
+HWBK,34.48,Banks - Regional,Financial Services
+DK,34.46,Oil & Gas Refining & Marketing,Energy
+BTU,34.45,Thermal Coal,Energy
+BFS,34.42,REIT - Retail,Real Estate
+FISI,34.41,Banks - Regional,Financial Services
+KGC,34.4,Gold,Basic Materials
+RIGL,34.32,Biotechnology,Healthcare
+IAC,34.31,Internet Content & Information,Communication Services
+KOP,34.3,Specialty Chemicals,Basic Materials
+AMSC,34.26,Specialty Industrial Machinery,Industrials
+VTMX,34.15,Real Estate - Development,Real Estate
+MGM,34.14,Resorts & Casinos,Consumer Cyclical
+SNDA,34.13,Medical Care Facilities,Healthcare
+AXTA,34.13,Specialty Chemicals,Basic Materials
+BBUC,34.12,Asset Management,Financial Services
+IONQ,34.11,Computer Hardware,Technology
+BSY,34.1,Software - Application,Technology
+LKQ,34.1,Auto Parts,Consumer Cyclical
+SCHL,34.09,Publishing,Communication Services
+CPF,34.09,Banks - Regional,Financial Services
+SA,34.01,Gold,Basic Materials
+CENTA,33.98,Packaged Foods,Consumer Defensive
+MSB,33.98,Steel,Basic Materials
+TEVA,33.98,Drug Manufacturers - Specialty & Generic,Healthcare
+FSFG,33.98,Banks - Regional,Financial Services
+HAL,33.96,Oil & Gas Equipment & Services,Energy
+PRKS,33.96,Leisure,Consumer Cyclical
+PGC,33.95,Banks - Regional,Financial Services
+GLPG,33.92,Biotechnology,Healthcare
+VTVT,33.87,Biotechnology,Healthcare
+SKT,33.82,REIT - Retail,Real Estate
+BBU,33.76,Conglomerates,Industrials
+BWMN,33.76,Engineering & Construction,Industrials
+ARTNA,33.74,Utilities - Regulated Water,Utilities
+MPB,33.74,Banks - Regional,Financial Services
+PDFS,33.69,Software - Application,Technology
+MUR,33.62,Oil & Gas E&P,Energy
+BDL,33.62,Restaurants,Consumer Cyclical
+GBFH,33.62,Banks - Regional,Financial Services
+OVLY,33.61,Banks - Regional,Financial Services
+STM,33.61,Semiconductors,Technology
+VECO,33.61,Semiconductor Equipment & Materials,Technology
+TDC,33.56,Software - Infrastructure,Technology
+PEBO,33.56,Banks - Regional,Financial Services
+YORW,33.48,Utilities - Regulated Water,Utilities
+FFIN,33.48,Banks - Regional,Financial Services
+NSA,33.47,REIT - Industrial,Real Estate
+GRDN,33.46,Medical Care Facilities,Healthcare
+LPG,33.46,Oil & Gas Midstream,Energy
+TILE,33.4,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+DAN,33.39,Auto Parts,Consumer Cyclical
+PRG,33.37,Rental & Leasing Services,Industrials
+SMID,33.31,Building Materials,Basic Materials
+GTY,33.24,REIT - Retail,Real Estate
+AXGN,33.23,Medical Devices,Healthcare
+SBCF,33.23,Banks - Regional,Financial Services
+WERN,33.21,Trucking,Industrials
+HP,33.2,Oil & Gas Drilling,Energy
+REX,33.17,Chemicals,Basic Materials
+TY,33.17,Asset Management,Financial Services
+ALKS,33.16,Drug Manufacturers - Specialty & Generic,Healthcare
+OII,33.15,Oil & Gas Equipment & Services,Energy
+CSTL,33.15,Diagnostics & Research,Healthcare
+RCKY,33.11,Footwear & Accessories,Consumer Cyclical
+IPI,33.1,Agricultural Inputs,Basic Materials
+SKE,33.06,Other Industrial Metals & Mining,Basic Materials
+SBSI,33.04,Banks - Regional,Financial Services
+BY,32.88,Banks - Regional,Financial Services
+WAFD,32.88,Banks - Regional,Financial Services
+SMA,32.85,REIT - Industrial,Real Estate
+RDN,32.82,Insurance - Specialty,Financial Services
+AMRC,32.68,Engineering & Construction,Industrials
+CLFD,32.68,Communication Equipment,Technology
+AROC,32.66,Oil & Gas Equipment & Services,Energy
+ATRC,32.65,Medical Instruments & Supplies,Healthcare
+SKM,32.56,Telecom Services,Communication Services
+HDB,32.52,Banks - Regional,Financial Services
+YOU,32.5,Software - Application,Technology
+DOW,32.49,Chemicals,Basic Materials
+ESI,32.36,Specialty Chemicals,Basic Materials
+KMI,32.32,Oil & Gas Midstream,Energy
+IMCR,32.28,Biotechnology,Healthcare
+PPIH,32.23,Building Products & Equipment,Industrials
+ORKA,32.21,Biotechnology,Healthcare
+THRM,32.21,Auto Parts,Consumer Cyclical
+GIC,32.17,Industrial Distribution,Industrials
+FBRX,32.11,Biotechnology,Healthcare
+EPRT,32.09,REIT - Retail,Real Estate
+KMPR,32.05,Insurance - Property & Casualty,Financial Services
+HI,31.98,Specialty Industrial Machinery,Industrials
+MRP,31.97,REIT - Residential,Real Estate
+PNTG,31.97,Medical Care Facilities,Healthcare
+STOK,31.91,Biotechnology,Healthcare
+ATEX,31.89,Telecom Services,Communication Services
+CFBK,31.81,Banks - Regional,Financial Services
+PZZA,31.79,Restaurants,Consumer Cyclical
+CBNK,31.79,Banks - Regional,Financial Services
+HMC,31.78,Auto Manufacturers,Consumer Cyclical
+BEP,31.77,Utilities - Renewable,Utilities
+CCL,31.77,Travel Services,Consumer Cyclical
+KRC,31.75,REIT - Office,Real Estate
+DIN,31.73,Restaurants,Consumer Cyclical
+BLSH,31.73,Software - Infrastructure,Technology
+GLBE,31.66,Internet Retail,Consumer Cyclical
+FSTR,31.63,Railroads,Industrials
+AMH,31.62,REIT - Residential,Real Estate
+BBSI,31.62,Staffing & Employment Services,Industrials
+CMCSA,31.57,Telecom Services,Communication Services
+CUK,31.56,Travel Services,Consumer Cyclical
+CDP,31.54,REIT - Office,Real Estate
+MBUU,31.52,Recreational Vehicles,Consumer Cyclical
+NWFL,31.52,Banks - Regional,Financial Services
+WEYS,31.5,Footwear & Accessories,Consumer Cyclical
+COLB,31.49,Banks - Regional,Financial Services
+AAUC,31.47,Gold,Basic Materials
+PRDO,31.43,Education & Training Services,Consumer Defensive
+CBRL,31.4,Restaurants,Consumer Cyclical
+CTRA,31.37,Oil & Gas E&P,Energy
+BETR,31.36,Mortgage Finance,Financial Services
+PHG,31.25,Medical Devices,Healthcare
+RGC,31.22,Drug Manufacturers - Specialty & Generic,Healthcare
+ATS,31.18,Specialty Industrial Machinery,Industrials
+UVE,31.17,Insurance - Property & Casualty,Financial Services
+ANPA,31.13,Specialty Business Services,Industrials
+CRBG,31.07,Asset Management,Financial Services
+RELX,31.06,Specialty Business Services,Industrials
+HRB,31.05,Personal Services,Consumer Cyclical
+CTRI,31.01,Utilities - Regulated Gas,Utilities
+SIM,31.0,Steel,Basic Materials
+AMTM,31.0,Specialty Business Services,Industrials
+BBLGW,31.0,,
+FRO,30.92,Oil & Gas Midstream,Energy
+HG,30.91,Insurance - Reinsurance,Financial Services
+KAR,30.88,Auto & Truck Dealerships,Consumer Cyclical
+DSGR,30.84,Industrial Distribution,Industrials
+LQDT,30.73,Internet Retail,Consumer Cyclical
+ERO,30.72,Copper,Basic Materials
+IVT,30.7,REIT - Retail,Real Estate
+BBT,30.68,Banks - Regional,Financial Services
+UPST,30.68,Credit Services,Financial Services
+BCML,30.66,Banks - Regional,Financial Services
+IBN,30.62,Banks - Regional,Financial Services
+BILI,30.6,Internet Content & Information,Communication Services
+COHU,30.6,Semiconductor Equipment & Materials,Technology
+SARO,30.57,Aerospace & Defense,Industrials
+CFLT,30.56,Software - Infrastructure,Technology
+BKV,30.55,Oil & Gas E&P,Energy
+SMCI,30.54,Computer Hardware,Technology
+ZD,30.5,Advertising Agencies,Communication Services
+MTCH,30.5,Internet Content & Information,Communication Services
+RTO,30.45,Specialty Business Services,Industrials
+CNXC,30.39,Information Technology Services,Technology
+UTI,30.35,Education & Training Services,Consumer Defensive
+FOR,30.31,Real Estate - Development,Real Estate
+FFBC,30.31,Banks - Regional,Financial Services
+SOBO,30.29,Oil & Gas Midstream,Energy
+IDYA,30.27,Biotechnology,Healthcare
+CAE,30.22,Aerospace & Defense,Industrials
+RNG,30.19,Software - Application,Technology
+GIII,30.15,Apparel Manufacturing,Consumer Cyclical
+MWA,30.13,Specialty Industrial Machinery,Industrials
+IBEX,30.1,Information Technology Services,Technology
+EXLS,30.04,Information Technology Services,Technology
+GMAB,30.03,Biotechnology,Healthcare
+EWTX,30.01,Biotechnology,Healthcare
+DXYZ,30.0,Asset Management,Financial Services
+AVBH,30.0,Banks - Regional,Financial Services
+CMCL,30.0,Gold,Basic Materials
+ETO,29.93,Asset Management,Financial Services
+FCCO,29.92,Banks - Regional,Financial Services
+VNO,29.89,REIT - Office,Real Estate
+JFB,29.87,Real Estate - Development,Real Estate
+ISTR,29.87,Banks - Regional,Financial Services
+NTCT,29.79,Software - Infrastructure,Technology
+NXRT,29.76,REIT - Residential,Real Estate
+RF,29.74,Banks - Regional,Financial Services
+KDP,29.69,Beverages - Non-Alcoholic,Consumer Defensive
+CCNE,29.68,Banks - Regional,Financial Services
+MOS,29.65,Agricultural Inputs,Basic Materials
+CCSI,29.61,Software - Infrastructure,Technology
+AMBQ,29.59,Semiconductors,Technology
+FMAO,29.57,Banks - Regional,Financial Services
+GTLB,29.55,Software - Infrastructure,Technology
+PUK,29.53,Insurance - Life,Financial Services
+CPB,29.49,Packaged Foods,Consumer Defensive
+WMG,29.45,Entertainment,Communication Services
+WLY,29.44,Publishing,Communication Services
+TGS,29.43,Oil & Gas Integrated,Energy
+STRS,29.4,Real Estate - Diversified,Real Estate
+MCTA,29.36,Medical Care Facilities,Healthcare
+HOMB,29.35,Banks - Regional,Financial Services
+SBS,29.3,Utilities - Regulated Water,Utilities
+VICI,29.3,REIT - Diversified,Real Estate
+BRX,29.29,REIT - Retail,Real Estate
+SKYT,29.23,Semiconductors,Technology
+FNLC,29.18,Banks - Regional,Financial Services
+WLYB,29.16,Publishing,Communication Services
+BFST,29.15,Banks - Regional,Financial Services
+BNR,29.14,Diagnostics & Research,Healthcare
+BUI,29.13,Asset Management,Financial Services
+GLTO,29.12,Biotechnology,Healthcare
+SMC,29.11,Oil & Gas Midstream,Energy
+GDV,29.08,Asset Management,Financial Services
+MRSN,29.08,Biotechnology,Healthcare
+LTH,29.06,Leisure,Consumer Cyclical
+MCBS,29.05,Banks - Regional,Financial Services
+HBT,29.03,Banks - Regional,Financial Services
+HZO,29.02,Specialty Retail,Consumer Cyclical
+VKTX,29.0,Biotechnology,Healthcare
+NVST,28.97,Medical Instruments & Supplies,Healthcare
+WILC,28.96,Food Distribution,Consumer Defensive
+KFRC,28.95,Staffing & Employment Services,Industrials
+KTH,28.91,Unknown,Unknown
+LINC,28.9,Education & Training Services,Consumer Defensive
+PPTA,28.86,Other Precious Metals & Mining,Basic Materials
+AEHR,28.84,Semiconductor Equipment & Materials,Technology
+CTA,28.83,Unknown,Unknown
+ATNI,28.77,Telecom Services,Communication Services
+COFS,28.76,Banks - Regional,Financial Services
+SNDR,28.73,Trucking,Industrials
+CVEO,28.71,Lodging,Consumer Cyclical
+T,28.69,Telecom Services,Communication Services
+MAN,28.66,Staffing & Employment Services,Industrials
+AZTA,28.62,Medical Instruments & Supplies,Healthcare
+CLMT,28.61,Specialty Chemicals,Basic Materials
+CVLG,28.57,Trucking,Industrials
+ELLO,28.5,Utilities - Renewable,Utilities
+AMPH,28.5,Drug Manufacturers - Specialty & Generic,Healthcare
+PKBK,28.5,Banks - Regional,Financial Services
+TGTX,28.5,Biotechnology,Healthcare
+OCS,28.49,Biotechnology,Healthcare
+FG,28.44,Insurance - Life,Financial Services
+CHSCP,28.43,Farm Products,Consumer Defensive
+VITL,28.41,Farm Products,Consumer Defensive
+EDN,28.39,Utilities - Regulated Electric,Utilities
+PXED,28.33,Education & Training Services,Consumer Defensive
+TEN,28.32,Oil & Gas Midstream,Energy
+ING,28.3,Banks - Diversified,Financial Services
+GDEN,28.29,Resorts & Casinos,Consumer Cyclical
+PINC,28.26,Health Information Services,Healthcare
+HIPO,28.26,Insurance - Property & Casualty,Financial Services
+EYE,28.22,Specialty Retail,Consumer Cyclical
+GBLI,28.22,Insurance - Property & Casualty,Financial Services
+FXNC,28.21,Banks - Regional,Financial Services
+SSRM,28.11,Gold,Basic Materials
+EQNR,28.1,Oil & Gas Integrated,Energy
+TBN,28.1,Oil & Gas E&P,Energy
+HFWA,28.09,Banks - Regional,Financial Services
+ODD,28.08,Household & Personal Products,Consumer Defensive
+PKOH,28.0,Specialty Industrial Machinery,Industrials
+TYRA,27.99,Biotechnology,Healthcare
+WBD,27.99,Entertainment,Communication Services
+GTES,27.97,Specialty Industrial Machinery,Industrials
+AGIO,27.96,Biotechnology,Healthcare
+CAAP,27.96,Airports & Air Services,Industrials
+TRUP,27.96,Insurance - Property & Casualty,Financial Services
+RAPP,27.93,Biotechnology,Healthcare
+BEAM,27.92,Biotechnology,Healthcare
+RDWR,27.92,Software - Infrastructure,Technology
+APA,27.92,Oil & Gas E&P,Energy
+VRDN,27.9,Biotechnology,Healthcare
+ASB,27.85,Banks - Regional,Financial Services
+CBZ,27.84,Specialty Business Services,Industrials
+TVTX,27.82,Biotechnology,Healthcare
+PRCT,27.79,Medical Devices,Healthcare
+ATLO,27.77,Banks - Regional,Financial Services
+REPX,27.76,Oil & Gas E&P,Energy
+INTG,27.76,Lodging,Consumer Cyclical
+CNOB,27.75,Banks - Regional,Financial Services
+IROQ,27.72,Banks - Regional,Financial Services
+BZH,27.71,Residential Construction,Consumer Cyclical
+GCO,27.68,Apparel Retail,Consumer Cyclical
+GAP,27.67,Apparel Retail,Consumer Cyclical
+MLYS,27.6,Biotechnology,Healthcare
+PFE,27.58,Drug Manufacturers - General,Healthcare
+SEPN,27.5,Biotechnology,Healthcare
+DAKT,27.49,Electronic Components,Technology
+MVBF,27.48,Banks - Regional,Financial Services
+QQQX,27.48,Asset Management,Financial Services
+ETOR,27.46,Capital Markets,Financial Services
+COE,27.44,Education & Training Services,Consumer Defensive
+LARK,27.4,Banks - Regional,Financial Services
+CIVI,27.38,Oil & Gas E&P,Energy
+CTGO,27.34,Gold,Basic Materials
+CARG,27.34,Auto & Truck Dealerships,Consumer Cyclical
+TOST,27.33,Software - Infrastructure,Technology
+IOT,27.32,Software - Infrastructure,Technology
+KN,27.29,Electronic Components,Technology
+BMRC,27.24,Banks - Regional,Financial Services
+FTAIM,27.2,Rental & Leasing Services,Industrials
+JD,27.14,Internet Retail,Consumer Cyclical
+ADNT,27.09,Auto Parts,Consumer Cyclical
+QXO,27.07,Industrial Distribution,Industrials
+RYI,27.03,Metal Fabrication,Industrials
+BEN,27.03,Asset Management,Financial Services
+INVH,26.99,REIT - Residential,Real Estate
+UMBFO,26.98,Banks - Regional,Financial Services
+KMTS,26.92,Medical Instruments & Supplies,Healthcare
+NATR,26.91,Packaged Foods,Consumer Defensive
+UTF,26.85,Asset Management,Financial Services
+GLSI,26.85,Biotechnology,Healthcare
+HAFC,26.85,Banks - Regional,Financial Services
+ACV,26.84,Asset Management,Financial Services
+NGVC,26.84,Grocery Stores,Consumer Defensive
+FWRD,26.81,Integrated Freight & Logistics,Industrials
+WKC,26.79,Oil & Gas Refining & Marketing,Energy
+MGY,26.78,Oil & Gas E&P,Energy
+WY,26.75,REIT - Specialty,Real Estate
+ZK,26.73,Auto Manufacturers,Consumer Cyclical
+ELVN,26.72,Biotechnology,Healthcare
+BMN,26.7,Asset Management,Financial Services
+MTG,26.66,Insurance - Specialty,Financial Services
+ASMB,26.66,Biotechnology,Healthcare
+USAC,26.6,Oil & Gas Equipment & Services,Energy
+JKS,26.56,Solar,Technology
+BUSE,26.55,Banks - Regional,Financial Services
+ALMS,26.54,Biotechnology,Healthcare
+IVZ,26.52,Asset Management,Financial Services
+DCOMG,26.51,,
+CCOI,26.46,Telecom Services,Communication Services
+TCMD,26.45,Medical Devices,Healthcare
+PHVS,26.45,Biotechnology,Healthcare
+ROIV,26.45,Biotechnology,Healthcare
+TSAT,26.44,Communication Equipment,Technology
+CHSCO,26.42,Farm Products,Consumer Defensive
+ZBIO,26.4,Biotechnology,Healthcare
+EVT,26.39,Asset Management,Financial Services
+APOS,26.38,Unknown,Unknown
+WTFCN,26.38,Banks - Regional,Financial Services
+EVTC,26.36,Software - Infrastructure,Technology
+FHB,26.3,Banks - Regional,Financial Services
+VIAV,26.29,Communication Equipment,Technology
+VLYPN,26.28,Banks - Regional,Financial Services
+DDT,26.27,Unknown,Unknown
+EGBN,26.26,Banks - Regional,Financial Services
+PRM,26.22,Specialty Chemicals,Basic Materials
+DLX,26.21,Conglomerates,Industrials
+CURB,26.2,REIT - Retail,Real Estate
+TIMB,26.12,Telecom Services,Communication Services
+XOMAP,26.12,Biotechnology,Healthcare
+BANFP,26.11,Unknown,Unknown
+HBM,26.1,Copper,Basic Materials
+AGNCZ,26.09,REIT - Mortgage,Real Estate
+MATW,26.09,Conglomerates,Industrials
+FGN,26.07,Unknown,Unknown
+CVGW,26.07,Food Distribution,Consumer Defensive
+VOYG,26.04,Aerospace & Defense,Industrials
+NWS,26.0,Entertainment,Communication Services
+CCLDO,26.0,Health Information Services,Healthcare
+FLNG,25.99,Oil & Gas Midstream,Energy
+MYFW,25.99,Banks - Regional,Financial Services
+NOG,25.96,Oil & Gas E&P,Energy
+HVT,25.94,Home Improvement Retail,Consumer Cyclical
+SOJF,25.94,Unknown,Unknown
+CDLR,25.9,Engineering & Construction,Industrials
+LBRT,25.9,Oil & Gas Equipment & Services,Energy
+CBK,25.89,Banks - Regional,Financial Services
+TRMD,25.89,Oil & Gas Midstream,Energy
+JHX,25.88,Building Materials,Basic Materials
+OLN,25.88,Chemicals,Basic Materials
+AQNB,25.88,Unknown,Unknown
+ARQT,25.86,Biotechnology,Healthcare
+MMI,25.85,Real Estate Services,Real Estate
+OXLCI,25.84,,
+LYEL,25.84,Biotechnology,Healthcare
+FITBI,25.84,Banks - Regional,Financial Services
+AGNCN,25.83,REIT - Mortgage,Real Estate
+ARLP,25.82,Thermal Coal,Energy
+TTD,25.81,Advertising Agencies,Communication Services
+PMTU,25.8,Unknown,Unknown
+KRT,25.79,Packaging & Containers,Consumer Cyclical
+MBNKO,25.77,Banks - Regional,Financial Services
+CHSCL,25.75,Farm Products,Consumer Defensive
+PMTW,25.75,,
+BUSEP,25.75,Banks - Regional,Financial Services
+HSAI,25.75,Auto Parts,Consumer Cyclical
+IMVT,25.75,Biotechnology,Healthcare
+MGPI,25.74,Beverages - Wineries & Distilleries,Consumer Defensive
+MUX,25.71,Other Precious Metals & Mining,Basic Materials
+BCE,25.71,Telecom Services,Communication Services
+WSBCO,25.71,Banks - Regional,Financial Services
+KTN,25.7,Unknown,Unknown
+IMPPP,25.69,Oil & Gas Midstream,Energy
+NSP,25.68,Staffing & Employment Services,Industrials
+ASGI,25.64,Asset Management,Financial Services
+SILA,25.64,REIT - Healthcare Facilities,Real Estate
+SWKHL,25.64,Unknown,Unknown
+ADAMH,25.63,,
+FTAIN,25.62,Rental & Leasing Services,Industrials
+VIASP,25.61,Utilities - Regulated Electric,Utilities
+MSBIP,25.61,Banks - Regional,Financial Services
+PEO,25.61,Asset Management,Financial Services
+ATLCZ,25.58,Unknown,Unknown
+NEWTG,25.58,Unknown,Unknown
+TWOD,25.57,,
+WTBA,25.55,Banks - Regional,Financial Services
+OCCIM,25.55,Asset Management,Financial Services
+RZC,25.55,Unknown,Unknown
+FRMEP,25.53,Banks - Regional,Financial Services
+HTD,25.51,Asset Management,Financial Services
+OXSQH,25.5,,
+CGBDL,25.48,Unknown,Unknown
+DMLP,25.48,Oil & Gas E&P,Energy
+METCZ,25.48,,
+AEO,25.48,Apparel Retail,Consumer Cyclical
+AGNCO,25.46,REIT - Mortgage,Real Estate
+ABLLL,25.46,Unknown,Unknown
+MFICL,25.46,,
+HBANL,25.45,Banks - Regional,Financial Services
+GAINI,25.44,,
+CHSCN,25.44,Farm Products,Consumer Defensive
+TRINI,25.43,Unknown,Unknown
+NEWTI,25.43,Unknown,Unknown
+MBINM,25.43,Banks - Regional,Financial Services
+WHFCL,25.4,Unknown,Unknown
+OXLCG,25.4,,
+VLYPP,25.38,Banks - Regional,Financial Services
+CIMO,25.38,,
+JBK,25.38,Unknown,Unknown
+NRIM,25.37,Banks - Regional,Financial Services
+ADAMM,25.36,REIT - Mortgage,Real Estate
+XOMAO,25.36,Biotechnology,Healthcare
+VRNS,25.36,Software - Infrastructure,Technology
+PMTV,25.35,Unknown,Unknown
+NEWTH,25.35,,
+KKRT,25.34,Unknown,Unknown
+NBTX,25.34,Biotechnology,Healthcare
+OFSSO,25.34,,
+AOMN,25.32,Unknown,Unknown
+ADAMG,25.31,,
+TRINZ,25.31,Unknown,Unknown
+BCS,25.31,Banks - Diversified,Financial Services
+ECCU,25.3,Unknown,Unknown
+CIMP,25.3,Unknown,Unknown
+SAJ,25.3,Unknown,Unknown
+MITP,25.28,Unknown,Unknown
+METCI,25.28,,
+ADAMI,25.28,Unknown,Unknown
+MITN,25.27,Unknown,Unknown
+CCNEP,25.27,Banks - Regional,Financial Services
+GECCI,25.27,Unknown,Unknown
+ATHS,25.26,Unknown,Unknown
+CICB,25.25,,
+BPOPM,25.25,Unknown,Unknown
+HCXY,25.25,Unknown,Unknown
+ALRS,25.25,Banks - Regional,Financial Services
+EIIA,25.23,Asset Management,Financial Services
+SAZ,25.23,Unknown,Unknown
+CIMN,25.22,Unknown,Unknown
+EICC,25.22,Asset Management,Financial Services
+GAINL,25.22,Unknown,Unknown
+MFAO,25.21,Unknown,Unknown
+GECCH,25.2,Unknown,Unknown
+SPME,25.2,Asset Management,Financial Services
+AOMD,25.2,Unknown,Unknown
+NIE,25.18,Asset Management,Financial Services
+ONBPO,25.15,Banks - Regional,Financial Services
+CMPO,25.15,Metal Fabrication,Industrials
+DTK,25.15,Unknown,Unknown
+RZB,25.14,,
+SFD,25.14,Packaged Foods,Consumer Defensive
+SAY,25.13,Unknown,Unknown
+ELAN,25.13,Drug Manufacturers - Specialty & Generic,Healthcare
+GECCO,25.13,Unknown,Unknown
+FCRX,25.12,,
+IGIC,25.12,Insurance - Diversified,Financial Services
+AUBN,25.11,Banks - Regional,Financial Services
+NMFCZ,25.11,Unknown,Unknown
+RWAYL,25.1,Unknown,Unknown
+TPGXL,25.1,Unknown,Unknown
+CHSCM,25.1,Farm Products,Consumer Defensive
+SPMA,25.09,Asset Management,Financial Services
+RVLV,25.09,Internet Retail,Consumer Cyclical
+LANDM,25.07,REIT - Specialty,Real Estate
+VLYPO,25.07,Banks - Regional,Financial Services
+WBI,25.07,Oil & Gas Equipment & Services,Energy
+MFAN,25.07,Unknown,Unknown
+ONBPP,25.07,Banks - Regional,Financial Services
+GAINN,25.07,Unknown,Unknown
+AGNCP,25.05,REIT - Mortgage,Real Estate
+RCC,25.04,Unknown,Unknown
+OUT,25.04,REIT - Specialty,Real Estate
+AGNCL,25.03,REIT - Mortgage,Real Estate
+PDPA,25.03,Asset Management,Financial Services
+COSO,25.03,Banks - Regional,Financial Services
+KRG,25.03,REIT - Retail,Real Estate
+TMUSL,25.03,Unknown,Unknown
+DOCS,25.02,Health Information Services,Healthcare
+PNFPP,25.02,Banks - Regional,Financial Services
+AGNCM,25.02,REIT - Mortgage,Real Estate
+TFSA,25.01,Unknown,Unknown
+RWTN,25.01,Unknown,Unknown
+OCCIO,25.0,Asset Management,Financial Services
+ECCF,24.99,Asset Management,Financial Services
+RWAYZ,24.99,Unknown,Unknown
+ATLCL,24.98,Unknown,Unknown
+NEWTZ,24.98,Unknown,Unknown
+SSSSL,24.97,Unknown,Unknown
+EICB,24.97,Asset Management,Financial Services
+HTFC,24.97,Unknown,Unknown
+AVNW,24.96,Communication Equipment,Technology
+UNB,24.94,Banks - Regional,Financial Services
+RILYK,24.9,Unknown,Unknown
+ECCX,24.9,Unknown,Unknown
+SNWV,24.89,Medical Devices,Healthcare
+TCPA,24.89,Unknown,Unknown
+GNTX,24.89,Auto Parts,Consumer Cyclical
+DQ,24.88,Semiconductor Equipment & Materials,Technology
+CNK,24.88,Entertainment,Communication Services
+BEPJ,24.88,Unknown,Unknown
+ECCW,24.87,Unknown,Unknown
+PRH,24.87,Unknown,Unknown
+XELLL,24.86,,
+MBINL,24.85,Banks - Regional,Financial Services
+ZUMZ,24.85,Apparel Retail,Consumer Cyclical
+HRTG,24.82,Insurance - Property & Casualty,Financial Services
+RWTO,24.82,Unknown,Unknown
+BWNB,24.8,Unknown,Unknown
+MNSBP,24.8,Banks - Regional,Financial Services
+KHC,24.8,Packaged Foods,Consumer Defensive
+GEGGL,24.79,Unknown,Unknown
+BIPJ,24.79,Unknown,Unknown
+NNE,24.79,Specialty Industrial Machinery,Industrials
+ONB,24.77,Banks - Regional,Financial Services
+RHI,24.77,Staffing & Employment Services,Industrials
+INVX,24.76,Oil & Gas Equipment & Services,Energy
+ASBA,24.76,Unknown,Unknown
+GJR,24.76,Unknown,Unknown
+ATLCP,24.75,Credit Services,Financial Services
+RCB,24.75,Unknown,Unknown
+SAT,24.73,Unknown,Unknown
+EICA,24.72,Asset Management,Financial Services
+DUKB,24.71,Unknown,Unknown
+CNTA,24.71,Biotechnology,Healthcare
+GJO,24.71,Unknown,Unknown
+ZTO,24.66,Integrated Freight & Logistics,Industrials
+OXLCN,24.65,Asset Management,Financial Services
+CNOBP,24.63,Banks - Regional,Financial Services
+FITBP,24.62,Banks - Regional,Financial Services
+BXSL,24.62,Asset Management,Financial Services
+OXLCP,24.61,Asset Management,Financial Services
+MGRE,24.6,Unknown,Unknown
+OTEX,24.59,Software - Application,Technology
+OXLCZ,24.58,Unknown,Unknown
+CIX,24.58,Security & Protection Services,Industrials
+GECCG,24.58,Unknown,Unknown
+FHN,24.56,Banks - Regional,Financial Services
+OCCIN,24.56,Asset Management,Financial Services
+DBX,24.54,Software - Infrastructure,Technology
+RWTP,24.5,,
+PRA,24.49,Insurance - Property & Casualty,Financial Services
+SRZN,24.48,Biotechnology,Healthcare
+FMS,24.44,Medical Care Facilities,Healthcare
+SCCD,24.44,Unknown,Unknown
+THS,24.43,Packaged Foods,Consumer Defensive
+NRUC,24.43,Unknown,Unknown
+TVE,24.43,Unknown,Unknown
+FGNXP,24.4,Asset Management,Financial Services
+CWBC,24.4,Banks - Regional,Financial Services
+CRBD,24.38,Unknown,Unknown
+FCPT,24.37,REIT - Retail,Real Estate
+RAMP,24.36,Software - Infrastructure,Technology
+MOV,24.36,Luxury Goods,Consumer Cyclical
+TVC,24.35,,
+OXSQG,24.34,Unknown,Unknown
+CPRX,24.33,Biotechnology,Healthcare
+EZPW,24.31,Credit Services,Financial Services
+POWWP,24.31,Aerospace & Defense,Industrials
+INBKZ,24.3,Unknown,Unknown
+ECCC,24.3,Asset Management,Financial Services
+HWCPZ,24.3,Unknown,Unknown
+ELMD,24.26,Medical Devices,Healthcare
+NECB,24.24,Banks - Regional,Financial Services
+AXTI,24.24,Semiconductor Equipment & Materials,Technology
+CHWY,24.23,Internet Retail,Consumer Cyclical
+IIF,24.22,Asset Management,Financial Services
+NNNN,24.2,Medical Instruments & Supplies,Healthcare
+OXLCL,24.14,Unknown,Unknown
+KE,24.09,Electrical Equipment & Parts,Industrials
+GAINZ,24.08,Unknown,Unknown
+BBWI,24.07,Specialty Retail,Consumer Cyclical
+BOW,24.06,Insurance - Property & Casualty,Financial Services
+NEWTP,24.05,Banks - Regional,Financial Services
+SLM,24.04,Credit Services,Financial Services
+XOMA,24.01,Biotechnology,Healthcare
+PRS,24.0,Unknown,Unknown
+CMP,23.99,Other Industrial Metals & Mining,Basic Materials
+DEA,23.96,REIT - Office,Real Estate
+PHI,23.95,Telecom Services,Communication Services
+MCFT,23.9,Recreational Vehicles,Consumer Cyclical
+KMPB,23.9,Unknown,Unknown
+CZNC,23.88,Banks - Regional,Financial Services
+LBRDP,23.85,Telecom Services,Communication Services
+ETD,23.85,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+CIVB,23.85,Banks - Regional,Financial Services
+AMX,23.83,Telecom Services,Communication Services
+ECCV,23.83,Unknown,Unknown
+AAPG,23.82,Biotechnology,Healthcare
+MNRO,23.81,Auto Parts,Consumer Cyclical
+SMFG,23.81,Banks - Diversified,Financial Services
+SBLK,23.8,Marine Shipping,Industrials
+FRPH,23.8,Real Estate Services,Real Estate
+PFXNZ,23.8,Unknown,Unknown
+GCBC,23.78,Banks - Regional,Financial Services
+HRL,23.78,Packaged Foods,Consumer Defensive
+CMSC,23.75,Unknown,Unknown
+REYN,23.73,Packaging & Containers,Consumer Cyclical
+GEN,23.72,Software - Infrastructure,Technology
+OXLCO,23.7,Asset Management,Financial Services
+AXR,23.69,Real Estate - Development,Real Estate
+PKE,23.68,Aerospace & Defense,Industrials
+AIRT,23.68,Conglomerates,Industrials
+CMSD,23.64,Unknown,Unknown
+RYN,23.6,REIT - Specialty,Real Estate
+REGCP,23.59,REIT - Retail,Real Estate
+SCCE,23.58,Unknown,Unknown
+QDEL,23.58,Medical Devices,Healthcare
+PYT,23.58,Unknown,Unknown
+GME,23.57,Specialty Retail,Consumer Cyclical
+UNMA,23.57,Unknown,Unknown
+KT,23.56,Telecom Services,Communication Services
+CON,23.54,Medical Care Facilities,Healthcare
+OS,23.51,Software - Infrastructure,Technology
+SCCG,23.5,Unknown,Unknown
+GJS,23.48,Unknown,Unknown
+ADAML,23.47,REIT - Mortgage,Real Estate
+SCCF,23.45,Unknown,Unknown
+FLGT,23.43,Diagnostics & Research,Healthcare
+GPJA,23.41,Unknown,Unknown
+ASX,23.4,Semiconductors,Technology
+BCV,23.39,Asset Management,Financial Services
+PRPO,23.39,Diagnostics & Research,Healthcare
+ALH,23.38,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+LBRX,23.34,Biotechnology,Healthcare
+ZEPP,23.31,Consumer Electronics,Technology
+CSTM,23.29,Aluminum,Basic Materials
+TPTA,23.29,Unknown,Unknown
+ADX,23.27,Asset Management,Financial Services
+INTA,23.23,Software - Application,Technology
+WW,23.22,Personal Services,Consumer Cyclical
+NAMSW,23.2,,
+BOX,23.19,Software - Infrastructure,Technology
+SONY,23.19,Consumer Electronics,Technology
+CVI,23.17,Oil & Gas Refining & Marketing,Energy
+IRDM,23.17,Telecom Services,Communication Services
+CAPL,23.16,Oil & Gas Refining & Marketing,Energy
+CWAN,23.15,Software - Application,Technology
+RILYN,23.15,Unknown,Unknown
+HIW,23.12,REIT - Office,Real Estate
+PAY,23.1,Software - Infrastructure,Technology
+ETG,23.09,Asset Management,Financial Services
+NLY,23.07,REIT - Mortgage,Real Estate
+SAR,23.03,Asset Management,Financial Services
+GOODN,23.03,REIT - Diversified,Real Estate
+GJT,23.01,Unknown,Unknown
+PLSE,23.01,Medical Instruments & Supplies,Healthcare
+CLDX,23.0,Biotechnology,Healthcare
+CTEV,22.99,Health Information Services,Healthcare
+BWAY,22.99,Medical Devices,Healthcare
+HBANM,22.97,Banks - Regional,Financial Services
+MSBI,22.97,Banks - Regional,Financial Services
+PFS,22.96,Banks - Regional,Financial Services
+SREA,22.96,Unknown,Unknown
+AG,22.96,Silver,Basic Materials
+CCD,22.94,Asset Management,Financial Services
+TMUSZ,22.88,Unknown,Unknown
+CMSA,22.88,Unknown,Unknown
+APPN,22.87,Software - Infrastructure,Technology
+PCB,22.84,Banks - Regional,Financial Services
+CSWC,22.81,Asset Management,Financial Services
+BTT,22.8,Asset Management,Financial Services
+RILYG,22.78,Unknown,Unknown
+ENR,22.77,Electrical Equipment & Parts,Industrials
+OLP,22.76,REIT - Diversified,Real Estate
+BSTZ,22.75,Asset Management,Financial Services
+RICK,22.74,Restaurants,Consumer Cyclical
+CCEC,22.73,Marine Shipping,Industrials
+BBVA,22.73,Banks - Diversified,Financial Services
+MXF,22.73,Asset Management,Financial Services
+NWSA,22.72,Entertainment,Communication Services
+KIM,22.71,REIT - Retail,Real Estate
+TMUSI,22.71,Unknown,Unknown
+INVA,22.7,Biotechnology,Healthcare
+OSW,22.7,Leisure,Consumer Cyclical
+CUBB,22.7,Unknown,Unknown
+HPE,22.69,Communication Equipment,Technology
+CEVA,22.67,Semiconductors,Technology
+AOSL,22.65,Semiconductors,Technology
+HL,22.6,Other Precious Metals & Mining,Basic Materials
+ZYME,22.6,Biotechnology,Healthcare
+OLMA,22.59,Biotechnology,Healthcare
+AIO,22.59,Asset Management,Financial Services
+TENB,22.55,Software - Infrastructure,Technology
+EBMT,22.54,Banks - Regional,Financial Services
+CII,22.54,Asset Management,Financial Services
+FIG,22.53,Software - Application,Technology
+REGCO,22.53,REIT - Retail,Real Estate
+MIR,22.51,Specialty Industrial Machinery,Industrials
+LFMDP,22.5,Health Information Services,Healthcare
+LYTS,22.48,Electronic Components,Technology
+CUZ,22.46,REIT - Office,Real Estate
+WRBY,22.46,Medical Instruments & Supplies,Healthcare
+ENO,22.46,Unknown,Unknown
+AVBP,22.46,Biotechnology,Healthcare
+CAPR,22.45,Biotechnology,Healthcare
+AMTB,22.44,Banks - Regional,Financial Services
+HNVR,22.43,Banks - Regional,Financial Services
+FBP,22.43,Banks - Regional,Financial Services
+CDE,22.42,Gold,Basic Materials
+TBB,22.42,Unknown,Unknown
+PL,22.42,Aerospace & Defense,Industrials
+WAY,22.41,Health Information Services,Healthcare
+ADAMN,22.41,REIT - Mortgage,Real Estate
+FCNCO,22.4,Banks - Regional,Financial Services
+PRVA,22.39,Health Information Services,Healthcare
+RBB,22.32,Banks - Regional,Financial Services
+DTW,22.3,Unknown,Unknown
+SOJC,22.29,Unknown,Unknown
+TECX,22.28,Biotechnology,Healthcare
+MNSB,22.28,Banks - Regional,Financial Services
+FGSN,22.25,Unknown,Unknown
+BLFS,22.23,Medical Instruments & Supplies,Healthcare
+GNK,22.21,Marine Shipping,Industrials
+IIIV,22.2,Software - Infrastructure,Technology
+ZIM,22.2,Marine Shipping,Industrials
+IMNM,22.16,Biotechnology,Healthcare
+LEGH,22.15,Residential Construction,Consumer Cyclical
+NBBK,22.12,Banks - Regional,Financial Services
+RGS,22.1,Personal Services,Consumer Cyclical
+MYE,22.08,Packaging & Containers,Consumer Cyclical
+TBLD,22.08,Asset Management,Financial Services
+KOD,22.07,Biotechnology,Healthcare
+NX,22.04,Building Products & Equipment,Industrials
+ACAD,22.03,Biotechnology,Healthcare
+FULT,22.03,Banks - Regional,Financial Services
+EOS,22.0,Asset Management,Financial Services
+LWAY,21.98,Packaged Foods,Consumer Defensive
+AFGB,21.98,Unknown,Unknown
+PLYM,21.98,REIT - Industrial,Real Estate
+PRE,21.97,Diagnostics & Research,Healthcare
+CVE,21.96,Oil & Gas Integrated,Energy
+NTGR,21.94,Communication Equipment,Technology
+MEC,21.94,Metal Fabrication,Industrials
+VTS,21.91,Oil & Gas E&P,Energy
+LEVI,21.91,Apparel Manufacturing,Consumer Cyclical
+EPC,21.89,Household & Personal Products,Consumer Defensive
+FFA,21.86,Asset Management,Financial Services
+DFP,21.86,Asset Management,Financial Services
+RGCO,21.86,Utilities - Regulated Gas,Utilities
+FLOC,21.82,Oil & Gas Equipment & Services,Energy
+CARE,21.8,Banks - Regional,Financial Services
+MLKN,21.78,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+ENOV,21.77,Medical Devices,Healthcare
+PCRX,21.77,Drug Manufacturers - Specialty & Generic,Healthcare
+FOA,21.76,Credit Services,Financial Services
+DKNG,21.76,Gambling,Consumer Cyclical
+TCBIO,21.71,Banks - Regional,Financial Services
+APLS,21.7,Biotechnology,Healthcare
+KEY,21.7,Banks - Regional,Financial Services
+GLXY,21.66,Capital Markets,Financial Services
+AVDL,21.64,Drug Manufacturers - Specialty & Generic,Healthcare
+M,21.63,Department Stores,Consumer Cyclical
+IAG,21.63,Gold,Basic Materials
+WSC,21.62,Rental & Leasing Services,Industrials
+EBC,21.61,Banks - Regional,Financial Services
+HCSG,21.59,Medical Care Facilities,Healthcare
+PAGP,21.59,Oil & Gas Midstream,Energy
+INGM,21.57,Information Technology Services,Technology
+MD,21.52,Medical Care Facilities,Healthcare
+KEP,21.52,Utilities - Regulated Electric,Utilities
+NCLH,21.49,Travel Services,Consumer Cyclical
+PWP,21.48,Capital Markets,Financial Services
+BKSY,21.48,Specialty Business Services,Industrials
+RNP,21.46,Asset Management,Financial Services
+SM,21.46,Oil & Gas E&P,Energy
+HOVNP,21.45,Unknown,Unknown
+AM,21.45,Oil & Gas Midstream,Energy
+GLU,21.45,Asset Management,Financial Services
+IBTA,21.44,Software - Application,Technology
+MGR,21.41,Unknown,Unknown
+FCNCP,21.39,Banks - Regional,Financial Services
+RCD,21.36,Unknown,Unknown
+LDP,21.36,Asset Management,Financial Services
+SFNC,21.36,Banks - Regional,Financial Services
+WLKP,21.32,Chemicals,Basic Materials
+SIRI,21.29,Entertainment,Communication Services
+AIZN,21.27,Unknown,Unknown
+GTX,21.25,Auto Parts,Consumer Cyclical
+JCAP,21.24,Credit Services,Financial Services
+CRMT,21.23,Auto & Truck Dealerships,Consumer Cyclical
+EAI,21.23,Unknown,Unknown
+SNCY,21.19,Airlines,Industrials
+UZD,21.15,Unknown,Unknown
+INBK,21.09,Banks - Regional,Financial Services
+DFH,21.05,Residential Construction,Consumer Cyclical
+ATHM,21.0,Internet Content & Information,Communication Services
+ACGLO,21.0,Insurance - Diversified,Financial Services
+AFGD,21.0,Unknown,Unknown
+HMY,20.99,Gold,Basic Materials
+YELP,20.98,Internet Content & Information,Communication Services
+BMNR,20.96,Capital Markets,Financial Services
+TGNA,20.95,Broadcasting,Communication Services
+ELC,20.94,Unknown,Unknown
+EVI,20.94,Industrial Distribution,Industrials
+SBFG,20.93,Banks - Regional,Financial Services
+BNAI,20.92,Software - Infrastructure,Technology
+TLK,20.91,Telecom Services,Communication Services
+DBVT,20.9,Biotechnology,Healthcare
+USNA,20.9,Packaged Foods,Consumer Defensive
+EMP,20.87,Unknown,Unknown
+PAR,20.86,Software - Application,Technology
+MCI,20.85,Asset Management,Financial Services
+NESR,20.83,Oil & Gas Equipment & Services,Energy
+PKST,20.82,REIT - Office,Real Estate
+MDU,20.8,Utilities - Regulated Gas,Utilities
+ALEX,20.77,REIT - Retail,Real Estate
+UE,20.77,REIT - Retail,Real Estate
+EBF,20.76,Business Equipment & Supplies,Industrials
+BOTJ,20.74,Banks - Regional,Financial Services
+JACK,20.73,Restaurants,Consumer Cyclical
+UUUU,20.72,Uranium,Energy
+AFBI,20.7,Banks - Regional,Financial Services
+MTUS,20.7,Steel,Basic Materials
+SFB,20.7,Unknown,Unknown
+ATEN,20.7,Software - Infrastructure,Technology
+PGNY,20.69,Healthcare Plans,Healthcare
+HTFL,20.66,Health Information Services,Healthcare
+CAI,20.62,Biotechnology,Healthcare
+AKR,20.59,REIT - Retail,Real Estate
+SOJD,20.58,Unknown,Unknown
+PTHS,20.58,Biotechnology,Healthcare
+OSBC,20.57,Banks - Regional,Financial Services
+CVBF,20.55,Banks - Regional,Financial Services
+PINE,20.53,REIT - Retail,Real Estate
+RARE,20.52,Biotechnology,Healthcare
+CC,20.52,Specialty Chemicals,Basic Materials
+SPNT,20.51,Insurance - Reinsurance,Financial Services
+VRNT,20.51,Software - Infrastructure,Technology
+PSF,20.5,Asset Management,Financial Services
+QURE,20.5,Biotechnology,Healthcare
+MEG,20.49,Waste Management,Industrials
+SNDX,20.48,Biotechnology,Healthcare
+HOG,20.42,Recreational Vehicles,Consumer Cyclical
+CPRI,20.42,Luxury Goods,Consumer Cyclical
+EOI,20.4,Asset Management,Financial Services
+CBAN,20.36,Banks - Regional,Financial Services
+SMLR,20.35,Medical Devices,Healthcare
+CMCO,20.33,Farm & Heavy Construction Machinery,Industrials
+UPBD,20.31,Software - Application,Technology
+HSTM,20.31,Health Information Services,Healthcare
+VFC,20.3,Apparel Manufacturing,Consumer Cyclical
+CTDD,20.3,Unknown,Unknown
+AEFC,20.3,Unknown,Unknown
+GOODO,20.3,Unknown,Unknown
+MRBK,20.29,Banks - Regional,Financial Services
+AIRTP,20.28,Conglomerates,Industrials
+SEG,20.28,Real Estate Services,Real Estate
+SPH,20.26,Utilities - Regulated Gas,Utilities
+EFSCP,20.22,Banks - Regional,Financial Services
+EMF,20.22,Asset Management,Financial Services
+NTST,20.2,REIT - Retail,Real Estate
+ALHC,20.19,Healthcare Plans,Healthcare
+SBRA,20.17,REIT - Healthcare Facilities,Real Estate
+PAA,20.15,Oil & Gas Midstream,Energy
+PDX,20.11,Asset Management,Financial Services
+BWBBP,20.1,Banks - Regional,Financial Services
+URGN,20.1,Biotechnology,Healthcare
+SCVL,20.09,Apparel Retail,Consumer Cyclical
+HNRG,20.09,Thermal Coal,Energy
+LIND,20.07,Travel Services,Consumer Cyclical
+LANDO,20.04,REIT - Specialty,Real Estate
+ZLAB,20.03,Biotechnology,Healthcare
+BANX,20.01,Asset Management,Financial Services
+BANC,20.0,Banks - Regional,Financial Services
+JMSB,20.0,Banks - Regional,Financial Services
+MBINN,20.0,Banks - Regional,Financial Services
+DCOMP,19.99,Banks - Regional,Financial Services
+CTBB,19.97,Unknown,Unknown
+HST,19.89,REIT - Hotel & Motel,Real Estate
+HQH,19.89,Asset Management,Financial Services
+ZIONP,19.87,Banks - Regional,Financial Services
+YB,19.87,Software - Application,Technology
+XP,19.87,Capital Markets,Financial Services
+FITBO,19.87,Banks - Regional,Financial Services
+KSS,19.85,Department Stores,Consumer Cyclical
+LANDP,19.84,REIT - Specialty,Real Estate
+ISSC,19.83,Aerospace & Defense,Industrials
+PBBK,19.81,Banks - Regional,Financial Services
+NLOP,19.8,REIT - Office,Real Estate
+LIVE,19.8,Home Improvement Retail,Consumer Cyclical
+BAX,19.79,Medical Instruments & Supplies,Healthcare
+APLM,19.79,Biotechnology,Healthcare
+SHBI,19.79,Banks - Regional,Financial Services
+NTRSO,19.78,Asset Management,Financial Services
+PTA,19.77,Asset Management,Financial Services
+CBLL,19.77,Medical Devices,Healthcare
+VEL,19.76,Mortgage Finance,Financial Services
+CAG,19.76,Packaged Foods,Consumer Defensive
+CEE,19.74,Asset Management,Financial Services
+USCB,19.74,Banks - Regional,Financial Services
+MUFG,19.73,Banks - Diversified,Financial Services
+CHYM,19.69,Software - Application,Technology
+QBTS,19.67,Computer Hardware,Technology
+FIHL,19.65,Insurance - Diversified,Financial Services
+BNL,19.64,REIT - Diversified,Real Estate
+CDNA,19.63,Diagnostics & Research,Healthcare
+ADAMZ,19.61,REIT - Mortgage,Real Estate
+SOFI,19.61,Credit Services,Financial Services
+COMM,19.58,Communication Equipment,Technology
+OCFC,19.58,Banks - Regional,Financial Services
+BIOA,19.57,Drug Manufacturers - Specialty & Generic,Healthcare
+NPFD,19.57,Asset Management,Financial Services
+BXMT,19.54,REIT - Mortgage,Real Estate
+TBPH,19.53,Biotechnology,Healthcare
+MXL,19.53,Semiconductors,Technology
+JSM,19.53,Unknown,Unknown
+BVFL,19.51,Banks - Regional,Financial Services
+SILC,19.51,Communication Equipment,Technology
+NHPAP,19.5,REIT - Healthcare Facilities,Real Estate
+TBRG,19.5,Health Information Services,Healthcare
+ARMN,19.49,,
+WYFI,19.42,Software - Application,Technology
+CSIQ,19.39,Solar,Technology
+USAR,19.39,Other Industrial Metals & Mining,Basic Materials
+PENG,19.37,Information Technology Services,Technology
+ARCC,19.37,Asset Management,Financial Services
+FRD,19.34,Steel,Basic Materials
+CMDB,19.31,Marine Shipping,Industrials
+FOXF,19.31,Auto Parts,Consumer Cyclical
+FLY,19.3,Aerospace & Defense,Industrials
+NVGS,19.3,Oil & Gas Midstream,Energy
+MNSO,19.27,Specialty Retail,Consumer Cyclical
+HPQ,19.26,Computer Hardware,Technology
+TSLX,19.23,Asset Management,Financial Services
+MPV,19.22,Asset Management,Financial Services
+NOV,19.2,Oil & Gas Equipment & Services,Energy
+BWB,19.19,Banks - Regional,Financial Services
+CMT,19.16,Specialty Chemicals,Basic Materials
+CDZIP,19.14,Utilities - Regulated Water,Utilities
+AFGC,19.12,Unknown,Unknown
+RUN,19.09,Solar,Technology
+HBB,19.07,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+AVBC,19.07,Banks - Regional,Financial Services
+THQ,19.06,Asset Management,Financial Services
+FPF,19.05,Asset Management,Financial Services
+CRK,19.02,Oil & Gas E&P,Energy
+UZF,18.99,Unknown,Unknown
+GREEL,18.99,Unknown,Unknown
+TITN,18.97,Industrial Distribution,Industrials
+DCBO,18.95,Software - Application,Technology
+UZE,18.95,Unknown,Unknown
+EFXT,18.95,Oil & Gas Equipment & Services,Energy
+TNDM,18.95,Medical Devices,Healthcare
+CTO,18.93,REIT - Diversified,Real Estate
+HFBL,18.93,Banks - Regional,Financial Services
+RCUS,18.92,Biotechnology,Healthcare
+NVRI,18.92,Waste Management,Industrials
+CXW,18.92,Security & Protection Services,Industrials
+SMTI,18.91,Medical Instruments & Supplies,Healthcare
+MGIC,18.9,Information Technology Services,Technology
+NP,18.89,Insurance Brokers,Financial Services
+CZWI,18.89,Banks - Regional,Financial Services
+VSH,18.88,Semiconductors,Technology
+BCAL,18.87,Banks - Regional,Financial Services
+PBT,18.86,Oil & Gas Midstream,Energy
+PSTL,18.85,REIT - Office,Real Estate
+FDUS,18.85,Asset Management,Financial Services
+CGAU,18.85,Gold,Basic Materials
+LGI,18.84,Asset Management,Financial Services
+ETX,18.82,Asset Management,Financial Services
+CSQ,18.81,Asset Management,Financial Services
+ADEA,18.8,Software - Application,Technology
+NHPBP,18.8,REIT - Healthcare Facilities,Real Estate
+SOHOO,18.79,REIT - Hotel & Motel,Real Estate
+ASTH,18.78,Medical Care Facilities,Healthcare
+DNLI,18.77,Biotechnology,Healthcare
+VRM,18.77,Credit Services,Financial Services
+OUST,18.77,Electronic Components,Technology
+WPP,18.76,Advertising Agencies,Communication Services
+PRMB,18.76,Beverages - Non-Alcoholic,Consumer Defensive
+ET,18.75,Oil & Gas Midstream,Energy
+TCX,18.74,Software - Infrastructure,Technology
+JLS,18.71,Asset Management,Financial Services
+KVUE,18.7,Household & Personal Products,Consumer Defensive
+FULTP,18.7,Banks - Regional,Financial Services
+DGICA,18.7,Insurance - Property & Casualty,Financial Services
+U,18.68,Software - Application,Technology
+RKT,18.68,Mortgage Finance,Financial Services
+CRVS,18.66,Biotechnology,Healthcare
+ASIX,18.65,Chemicals,Basic Materials
+WDS,18.62,Oil & Gas E&P,Energy
+EML,18.61,Tools & Accessories,Industrials
+PDI,18.61,Asset Management,Financial Services
+KVYO,18.6,Software - Application,Technology
+ACR,18.59,REIT - Mortgage,Real Estate
+TTAM,18.59,Building Materials,Basic Materials
+ACI,18.57,Grocery Stores,Consumer Defensive
+CLB,18.56,Oil & Gas Equipment & Services,Energy
+AAT,18.56,REIT - Diversified,Real Estate
+FONR,18.55,Diagnostics & Research,Healthcare
+GLAD,18.54,Asset Management,Financial Services
+MAC,18.52,REIT - Retail,Real Estate
+SDHC,18.5,Real Estate - Development,Real Estate
+TAK,18.46,Drug Manufacturers - Specialty & Generic,Healthcare
+LI,18.46,Auto Manufacturers,Consumer Cyclical
+FLNC,18.46,Utilities - Renewable,Utilities
+PSNY,18.44,Auto Manufacturers,Consumer Cyclical
+CLBK,18.41,Banks - Regional,Financial Services
+FCF,18.37,Banks - Regional,Financial Services
+VRRM,18.37,Information Technology Services,Technology
+RVT,18.37,Asset Management,Financial Services
+TWFG,18.36,Insurance Brokers,Financial Services
+DHCNL,18.36,Unknown,Unknown
+SOHOB,18.34,REIT - Hotel & Motel,Real Estate
+SOJE,18.31,Unknown,Unknown
+RCMT,18.3,Conglomerates,Industrials
+ARR,18.3,REIT - Mortgage,Real Estate
+LE,18.29,Apparel Retail,Consumer Cyclical
+FSLY,18.26,Software - Application,Technology
+MGYR,18.2,Banks - Regional,Financial Services
+BWMX,18.2,Specialty Retail,Consumer Cyclical
+ACFN,18.19,Scientific & Technical Instruments,Technology
+PCG,18.16,Utilities - Regulated Electric,Utilities
+CZR,18.14,Resorts & Casinos,Consumer Cyclical
+TXG,18.12,Health Information Services,Healthcare
+KLAR,18.11,Software - Infrastructure,Technology
+ECBK,18.1,Banks - Regional,Financial Services
+WSBF,18.09,Banks - Regional,Financial Services
+FNB,18.07,Banks - Regional,Financial Services
+STWD,18.07,REIT - Mortgage,Real Estate
+STEW,18.05,Asset Management,Financial Services
+FLC,18.02,Asset Management,Financial Services
+VIA,18.02,Software - Application,Technology
+HBNC,18.01,Banks - Regional,Financial Services
+FGL,18.0,Engineering & Construction,Industrials
+IOR,18.0,Mortgage Finance,Financial Services
+TWIN,18.0,Specialty Industrial Machinery,Industrials
+CAF,17.98,Asset Management,Financial Services
+HR,17.96,REIT - Healthcare Facilities,Real Estate
+XPEV,17.94,Auto Manufacturers,Consumer Cyclical
+CORZZ,17.92,,
+GLUE,17.92,Biotechnology,Healthcare
+VTLE,17.92,Oil & Gas E&P,Energy
+BRBR,17.87,Packaged Foods,Consumer Defensive
+VHC,17.85,Software - Infrastructure,Technology
+HURC,17.85,Specialty Industrial Machinery,Industrials
+CORZ,17.84,Software - Infrastructure,Technology
+AII,17.83,Insurance - Property & Casualty,Financial Services
+FGBIP,17.82,Banks - Regional,Financial Services
+SPXX,17.81,Asset Management,Financial Services
+CRTO,17.81,Advertising Agencies,Communication Services
+SRPT,17.79,Biotechnology,Healthcare
+ACNT,17.78,Chemicals,Basic Materials
+FC,17.76,Education & Training Services,Consumer Defensive
+WOLF,17.74,Semiconductors,Technology
+CGABL,17.74,Unknown,Unknown
+RIVN,17.73,Auto Manufacturers,Consumer Cyclical
+HBANP,17.72,Banks - Regional,Financial Services
+ACGLN,17.71,Insurance - Diversified,Financial Services
+CPBI,17.7,Banks - Regional,Financial Services
+MGRB,17.69,Unknown,Unknown
+WHG,17.69,Asset Management,Financial Services
+KKRS,17.68,Unknown,Unknown
+TIPT,17.67,Insurance - Specialty,Financial Services
+EOT,17.67,Asset Management,Financial Services
+HELE,17.64,Household & Personal Products,Consumer Defensive
+CHCT,17.64,REIT - Healthcare Facilities,Real Estate
+HOUS,17.64,Real Estate Services,Real Estate
+HERZ,17.61,Unknown,Unknown
+WWW,17.61,Footwear & Accessories,Consumer Cyclical
+BRZE,17.6,Software - Application,Technology
+CLW,17.59,Paper & Paper Products,Basic Materials
+NPB,17.59,Banks - Regional,Financial Services
+COHN,17.58,Capital Markets,Financial Services
+DTB,17.58,Unknown,Unknown
+LEGN,17.58,Biotechnology,Healthcare
+BHFAL,17.55,Unknown,Unknown
+BEKE,17.55,Real Estate Services,Real Estate
+VIPS,17.54,Internet Retail,Consumer Cyclical
+GEL,17.54,Oil & Gas Midstream,Energy
+PFH,17.52,Unknown,Unknown
+HDL,17.5,Restaurants,Consumer Cyclical
+NCIQ,17.48,Unknown,Unknown
+PRTC,17.46,Biotechnology,Healthcare
+MANU,17.44,Entertainment,Communication Services
+AFGE,17.43,Unknown,Unknown
+RILYT,17.42,Unknown,Unknown
+ATGL,17.4,Software - Infrastructure,Technology
+JAKK,17.4,Leisure,Consumer Cyclical
+DTG,17.39,Unknown,Unknown
+ORLA,17.39,Gold,Basic Materials
+NGNE,17.38,Biotechnology,Healthcare
+FINW,17.36,Banks - Regional,Financial Services
+OCSAW,17.32,Unknown,Unknown
+BZ,17.32,Internet Content & Information,Communication Services
+FRBA,17.3,Banks - Regional,Financial Services
+ASIC,17.3,Insurance - Property & Casualty,Financial Services
+FTK,17.29,Oil & Gas Equipment & Services,Energy
+PR,17.29,Oil & Gas E&P,Energy
+LCNB,17.28,Banks - Regional,Financial Services
+SSTK,17.27,Internet Content & Information,Communication Services
+MDWD,17.27,Biotechnology,Healthcare
+HBAN,17.26,Banks - Regional,Financial Services
+SIGIP,17.23,Insurance - Property & Casualty,Financial Services
+SBSW,17.23,Other Precious Metals & Mining,Basic Materials
+MPLT,17.22,Biotechnology,Healthcare
+DHCNI,17.19,Unknown,Unknown
+SRBK,17.16,Banks - Regional,Financial Services
+ARL,17.15,Real Estate Services,Real Estate
+SHC,17.12,Diagnostics & Research,Healthcare
+ETON,17.07,Drug Manufacturers - Specialty & Generic,Healthcare
+RMR,17.04,Real Estate Services,Real Estate
+BHFAO,17.04,Insurance - Life,Financial Services
+BIPI,17.04,Unknown,Unknown
+BLCO,17.03,Medical Instruments & Supplies,Healthcare
+ARQQ,17.0,Software - Infrastructure,Technology
+SWKH,17.0,Asset Management,Financial Services
+HQL,16.98,Asset Management,Financial Services
+CPNG,16.98,Internet Retail,Consumer Cyclical
+WAFDP,16.98,Banks - Regional,Financial Services
+CMRE,16.94,Marine Shipping,Industrials
+RNGR,16.9,Oil & Gas Equipment & Services,Energy
+SD,16.9,Oil & Gas E&P,Energy
+ANRO,16.89,Biotechnology,Healthcare
+GLDD,16.89,Engineering & Construction,Industrials
+KIDS,16.89,Medical Devices,Healthcare
+BIPH,16.89,Unknown,Unknown
+FFC,16.88,Asset Management,Financial Services
+SLDE,16.87,Insurance - Property & Casualty,Financial Services
+STNE,16.86,Software - Infrastructure,Technology
+TRC,16.85,Conglomerates,Industrials
+DRVN,16.84,Auto & Truck Dealerships,Consumer Cyclical
+HE,16.82,Utilities - Regulated Electric,Utilities
+NU,16.82,Banks - Regional,Financial Services
+GES,16.81,Apparel Retail,Consumer Cyclical
+MLP,16.78,Real Estate Services,Real Estate
+ACHC,16.77,Medical Care Facilities,Healthcare
+SDHY,16.77,Asset Management,Financial Services
+CNL,16.75,Gold,Basic Materials
+FIVN,16.75,Software - Infrastructure,Technology
+BWLP,16.73,Marine Shipping,Industrials
+HAYW,16.71,Electrical Equipment & Parts,Industrials
+OZKAP,16.7,Banks - Regional,Financial Services
+DOC,16.7,REIT - Healthcare Facilities,Real Estate
+FFIC,16.67,Banks - Regional,Financial Services
+MESO,16.67,Biotechnology,Healthcare
+VALE,16.65,Other Industrial Metals & Mining,Basic Materials
+KELYB,16.65,Staffing & Employment Services,Industrials
+IGI,16.64,Asset Management,Financial Services
+VRE,16.63,REIT - Residential,Real Estate
+BBN,16.58,Asset Management,Financial Services
+KROS,16.58,Biotechnology,Healthcare
+TCBS,16.56,Banks - Regional,Financial Services
+PDLB,16.54,Banks - Regional,Financial Services
+NCV,16.53,Asset Management,Financial Services
+BKD,16.51,Medical Care Facilities,Healthcare
+BWIN,16.5,Insurance Brokers,Financial Services
+BHFAP,16.5,Insurance - Life,Financial Services
+METC,16.48,Coking Coal,Basic Materials
+SRAD,16.47,Software - Application,Technology
+MAT,16.47,Leisure,Consumer Cyclical
+DNOW,16.43,Industrial Distribution,Industrials
+CIFR,16.42,Capital Markets,Financial Services
+GGZ,16.41,Asset Management,Financial Services
+SEM,16.38,Medical Care Facilities,Healthcare
+WT,16.36,Asset Management,Financial Services
+JILL,16.36,Apparel Retail,Consumer Cyclical
+SOHON,16.35,REIT - Hotel & Motel,Real Estate
+IRT,16.35,REIT - Residential,Real Estate
+INR,16.35,Oil & Gas E&P,Energy
+XPRO,16.33,Oil & Gas Equipment & Services,Energy
+SBH,16.32,Specialty Retail,Consumer Cyclical
+HIMS,16.3,Drug Manufacturers - Specialty & Generic,Healthcare
+AES,16.28,Utilities - Diversified,Utilities
+HPI,16.27,Asset Management,Financial Services
+BPYPP,16.27,Real Estate Services,Real Estate
+ALKT,16.27,Software - Application,Technology
+WULF,16.26,Capital Markets,Financial Services
+NBB,16.25,Asset Management,Financial Services
+AMN,16.25,Medical Care Facilities,Healthcare
+RYM,16.24,Tobacco,Consumer Defensive
+PROV,16.22,Banks - Regional,Financial Services
+GUG,16.22,Asset Management,Financial Services
+BPYPM,16.21,Asset Management,Financial Services
+NOA,16.2,Oil & Gas Equipment & Services,Energy
+BBAR,16.18,Banks - Regional,Financial Services
+ULH,16.18,Trucking,Industrials
+STRO,16.16,Biotechnology,Healthcare
+FVR,16.16,REIT - Diversified,Real Estate
+VBNK,16.16,Banks - Regional,Financial Services
+HPF,16.15,Asset Management,Financial Services
+FAX,16.15,Asset Management,Financial Services
+USAU,16.15,Gold,Basic Materials
+NCNO,16.14,Software - Application,Technology
+LUNR,16.13,Aerospace & Defense,Industrials
+STAA,16.1,Medical Instruments & Supplies,Healthcare
+SOHU,16.1,Electronic Gaming & Multimedia,Communication Services
+BEPI,16.1,Unknown,Unknown
+UMH,16.09,REIT - Residential,Real Estate
+ADMA,16.09,Biotechnology,Healthcare
+RGTI,16.09,Computer Hardware,Technology
+NN,16.09,Software - Infrastructure,Technology
+DGICB,16.07,Insurance - Property & Casualty,Financial Services
+NWG,16.07,Banks - Regional,Financial Services
+SCD,16.06,Asset Management,Financial Services
+ADPT,16.04,Biotechnology,Healthcare
+BNH,16.03,Unknown,Unknown
+RILYZ,16.03,Unknown,Unknown
+MCS,16.03,Entertainment,Communication Services
+RSI,16.03,Gambling,Consumer Cyclical
+STVN,16.01,Medical Instruments & Supplies,Healthcare
+CLST,16.01,Banks - Regional,Financial Services
+JBS,16.0,Packaged Foods,Consumer Defensive
+BSET,15.99,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+KRNT,15.97,Specialty Industrial Machinery,Industrials
+SMPL,15.95,Packaged Foods,Consumer Defensive
+JBGS,15.94,REIT - Office,Real Estate
+SAIL,15.92,Software - Infrastructure,Technology
+DOLE,15.91,Farm Products,Consumer Defensive
+DHT,15.91,Oil & Gas Midstream,Energy
+FUN,15.9,Leisure,Consumer Cyclical
+HLF,15.9,Packaged Foods,Consumer Defensive
+TME,15.85,Internet Content & Information,Communication Services
+PAXS,15.83,Asset Management,Financial Services
+EQX,15.8,Gold,Basic Materials
+IE,15.79,Copper,Basic Materials
+MSDL,15.79,Asset Management,Financial Services
+MLTX,15.77,Biotechnology,Healthcare
+VTRS,15.77,Drug Manufacturers - Specialty & Generic,Healthcare
+FVCB,15.76,Banks - Regional,Financial Services
+XHR,15.73,REIT - Hotel & Motel,Real Estate
+RLTY,15.73,Asset Management,Financial Services
+MGRD,15.72,Unknown,Unknown
+VIV,15.72,Telecom Services,Communication Services
+JCE,15.71,Asset Management,Financial Services
+KINS,15.71,Insurance - Property & Casualty,Financial Services
+MMD,15.69,Asset Management,Financial Services
+DIAX,15.68,Asset Management,Financial Services
+SAFE,15.66,REIT - Diversified,Real Estate
+VHI,15.63,Chemicals,Basic Materials
+LXFR,15.62,Specialty Industrial Machinery,Industrials
+CPHC,15.61,Resorts & Casinos,Consumer Cyclical
+NRIX,15.6,Biotechnology,Healthcare
+ERII,15.6,Pollution & Treatment Controls,Industrials
+LC,15.59,Banks - Regional,Financial Services
+HTGC,15.58,Asset Management,Financial Services
+VOD,15.57,Telecom Services,Communication Services
+IMXI,15.57,Software - Infrastructure,Technology
+CEPU,15.55,Utilities - Regulated Electric,Utilities
+QFIN,15.55,Credit Services,Financial Services
+DYN,15.54,Biotechnology,Healthcare
+MAMA,15.53,Packaged Foods,Consumer Defensive
+UEC,15.52,Uranium,Energy
+VBF,15.51,Asset Management,Financial Services
+AEBI,15.51,Farm & Heavy Construction Machinery,Industrials
+SONO,15.51,Consumer Electronics,Technology
+DVAX,15.5,Drug Manufacturers - Specialty & Generic,Healthcare
+RBKB,15.47,Banks - Regional,Financial Services
+BNJ,15.46,Unknown,Unknown
+ZETA,15.46,Software - Infrastructure,Technology
+SGRY,15.46,Medical Care Facilities,Healthcare
+LSBK,15.45,Banks - Regional,Financial Services
+PINS,15.42,Internet Content & Information,Communication Services
+PHAR,15.42,Biotechnology,Healthcare
+GBAB,15.42,Asset Management,Financial Services
+MEGI,15.41,Asset Management,Financial Services
+DBRG,15.41,Asset Management,Financial Services
+TRIN,15.41,Asset Management,Financial Services
+ETB,15.39,Asset Management,Financial Services
+FUSB,15.37,Banks - Regional,Financial Services
+FWRG,15.37,Restaurants,Consumer Cyclical
+MCHB,15.37,Banks - Regional,Financial Services
+SIBN,15.33,Medical Devices,Healthcare
+PMN,15.25,Biotechnology,Healthcare
+BPYPO,15.25,Real Estate Services,Real Estate
+BEPH,15.23,Unknown,Unknown
+RIOT,15.22,Capital Markets,Financial Services
+ECAT,15.22,Asset Management,Financial Services
+IRS,15.21,Real Estate Services,Real Estate
+WSR,15.21,REIT - Retail,Real Estate
+BSM,15.2,Oil & Gas E&P,Energy
+PBR,15.19,Oil & Gas Integrated,Energy
+GENC,15.18,Farm & Heavy Construction Machinery,Industrials
+RMI,15.17,Asset Management,Financial Services
+TNXP,15.14,Biotechnology,Healthcare
+DBL,15.12,Asset Management,Financial Services
+RMMZ,15.11,Asset Management,Financial Services
+FDSB,15.11,Banks - Regional,Financial Services
+NREF,15.08,REIT - Mortgage,Real Estate
+SIFY,15.05,Telecom Services,Communication Services
+NPCE,15.05,Medical Devices,Healthcare
+HOFT,15.05,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+SPE,15.04,Asset Management,Financial Services
+JBIO,15.03,Biotechnology,Healthcare
+SUPX,15.03,Software - Infrastructure,Technology
+MNMD,15.02,Biotechnology,Healthcare
+SAMG,15.02,Asset Management,Financial Services
+SLRC,15.0,Asset Management,Financial Services
+CCCXU,15.0,Shell Companies,Financial Services
+BMEZ,14.97,Asset Management,Financial Services
+SBGI,14.96,Broadcasting,Communication Services
+SMMT,14.96,Biotechnology,Healthcare
+BGR,14.96,Asset Management,Financial Services
+DLY,14.95,Asset Management,Financial Services
+LBTYB,14.95,Telecom Services,Communication Services
+BGH,14.95,Asset Management,Financial Services
+BCAT,14.95,Asset Management,Financial Services
+MDV,14.93,REIT - Industrial,Real Estate
+TFSL,14.93,Banks - Regional,Financial Services
+ETY,14.93,Asset Management,Financial Services
+MHNC,14.91,Unknown,Unknown
+KALV,14.91,Biotechnology,Healthcare
+GDEV,14.9,Electronic Gaming & Multimedia,Communication Services
+AVNS,14.9,Medical Devices,Healthcare
+NCZ,14.89,Asset Management,Financial Services
+CPZ,14.86,Asset Management,Financial Services
+PLAY,14.85,Entertainment,Communication Services
+PESI,14.84,Waste Management,Industrials
+NMRK,14.82,Real Estate Services,Real Estate
+AMRX,14.82,Drug Manufacturers - Specialty & Generic,Healthcare
+UBCP,14.81,Banks - Regional,Financial Services
+OI,14.79,Packaging & Containers,Consumer Cyclical
+HPS,14.79,Asset Management,Financial Services
+MATV,14.78,Specialty Chemicals,Basic Materials
+HCM,14.76,Drug Manufacturers - Specialty & Generic,Healthcare
+AMRN,14.74,Drug Manufacturers - General,Healthcare
+INFY,14.72,Information Technology Services,Technology
+BXMX,14.72,Asset Management,Financial Services
+RPT,14.71,REIT - Mortgage,Real Estate
+GHRS,14.7,Biotechnology,Healthcare
+MODG,14.68,Leisure,Consumer Cyclical
+ISD,14.67,Asset Management,Financial Services
+RFM,14.66,Asset Management,Financial Services
+EVER,14.66,Internet Content & Information,Communication Services
+OPXS,14.66,Aerospace & Defense,Industrials
+ETV,14.65,Asset Management,Financial Services
+CLBT,14.64,Software - Infrastructure,Technology
+AIP,14.62,Semiconductors,Technology
+GNE,14.6,Utilities - Regulated Electric,Utilities
+PBFS,14.59,Banks - Regional,Financial Services
+RMM,14.57,Asset Management,Financial Services
+MG,14.56,Security & Protection Services,Industrials
+DPG,14.56,Asset Management,Financial Services
+LVLU,14.55,Apparel Retail,Consumer Cyclical
+CCU,14.54,Beverages - Brewers,Consumer Defensive
+PRGO,14.54,Drug Manufacturers - Specialty & Generic,Healthcare
+NXP,14.51,Asset Management,Financial Services
+BRT,14.5,REIT - Residential,Real Estate
+KC,14.48,Software - Application,Technology
+EXTR,14.46,Communication Equipment,Technology
+CTNM,14.44,Biotechnology,Healthcare
+NPKI,14.44,Oil & Gas Equipment & Services,Energy
+NUW,14.43,Asset Management,Financial Services
+ALMU,14.43,Semiconductors,Technology
+BRCB,14.42,Restaurants,Consumer Cyclical
+WLACU,14.4,Shell Companies,Financial Services
+RSF,14.38,Asset Management,Financial Services
+AVO,14.37,Food Distribution,Consumer Defensive
+FOF,14.37,Asset Management,Financial Services
+FMC,14.34,Agricultural Inputs,Basic Materials
+RGT,14.34,Asset Management,Financial Services
+FVRR,14.34,Internet Content & Information,Communication Services
+WDI,14.32,Asset Management,Financial Services
+BRBI,14.32,Capital Markets,Financial Services
+SMR,14.31,Specialty Industrial Machinery,Industrials
+MKTW,14.31,Financial Data & Stock Exchanges,Financial Services
+FOLD,14.31,Biotechnology,Healthcare
+MTW,14.3,Farm & Heavy Construction Machinery,Industrials
+INMD,14.3,Medical Devices,Healthcare
+LMNR,14.27,Farm Products,Consumer Defensive
+SOGP,14.26,Internet Content & Information,Communication Services
+AVTX,14.26,Biotechnology,Healthcare
+RMBI,14.26,Banks - Regional,Financial Services
+AUPH,14.23,Biotechnology,Healthcare
+FTLF,14.23,Packaged Foods,Consumer Defensive
+GEO,14.21,Security & Protection Services,Industrials
+BCAX,14.21,Biotechnology,Healthcare
+ESOA,14.21,Engineering & Construction,Industrials
+TISI,14.21,Specialty Business Services,Industrials
+IAF,14.19,Asset Management,Financial Services
+FLG,14.18,Banks - Regional,Financial Services
+RDY,14.14,Drug Manufacturers - Specialty & Generic,Healthcare
+BLFY,14.13,Banks - Regional,Financial Services
+GLRE,14.12,Insurance - Reinsurance,Financial Services
+AMLX,14.12,Drug Manufacturers - Specialty & Generic,Healthcare
+F,14.12,Auto Manufacturers,Consumer Cyclical
+FTHY,14.1,Asset Management,Financial Services
+PDO,14.09,Asset Management,Financial Services
+CIM,14.08,REIT - Mortgage,Real Estate
+KRP,14.08,Oil & Gas E&P,Energy
+AFYA,14.07,Education & Training Services,Consumer Defensive
+PONY,14.07,Information Technology Services,Technology
+IDE,14.05,Asset Management,Financial Services
+DX,14.05,REIT - Mortgage,Real Estate
+OPBK,14.05,Banks - Regional,Financial Services
+NCDL,14.05,Asset Management,Financial Services
+WNEB,14.05,Banks - Regional,Financial Services
+ESCA,14.04,Leisure,Consumer Cyclical
+JHI,14.01,Asset Management,Financial Services
+CVR,13.98,Tools & Accessories,Industrials
+GAIN,13.98,Asset Management,Financial Services
+IFN,13.98,Asset Management,Financial Services
+VTYX,13.97,Biotechnology,Healthcare
+KBDC,13.97,Asset Management,Financial Services
+CCAP,13.97,Asset Management,Financial Services
+MXE,13.95,Asset Management,Financial Services
+FRST,13.94,Banks - Regional,Financial Services
+BBNX,13.94,Medical Devices,Healthcare
+HCKT,13.93,Information Technology Services,Technology
+BALY,13.91,Resorts & Casinos,Consumer Cyclical
+PCSC,13.91,Shell Companies,Financial Services
+PAX,13.91,Asset Management,Financial Services
+SSBI,13.89,Banks - Regional,Financial Services
+AAL,13.88,Airlines,Industrials
+BPYPN,13.88,Real Estate Services,Real Estate
+S,13.87,Software - Infrastructure,Technology
+PLRZ,13.85,Biotechnology,Healthcare
+ENTA,13.85,Biotechnology,Healthcare
+ORN,13.84,Engineering & Construction,Industrials
+ALM,13.84,Other Industrial Metals & Mining,Basic Materials
+MAGN,13.82,Household & Personal Products,Consumer Defensive
+VNET,13.8,Information Technology Services,Technology
+NFJ,13.8,Asset Management,Financial Services
+RELL,13.8,Electronic Components,Technology
+KYN,13.77,Asset Management,Financial Services
+GILT,13.77,Communication Equipment,Technology
+BLW,13.74,Asset Management,Financial Services
+SPOK,13.72,Health Information Services,Healthcare
+GPRE,13.7,Chemicals,Basic Materials
+NMAI,13.68,Asset Management,Financial Services
+BV,13.67,Specialty Business Services,Industrials
+MH,13.67,Education & Training Services,Consumer Defensive
+CCCX,13.66,Shell Companies,Financial Services
+EDRY,13.66,Marine Shipping,Industrials
+BUUU,13.62,Specialty Business Services,Industrials
+PBHC,13.6,Banks - Regional,Financial Services
+FSEA,13.6,Banks - Regional,Financial Services
+NFBK,13.59,Banks - Regional,Financial Services
+AEVA,13.58,Software - Infrastructure,Technology
+BHFAN,13.58,Insurance - Life,Financial Services
+TAC,13.58,Utilities - Independent Power Producers,Utilities
+ASC,13.58,Marine Shipping,Industrials
+BCSF,13.56,Asset Management,Financial Services
+CLPT,13.55,Medical Devices,Healthcare
+LTCC,13.52,Unknown,Unknown
+VREX,13.52,Medical Devices,Healthcare
+RXO,13.51,Trucking,Industrials
+VLY,13.49,Banks - Regional,Financial Services
+TU,13.48,Telecom Services,Communication Services
+FBLA,13.45,Banks - Regional,Financial Services
+PDT,13.45,Asset Management,Financial Services
+BRSL,13.45,Gambling,Consumer Cyclical
+FMNB,13.44,Banks - Regional,Financial Services
+MBBC,13.44,Banks - Regional,Financial Services
+RA,13.43,Asset Management,Financial Services
+OSCR,13.42,Healthcare Plans,Healthcare
+NBXG,13.4,Asset Management,Financial Services
+CODA,13.4,Aerospace & Defense,Industrials
+METCB,13.4,Coking Coal,Basic Materials
+MITK,13.4,Software - Application,Technology
+DXC,13.39,Information Technology Services,Technology
+OFIX,13.38,Medical Devices,Healthcare
+NVG,13.37,Asset Management,Financial Services
+ATEC,13.36,Medical Devices,Healthcare
+SGML,13.35,Other Industrial Metals & Mining,Basic Materials
+LOVE,13.33,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+FSK,13.32,Asset Management,Financial Services
+NODK,13.31,Insurance - Property & Casualty,Financial Services
+HTBK,13.3,Banks - Regional,Financial Services
+NXC,13.29,Asset Management,Financial Services
+CNNE,13.29,Restaurants,Consumer Cyclical
+LYFT,13.27,Software - Application,Technology
+HBR,13.26,Unknown,Unknown
+FINS,13.25,Asset Management,Financial Services
+MRTN,13.24,Trucking,Industrials
+JRI,13.24,Asset Management,Financial Services
+RAIL,13.24,Railroads,Industrials
+ARDC,13.23,Asset Management,Financial Services
+UPWK,13.22,Internet Content & Information,Communication Services
+MFI,13.21,Software - Application,Technology
+RQI,13.21,Asset Management,Financial Services
+HUN,13.21,Chemicals,Basic Materials
+DEC,13.21,Oil & Gas Integrated,Energy
+BSL,13.2,Asset Management,Financial Services
+MAMK,13.16,Conglomerates,Industrials
+BIT,13.15,Asset Management,Financial Services
+BCX,13.15,Asset Management,Financial Services
+JANX,13.14,Biotechnology,Healthcare
+TALO,13.12,Oil & Gas E&P,Energy
+NXTC,13.1,Biotechnology,Healthcare
+RFMZ,13.1,Asset Management,Financial Services
+MNR,13.1,Oil & Gas E&P,Energy
+SI,13.06,Unknown,Unknown
+JAMF,13.05,Software - Application,Technology
+LTBR,13.04,Electrical Equipment & Parts,Industrials
+PTY,13.01,Asset Management,Financial Services
+MSIF,12.99,Asset Management,Financial Services
+NWBI,12.99,Banks - Regional,Financial Services
+NZF,12.97,Asset Management,Financial Services
+BAND,12.96,Software - Infrastructure,Technology
+OESX,12.96,Electrical Equipment & Parts,Industrials
+NKX,12.96,Asset Management,Financial Services
+XRAY,12.95,Medical Instruments & Supplies,Healthcare
+EYPT,12.94,Biotechnology,Healthcare
+STRW,12.94,REIT - Healthcare Facilities,Real Estate
+EFC,12.94,REIT - Mortgage,Real Estate
+SHEN,12.94,Telecom Services,Communication Services
+MHLA,12.93,Unknown,Unknown
+GHY,12.91,Asset Management,Financial Services
+NOMD,12.9,Packaged Foods,Consumer Defensive
+TNGX,12.9,Biotechnology,Healthcare
+CWK,12.89,Real Estate Services,Real Estate
+LENZ,12.88,Biotechnology,Healthcare
+JGH,12.85,Asset Management,Financial Services
+ELA,12.85,Luxury Goods,Consumer Cyclical
+CMBT,12.85,Oil & Gas Midstream,Energy
+SGU,12.85,Oil & Gas Refining & Marketing,Energy
+IIM,12.82,Asset Management,Financial Services
+KYIV,12.82,Telecom Services,Communication Services
+WTTR,12.82,Oil & Gas Equipment & Services,Energy
+PAI,12.8,Asset Management,Financial Services
+PCN,12.78,Asset Management,Financial Services
+VOR,12.78,Biotechnology,Healthcare
+RELY,12.76,Software - Infrastructure,Technology
+AGD,12.75,Unknown,Unknown
+VERX,12.75,Software - Application,Technology
+PEB,12.75,REIT - Hotel & Motel,Real Estate
+CNH,12.75,Farm & Heavy Construction Machinery,Industrials
+NEWT,12.72,Banks - Regional,Financial Services
+HSPT,12.71,Shell Companies,Financial Services
+WSBK,12.7,Banks - Regional,Financial Services
+WVE,12.68,Biotechnology,Healthcare
+PDCC,12.68,Asset Management,Financial Services
+OTF,12.66,Asset Management,Financial Services
+AVK,12.66,Asset Management,Financial Services
+TENX,12.65,Biotechnology,Healthcare
+THW,12.65,Asset Management,Financial Services
+PMT,12.64,REIT - Mortgage,Real Estate
+GBDC,12.63,Asset Management,Financial Services
+TXO,12.61,Oil & Gas E&P,Energy
+NXJ,12.59,Asset Management,Financial Services
+ATXS,12.58,Biotechnology,Healthcare
+CX,12.57,Building Materials,Basic Materials
+PSO,12.56,Publishing,Communication Services
+GRRR,12.54,Software - Infrastructure,Technology
+BYRN,12.51,Aerospace & Defense,Industrials
+MIY,12.5,Asset Management,Financial Services
+BOC,12.5,Conglomerates,Industrials
+ASPCU,12.5,Shell Companies,Financial Services
+ASPC,12.5,Shell Companies,Financial Services
+GRPN,12.48,Internet Content & Information,Communication Services
+PGY,12.43,Software - Infrastructure,Technology
+GPK,12.42,Packaging & Containers,Consumer Cyclical
+DXR,12.4,Medical Instruments & Supplies,Healthcare
+ISRL,12.4,Shell Companies,Financial Services
+ASRT,12.38,Drug Manufacturers - Specialty & Generic,Healthcare
+OPRA,12.38,Internet Content & Information,Communication Services
+CGO,12.38,Asset Management,Financial Services
+COLD,12.36,REIT - Industrial,Real Estate
+ERH,12.35,Asset Management,Financial Services
+GOF,12.32,Asset Management,Financial Services
+AWP,12.32,Asset Management,Financial Services
+MUJ,12.32,Asset Management,Financial Services
+ECF,12.3,Asset Management,Financial Services
+OWL,12.3,Asset Management,Financial Services
+JOF,12.29,Asset Management,Financial Services
+SLP,12.29,Health Information Services,Healthcare
+OTLY,12.27,Packaged Foods,Consumer Defensive
+APLE,12.27,REIT - Hotel & Motel,Real Estate
+OAKU,12.24,Shell Companies,Financial Services
+KD,12.24,Information Technology Services,Technology
+GOOS,12.23,Apparel Manufacturing,Consumer Cyclical
+NAD,12.23,Asset Management,Financial Services
+KFS,12.23,Auto & Truck Dealerships,Consumer Cyclical
+LNSR,12.23,Medical Devices,Healthcare
+NSTS,12.21,Banks - Regional,Financial Services
+VINP,12.2,Asset Management,Financial Services
+BHFAM,12.19,Insurance - Life,Financial Services
+NMS,12.17,Asset Management,Financial Services
+UONE,12.15,Broadcasting,Communication Services
+HOPE,12.14,Banks - Regional,Financial Services
+OCSL,12.14,Asset Management,Financial Services
+NXN,12.14,Asset Management,Financial Services
+COEP,12.11,Biotechnology,Healthcare
+RDIB,12.1,Entertainment,Communication Services
+AARD,12.1,Biotechnology,Healthcare
+BCIC,12.1,Asset Management,Financial Services
+FMY,12.08,Asset Management,Financial Services
+NRC,12.08,Health Information Services,Healthcare
+NAZ,12.08,Asset Management,Financial Services
+VTN,12.07,Asset Management,Financial Services
+RDCM,12.06,Telecom Services,Communication Services
+HGTY,12.06,Insurance - Property & Casualty,Financial Services
+GCMG,12.04,Asset Management,Financial Services
+PFD,12.02,Asset Management,Financial Services
+PUMP,12.02,Oil & Gas Equipment & Services,Energy
+PHAT,12.02,Biotechnology,Healthcare
+HSHP,12.02,Marine Shipping,Industrials
+NQP,12.01,Asset Management,Financial Services
+TC,12.01,Advertising Agencies,Communication Services
+NGL,12.0,Oil & Gas Midstream,Energy
+GIFI,12.0,Metal Fabrication,Industrials
+ERAS,12.0,Biotechnology,Healthcare
+BFIN,12.0,Banks - Regional,Financial Services
+MDRR,12.0,REIT - Diversified,Real Estate
+NOAH,12.0,Asset Management,Financial Services
+CHY,11.99,Asset Management,Financial Services
+RMT,11.98,Asset Management,Financial Services
+ONEW,11.98,Specialty Retail,Consumer Cyclical
+FPI,11.98,REIT - Specialty,Real Estate
+DLO,11.97,Software - Infrastructure,Technology
+REFI,11.96,REIT - Mortgage,Real Estate
+PHR,11.95,Health Information Services,Healthcare
+BOE,11.95,Asset Management,Financial Services
+RFI,11.94,Asset Management,Financial Services
+NEXA,11.93,Other Industrial Metals & Mining,Basic Materials
+RIV,11.92,Asset Management,Financial Services
+UMAC,11.92,Computer Hardware,Technology
+CGBD,11.92,Asset Management,Financial Services
+GDOT,11.91,Credit Services,Financial Services
+EC,11.9,Oil & Gas Integrated,Energy
+GF,11.89,Asset Management,Financial Services
+NTSK,11.89,Software - Infrastructure,Technology
+NAC,11.88,Asset Management,Financial Services
+NTLA,11.87,Biotechnology,Healthcare
+SAN,11.86,Banks - Diversified,Financial Services
+WNC,11.86,Farm & Heavy Construction Machinery,Industrials
+KG,11.84,Insurance Brokers,Financial Services
+KVAC,11.83,Shell Companies,Financial Services
+SEMR,11.83,Software - Application,Technology
+PAMT,11.81,Trucking,Industrials
+NMT,11.81,Asset Management,Financial Services
+CAL,11.81,Apparel Retail,Consumer Cyclical
+TBCH,11.81,Consumer Electronics,Technology
+ALCY,11.79,Shell Companies,Financial Services
+MBC,11.79,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+AESI,11.77,Oil & Gas Equipment & Services,Energy
+CRESY,11.77,Conglomerates,Industrials
+MOVE,11.77,Medical Devices,Healthcare
+PENN,11.76,Resorts & Casinos,Consumer Cyclical
+NEA,11.75,Asset Management,Financial Services
+EXK,11.75,Silver,Basic Materials
+SWBI,11.75,Aerospace & Defense,Industrials
+LEG,11.73,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+MHD,11.73,Asset Management,Financial Services
+DRIO,11.72,Health Information Services,Healthcare
+JHS,11.72,Asset Management,Financial Services
+MLACU,11.71,Unknown,Unknown
+MGNI,11.7,Advertising Agencies,Communication Services
+KIO,11.7,Asset Management,Financial Services
+CHI,11.69,Asset Management,Financial Services
+OMER,11.69,Biotechnology,Healthcare
+MQY,11.69,Asset Management,Financial Services
+USGO,11.67,Other Industrial Metals & Mining,Basic Materials
+GOOD,11.67,REIT - Diversified,Real Estate
+BGB,11.65,Asset Management,Financial Services
+ARVN,11.65,Biotechnology,Healthcare
+OOMA,11.64,Software - Application,Technology
+FRA,11.63,Asset Management,Financial Services
+ECVT,11.62,Specialty Chemicals,Basic Materials
+NXE,11.62,Uranium,Energy
+TDF,11.6,Asset Management,Financial Services
+BKHA,11.6,Shell Companies,Financial Services
+NPV,11.59,Asset Management,Financial Services
+XNCR,11.59,Biotechnology,Healthcare
+CGEM,11.59,Biotechnology,Healthcare
+EH,11.58,Aerospace & Defense,Industrials
+QETA,11.57,Shell Companies,Financial Services
+DSL,11.56,Asset Management,Financial Services
+DTF,11.55,Asset Management,Financial Services
+LGCY,11.55,Education & Training Services,Consumer Defensive
+NAN,11.54,Asset Management,Financial Services
+CEPT,11.53,Shell Companies,Financial Services
+GDO,11.53,Asset Management,Financial Services
+BKN,11.52,Asset Management,Financial Services
+LPTH,11.52,Electronic Components,Technology
+SHIP,11.51,Marine Shipping,Industrials
+MPA,11.5,Asset Management,Financial Services
+CWH,11.48,Auto & Truck Dealerships,Consumer Cyclical
+AGCC,11.48,Beverages - Wineries & Distilleries,Consumer Defensive
+SCM,11.47,Asset Management,Financial Services
+OBDC,11.47,Asset Management,Financial Services
+LOMA,11.47,Building Materials,Basic Materials
+MTRX,11.46,Engineering & Construction,Industrials
+REAL,11.45,Luxury Goods,Consumer Cyclical
+BDSX,11.45,Diagnostics & Research,Healthcare
+HYAC,11.44,Shell Companies,Financial Services
+ARLO,11.42,Building Products & Equipment,Industrials
+TEO,11.42,Telecom Services,Communication Services
+ASYS,11.42,Semiconductor Equipment & Materials,Technology
+TK,11.42,Oil & Gas Midstream,Energy
+HEQ,11.41,Asset Management,Financial Services
+SDGR,11.4,Health Information Services,Healthcare
+TWO,11.4,REIT - Mortgage,Real Estate
+PMTS,11.38,Credit Services,Financial Services
+WATT,11.38,Communication Equipment,Technology
+NEO,11.38,Diagnostics & Research,Healthcare
+SPKL,11.38,Shell Companies,Financial Services
+RCAT,11.37,Aerospace & Defense,Industrials
+WFCF,11.36,Specialty Business Services,Industrials
+CHCI,11.36,Real Estate Services,Real Estate
+AGNC,11.36,REIT - Mortgage,Real Estate
+AEXA,11.36,Unknown,Unknown
+BHVN,11.36,Biotechnology,Healthcare
+DAWN,11.35,Biotechnology,Healthcare
+EFT,11.35,Asset Management,Financial Services
+PSBD,11.35,Asset Management,Financial Services
+CORZW,11.34,,
+BGT,11.33,Asset Management,Financial Services
+PATH,11.32,Software - Infrastructure,Technology
+IART,11.32,Medical Devices,Healthcare
+FMN,11.31,Asset Management,Financial Services
+OMDA,11.31,Health Information Services,Healthcare
+VCV,11.3,Asset Management,Financial Services
+STEM,11.3,Utilities - Renewable,Utilities
+BGX,11.29,Asset Management,Financial Services
+SVV,11.29,Specialty Retail,Consumer Cyclical
+HTLD,11.28,Trucking,Industrials
+EMD,11.28,Asset Management,Financial Services
+EXOD,11.27,Software - Infrastructure,Technology
+DMO,11.26,Asset Management,Financial Services
+BBOT,11.25,Biotechnology,Healthcare
+QNST,11.25,Advertising Agencies,Communication Services
+TAL,11.25,Education & Training Services,Consumer Defensive
+VCICU,11.25,Shell Companies,Financial Services
+OSPN,11.24,Software - Infrastructure,Technology
+TBMC,11.24,Shell Companies,Financial Services
+ANSC,11.24,Shell Companies,Financial Services
+HYI,11.22,Asset Management,Financial Services
+MYI,11.21,Asset Management,Financial Services
+PK,11.2,REIT - Hotel & Motel,Real Estate
+HLN,11.2,Drug Manufacturers - Specialty & Generic,Healthcare
+SVACU,11.2,Unknown,Unknown
+SGA,11.19,Broadcasting,Communication Services
+LAND,11.19,REIT - Specialty,Real Estate
+DMB,11.19,Asset Management,Financial Services
+PCYO,11.19,Utilities - Regulated Water,Utilities
+MUA,11.18,Asset Management,Financial Services
+SUZ,11.18,Paper & Paper Products,Basic Materials
+BCARU,11.18,Shell Companies,Financial Services
+VELO,11.17,Computer Hardware,Technology
+KRRO,11.17,Biotechnology,Healthcare
+ARRY,11.16,Solar,Technology
+EHAB,11.16,Medical Care Facilities,Healthcare
+BKT,11.12,Asset Management,Financial Services
+NOM,11.11,Asset Management,Financial Services
+MFIC,11.11,Asset Management,Financial Services
+BFZ,11.11,Asset Management,Financial Services
+AKA,11.11,Apparel Retail,Consumer Cyclical
+FBIOP,11.11,Biotechnology,Healthcare
+EOSE,11.1,Electrical Equipment & Parts,Industrials
+EVG,11.1,Asset Management,Financial Services
+ANSCU,11.1,Shell Companies,Financial Services
+ACIC,11.09,Insurance - Property & Casualty,Financial Services
+EVN,11.09,Asset Management,Financial Services
+EFR,11.09,Asset Management,Financial Services
+CARS,11.08,Internet Content & Information,Communication Services
+WEA,11.08,Asset Management,Financial Services
+WLAC,11.08,Shell Companies,Financial Services
+ERIC,11.07,Communication Equipment,Technology
+NGD,11.06,Gold,Basic Materials
+VPV,11.06,Asset Management,Financial Services
+RAND,11.06,Asset Management,Financial Services
+VLT,11.06,Asset Management,Financial Services
+AFB,11.06,Asset Management,Financial Services
+FSM,11.05,Gold,Basic Materials
+BYM,11.05,Asset Management,Financial Services
+INKT,11.04,Biotechnology,Healthcare
+ZGN,11.04,Apparel Manufacturing,Consumer Cyclical
+MRAM,11.03,Semiconductors,Technology
+TWI,11.02,Farm & Heavy Construction Machinery,Industrials
+SPMC,11.01,Asset Management,Financial Services
+EVOK,11.0,Drug Manufacturers - Specialty & Generic,Healthcare
+PELIU,11.0,Shell Companies,Financial Services
+SMX,11.0,Specialty Business Services,Industrials
+SIF,11.0,Aerospace & Defense,Industrials
+NVCR,10.99,Medical Devices,Healthcare
+SVM,10.98,Silver,Basic Materials
+DJT,10.98,Internet Content & Information,Communication Services
+SSYS,10.97,Computer Hardware,Technology
+UBFO,10.97,Banks - Regional,Financial Services
+FLYW,10.97,Software - Infrastructure,Technology
+ANGO,10.97,Medical Instruments & Supplies,Healthcare
+MVT,10.95,Asset Management,Financial Services
+CARL,10.95,Health Information Services,Healthcare
+TTI,10.94,Conglomerates,Industrials
+NEOG,10.94,Diagnostics & Research,Healthcare
+OWLT,10.93,Medical Devices,Healthcare
+LEGT,10.92,Shell Companies,Financial Services
+EEA,10.91,Asset Management,Financial Services
+DTSQ,10.9,Shell Companies,Financial Services
+RFIL,10.89,Electrical Equipment & Parts,Industrials
+LBTYA,10.89,Telecom Services,Communication Services
+ADUR,10.89,Pollution & Treatment Controls,Industrials
+TRDA,10.88,Biotechnology,Healthcare
+MBAVU,10.88,Shell Companies,Financial Services
+HQI,10.87,Staffing & Employment Services,Industrials
+RTACU,10.86,Shell Companies,Financial Services
+PRAA,10.86,Credit Services,Financial Services
+FSHP,10.85,Shell Companies,Financial Services
+EBS,10.83,Drug Manufacturers - Specialty & Generic,Healthcare
+ACEL,10.83,Gambling,Consumer Cyclical
+GRF,10.82,Asset Management,Financial Services
+PTRN,10.82,Software - Application,Technology
+RFAI,10.8,Shell Companies,Financial Services
+CPAC,10.8,Building Materials,Basic Materials
+XIFR,10.79,Utilities - Renewable,Utilities
+FVNNU,10.79,Shell Companies,Financial Services
+CKX,10.79,Oil & Gas E&P,Energy
+MUC,10.78,Asset Management,Financial Services
+BEAGU,10.78,Shell Companies,Financial Services
+AI,10.78,Software - Infrastructure,Technology
+MED,10.77,Personal Services,Consumer Cyclical
+BHV,10.77,Asset Management,Financial Services
+NIQ,10.77,Unknown,Unknown
+BKKT,10.77,Software - Infrastructure,Technology
+ALDFU,10.76,Shell Companies,Financial Services
+GPAT,10.76,Shell Companies,Financial Services
+BTZ,10.76,Asset Management,Financial Services
+GRAF,10.75,Shell Companies,Financial Services
+KFIIU,10.75,Shell Companies,Financial Services
+LBTYK,10.75,Telecom Services,Communication Services
+NG,10.75,Gold,Basic Materials
+NHICU,10.75,Unknown,Unknown
+SVAC,10.75,Unknown,Unknown
+CAPN,10.74,Shell Companies,Financial Services
+ALF,10.73,Shell Companies,Financial Services
+NMCO,10.73,Asset Management,Financial Services
+MYD,10.72,Asset Management,Financial Services
+ETHMU,10.71,Shell Companies,Financial Services
+MACI,10.7,Shell Companies,Financial Services
+MBAV,10.7,Shell Companies,Financial Services
+CUB,10.7,Shell Companies,Financial Services
+TVA,10.7,Shell Companies,Financial Services
+CCIXU,10.7,Shell Companies,Financial Services
+BLUWU,10.7,Shell Companies,Financial Services
+IPCXU,10.7,Shell Companies,Financial Services
+MMU,10.69,Asset Management,Financial Services
+OACCU,10.69,Shell Companies,Financial Services
+ELPC,10.69,Utilities - Regulated Electric,Utilities
+HLIT,10.68,Communication Equipment,Technology
+SIMA,10.68,Shell Companies,Financial Services
+VACH,10.67,Shell Companies,Financial Services
+ARX,10.67,Insurance Brokers,Financial Services
+PMO,10.67,Asset Management,Financial Services
+YHNA,10.66,Shell Companies,Financial Services
+AAM,10.66,Shell Companies,Financial Services
+AWF,10.65,Asset Management,Financial Services
+LPAA,10.65,Shell Companies,Financial Services
+IBAC,10.65,Shell Companies,Financial Services
+CCIX,10.65,Shell Companies,Financial Services
+SBXD,10.64,Shell Companies,Financial Services
+CGCTU,10.64,Shell Companies,Financial Services
+PHOE,10.64,Engineering & Construction,Industrials
+FULC,10.63,Biotechnology,Healthcare
+ALISU,10.63,Shell Companies,Financial Services
+OACC,10.63,Shell Companies,Financial Services
+VGM,10.62,Asset Management,Financial Services
+ARI,10.62,REIT - Mortgage,Real Estate
+WBTN,10.61,Internet Content & Information,Communication Services
+VCIC,10.61,Shell Companies,Financial Services
+RAAQU,10.61,Shell Companies,Financial Services
+FGMCU,10.61,Shell Companies,Financial Services
+NBH,10.61,Asset Management,Financial Services
+NMZ,10.6,Asset Management,Financial Services
+TACHU,10.6,Shell Companies,Financial Services
+AACBU,10.6,Shell Companies,Financial Services
+PMTRU,10.6,Shell Companies,Financial Services
+FERAU,10.6,Shell Companies,Financial Services
+POLE,10.59,Shell Companies,Financial Services
+GIG,10.59,Shell Companies,Financial Services
+LPBB,10.58,Shell Companies,Financial Services
+NPCT,10.58,Asset Management,Financial Services
+ATII,10.58,Shell Companies,Financial Services
+PLMKU,10.57,Shell Companies,Financial Services
+RITM,10.57,REIT - Mortgage,Real Estate
+AVPT,10.56,Software - Infrastructure,Technology
+HVIIU,10.56,Shell Companies,Financial Services
+APACU,10.56,Shell Companies,Financial Services
+PAGS,10.55,Software - Infrastructure,Technology
+RTAC,10.55,Shell Companies,Financial Services
+DMAAU,10.55,Shell Companies,Financial Services
+KCHVU,10.55,Unknown,Unknown
+PX,10.54,Asset Management,Financial Services
+BLE,10.54,Asset Management,Financial Services
+ALDF,10.53,Shell Companies,Financial Services
+CHAR,10.53,Shell Companies,Financial Services
+SUPV,10.52,Banks - Regional,Financial Services
+ADSE,10.52,Electrical Equipment & Parts,Industrials
+BACQ,10.52,Shell Companies,Financial Services
+TDAC,10.51,Shell Companies,Financial Services
+NTWO,10.51,Shell Companies,Financial Services
+LOCO,10.51,Restaurants,Consumer Cyclical
+BEAG,10.51,Shell Companies,Financial Services
+LUXE,10.51,Luxury Goods,Consumer Cyclical
+TAVI,10.51,Shell Companies,Financial Services
+RILYL,10.51,Financial Conglomerates,Financial Services
+INTT,10.5,Semiconductor Equipment & Materials,Technology
+JACS,10.5,Shell Companies,Financial Services
+SDHIU,10.5,Shell Companies,Financial Services
+NDMO,10.5,Asset Management,Financial Services
+CHAC,10.5,Shell Companies,Financial Services
+RANG,10.5,Shell Companies,Financial Services
+PLMK,10.49,Shell Companies,Financial Services
+PGZ,10.49,Asset Management,Financial Services
+GTENU,10.48,Unknown,Unknown
+FACT,10.48,Unknown,Unknown
+DRDB,10.47,Shell Companies,Financial Services
+VFL,10.46,Asset Management,Financial Services
+RIBB,10.46,Shell Companies,Financial Services
+MLAC,10.46,Unknown,Unknown
+PAVM,10.45,Medical Devices,Healthcare
+PGAC,10.45,Shell Companies,Financial Services
+RDAGU,10.45,Shell Companies,Financial Services
+MXC,10.45,Oil & Gas E&P,Energy
+DMAA,10.44,Shell Companies,Financial Services
+DNP,10.44,Asset Management,Financial Services
+CEPO,10.44,Shell Companies,Financial Services
+CCIIU,10.44,Shell Companies,Financial Services
+RIBBU,10.44,Shell Companies,Financial Services
+COLA,10.43,Shell Companies,Financial Services
+NHIC,10.43,Unknown,Unknown
+CEPF,10.43,Shell Companies,Financial Services
+NPACU,10.43,Shell Companies,Financial Services
+RAC,10.42,Shell Companies,Financial Services
+CEV,10.42,Asset Management,Financial Services
+UMC,10.42,Semiconductors,Technology
+CRAQU,10.41,Unknown,Unknown
+COMP,10.41,Real Estate Services,Real Estate
+TRVI,10.4,Biotechnology,Healthcare
+LCCCU,10.4,Shell Companies,Financial Services
+SGC,10.4,Apparel Manufacturing,Consumer Cyclical
+TDACU,10.4,Shell Companies,Financial Services
+SVCC,10.4,Shell Companies,Financial Services
+SZZLU,10.4,Shell Companies,Financial Services
+HCMAU,10.4,Shell Companies,Financial Services
+WENNU,10.39,Unknown,Unknown
+KFII,10.39,Shell Companies,Financial Services
+IQI,10.39,Asset Management,Financial Services
+BNTC,10.38,Biotechnology,Healthcare
+OYSEU,10.38,Shell Companies,Financial Services
+DAAQU,10.38,Shell Companies,Financial Services
+CLF,10.38,Steel,Basic Materials
+APADU,10.38,Shell Companies,Financial Services
+LADR,10.38,REIT - Mortgage,Real Estate
+AOD,10.36,Asset Management,Financial Services
+FLO,10.36,Packaged Foods,Consumer Defensive
+AACB,10.36,Shell Companies,Financial Services
+PMTR,10.35,Shell Companies,Financial Services
+BLUW,10.35,Shell Companies,Financial Services
+PELI,10.35,Shell Companies,Financial Services
+ETHM,10.35,Shell Companies,Financial Services
+GTEN,10.35,Unknown,Unknown
+IAS,10.34,Advertising Agencies,Communication Services
+NOEM,10.34,Shell Companies,Financial Services
+ONCHU,10.34,Shell Companies,Financial Services
+TACOU,10.33,Shell Companies,Financial Services
+LOKV,10.32,Shell Companies,Financial Services
+NPAC,10.32,Shell Companies,Financial Services
+PSKY,10.32,Entertainment,Communication Services
+COPL,10.32,Shell Companies,Financial Services
+MAYA,10.32,Unknown,Unknown
+CHA,10.31,Restaurants,Consumer Cyclical
+UYSC,10.31,Shell Companies,Financial Services
+CHPG,10.31,Shell Companies,Financial Services
+GSHR,10.3,Shell Companies,Financial Services
+SFL,10.3,Marine Shipping,Industrials
+CGCT,10.3,Shell Companies,Financial Services
+TLNCU,10.3,Shell Companies,Financial Services
+HVII,10.3,Shell Companies,Financial Services
+MHN,10.3,Asset Management,Financial Services
+KNOP,10.3,Oil & Gas Midstream,Energy
+MBVIU,10.29,Shell Companies,Financial Services
+QSEA,10.29,Shell Companies,Financial Services
+RAAQ,10.29,Shell Companies,Financial Services
+IPOD,10.29,Shell Companies,Financial Services
+FRMI,10.29,Unknown,Unknown
+LKSPU,10.29,Shell Companies,Financial Services
+TRAK,10.29,Software - Application,Technology
+CCII,10.29,Shell Companies,Financial Services
+GIWWU,10.28,Unknown,Unknown
+GSRFU,10.28,Shell Companies,Financial Services
+OBAWU,10.28,Shell Companies,Financial Services
+LCID,10.28,Auto Manufacturers,Consumer Cyclical
+SDHI,10.28,Shell Companies,Financial Services
+JENA,10.28,Unknown,Unknown
+GO,10.28,Grocery Stores,Consumer Defensive
+TACH,10.28,Shell Companies,Financial Services
+INACU,10.28,Shell Companies,Financial Services
+MFIN,10.27,Credit Services,Financial Services
+MNTN,10.27,Software - Application,Technology
+PCAPU,10.27,Shell Companies,Financial Services
+FERA,10.27,Shell Companies,Financial Services
+MCGAU,10.27,Unknown,Unknown
+ALLT,10.26,Software - Infrastructure,Technology
+PBI,10.25,Integrated Freight & Logistics,Industrials
+BACQU,10.25,Shell Companies,Financial Services
+FIGS,10.25,Apparel Manufacturing,Consumer Cyclical
+LCCC,10.25,Shell Companies,Financial Services
+EVCM,10.25,Software - Infrastructure,Technology
+LIEN,10.25,Asset Management,Financial Services
+AXINU,10.24,Shell Companies,Financial Services
+SHLS,10.24,Solar,Technology
+VNMEU,10.24,Shell Companies,Financial Services
+FNWB,10.24,Banks - Regional,Financial Services
+NTHI,10.24,Biotechnology,Healthcare
+CHPGU,10.24,Shell Companies,Financial Services
+SPEGU,10.23,Shell Companies,Financial Services
+CAEP,10.23,Shell Companies,Financial Services
+PACHU,10.23,Shell Companies,Financial Services
+CRGY,10.23,Oil & Gas E&P,Energy
+SZZL,10.23,Shell Companies,Financial Services
+CTLP,10.22,Software - Infrastructure,Technology
+SOUL,10.22,Shell Companies,Financial Services
+EXOZ,10.22,Biotechnology,Healthcare
+DAAQ,10.22,Shell Companies,Financial Services
+ONCH,10.21,Shell Companies,Financial Services
+EGHA,10.21,Shell Companies,Financial Services
+HCMA,10.21,Shell Companies,Financial Services
+BLZRU,10.21,Unknown,Unknown
+RDAG,10.21,Shell Companies,Financial Services
+MQT,10.21,Asset Management,Financial Services
+NRK,10.21,Asset Management,Financial Services
+LWACU,10.21,Unknown,Unknown
+ANIK,10.21,Drug Manufacturers - Specialty & Generic,Healthcare
+OTGAU,10.2,Shell Companies,Financial Services
+ORIQ,10.2,Shell Companies,Financial Services
+AHCO,10.2,Medical Devices,Healthcare
+BSAA,10.2,Shell Companies,Financial Services
+BNY,10.2,Asset Management,Financial Services
+HVMCU,10.2,Shell Companies,Financial Services
+BACC,10.19,Shell Companies,Financial Services
+TVAI,10.19,Shell Companies,Financial Services
+RNGTU,10.19,Unknown,Unknown
+SOCAU,10.19,Shell Companies,Financial Services
+FEDU,10.19,Education & Training Services,Consumer Defensive
+FIGXU,10.19,Shell Companies,Financial Services
+TACO,10.19,Shell Companies,Financial Services
+NMI,10.19,Asset Management,Financial Services
+MKLYU,10.18,Shell Companies,Financial Services
+WENN,10.18,Unknown,Unknown
+NMPAU,10.18,Unknown,Unknown
+CRAQ,10.18,Unknown,Unknown
+KCHV,10.18,Unknown,Unknown
+PCAP,10.17,Unknown,Unknown
+EMBC,10.17,Medical Instruments & Supplies,Healthcare
+LATAU,10.17,Shell Companies,Financial Services
+RILYP,10.16,Financial Conglomerates,Financial Services
+KOYNU,10.16,Shell Companies,Financial Services
+IPCX,10.16,Shell Companies,Financial Services
+EIC,10.16,Asset Management,Financial Services
+TLNC,10.16,Shell Companies,Financial Services
+SOCA,10.15,Shell Companies,Financial Services
+GTERA,10.15,Shell Companies,Financial Services
+MCGA,10.14,Unknown,Unknown
+STRR,10.14,Conglomerates,Industrials
+PAII,10.13,Unknown,Unknown
+VNME,10.13,Shell Companies,Financial Services
+EVAC,10.13,Shell Companies,Financial Services
+SPEG,10.13,Shell Companies,Financial Services
+ADTN,10.13,Communication Equipment,Technology
+OYSE,10.13,Shell Companies,Financial Services
+BDCIU,10.13,Shell Companies,Financial Services
+LAFAU,10.12,Shell Companies,Financial Services
+FIGX,10.12,Unknown,Unknown
+MMTXU,10.12,Shell Companies,Financial Services
+BCAR,10.11,Shell Companies,Financial Services
+DEI,10.11,REIT - Office,Real Estate
+ISOU,10.11,Uranium,Energy
+AXIN,10.11,Shell Companies,Financial Services
+LWAC,10.11,Unknown,Unknown
+MBVI,10.11,Unknown,Unknown
+HAVAU,10.11,Shell Companies,Financial Services
+APXTU,10.1,Shell Companies,Financial Services
+INAC,10.1,Shell Companies,Financial Services
+PACH,10.1,Shell Companies,Financial Services
+QUMSU,10.1,Shell Companies,Financial Services
+APAD,10.1,Shell Companies,Financial Services
+CHECU,10.1,Shell Companies,Financial Services
+OBA,10.1,Shell Companies,Financial Services
+BFK,10.09,Asset Management,Financial Services
+DMIIU,10.08,Shell Companies,Financial Services
+FGMC,10.08,Shell Companies,Financial Services
+GRND,10.08,Software - Application,Technology
+BTDR,10.08,Software - Application,Technology
+NMP,10.08,Unknown,Unknown
+VALN,10.08,Biotechnology,Healthcare
+MUE,10.07,Asset Management,Financial Services
+YCY,10.07,Shell Companies,Financial Services
+DSGN,10.07,Biotechnology,Healthcare
+SSEA,10.07,Shell Companies,Financial Services
+QUMS,10.07,Shell Companies,Financial Services
+VLRS,10.07,Airlines,Industrials
+HLMN,10.06,Tools & Accessories,Industrials
+BDCI,10.06,Shell Companies,Financial Services
+HNNA,10.06,Asset Management,Financial Services
+DSU,10.05,Asset Management,Financial Services
+HVMC,10.05,Unknown,Unknown
+MPAA,10.04,Auto Parts,Consumer Cyclical
+MKLY,10.03,Shell Companies,Financial Services
+VET,10.03,Oil & Gas E&P,Energy
+EMIS,10.03,Unknown,Unknown
+KOYN,10.03,Shell Companies,Financial Services
+MYN,10.02,Asset Management,Financial Services
+GSRF,10.02,Shell Companies,Financial Services
+TASK,10.02,Information Technology Services,Technology
+WB,10.01,Internet Content & Information,Communication Services
+DYORU,10.0,Shell Companies,Financial Services
+GIW,10.0,Unknown,Unknown
